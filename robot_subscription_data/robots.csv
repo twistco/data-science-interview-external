@@ -1,0 +1,601 @@
+robot_id,robot_type,model,manufacturer,serial_number,purchase_date,purchase_price,current_value,weight_kg,battery_life_minutes,condition,location,age_months,last_maintenance
+8193afcc-1f65-4672-b1a2-5b3a96eb1a8f,cleaning,IndustriClean Pro,CleanBot Industries,CLE14165,2024-12-11,9897.84,8174.5,58.2,422.0,excellent,Maintenance Shop,8.7,2024-12-17
+11fdb9c7-ce37-4478-9311-18ba1f2d8b5c,cleaning,IndustriClean Pro,FloorTech Solutions,CLE64987,2024-03-20,9653.22,1930.64,128.0,540.0,fair,Warehouse C,17.4,2024-07-16
+94e20f1f-2f7c-4386-b833-ef5702325bb0,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR54118,2025-02-20,129990.2,113421.15,633.0,627.0,excellent,Customer Deployed,6.4,2025-07-01
+6a9b50be-528d-4471-b3e6-cb493ff051c6,cleaning,IndustriClean Pro,Automated Sanitation Corp,CLE59615,2025-06-14,6934.33,6569.84,163.1,572.0,excellent,Warehouse A,2.6,2025-06-20
+11785957-f388-4d6a-9406-0b0d610e3baf,cleaning,AutoScrub Elite,CleanBot Industries,CLE20458,2024-07-06,16547.04,5050.0,157.8,350.0,fair,Warehouse C,13.9,2024-07-18
+2a1b7272-4c74-4607-ad2c-d34383d3e54f,warehouse,WarehouseBot X7,Industrial Robotics Ltd,WAR44993,2024-02-08,74187.23,14837.45,1268.9,661.0,fair,Warehouse A,18.8,2024-11-23
+d6ef9ebd-79b4-40a9-9733-a9695e3b9830,cleaning,FloorMaster 5000,FloorTech Solutions,CLE99733,2023-09-21,8268.05,1653.61,106.7,398.0,maintenance,Maintenance Shop,23.4,2024-02-09
+0029a9c2-8b03-466b-878b-038f6da1b6d5,construction,BuildBot Heavy,BuildTech Industries,CON84341,2024-12-19,259905.58,150188.54,4684.4,516.0,fair,Warehouse A,8.4,2025-05-08
+93bb8ae9-b220-49a8-ad09-9a04772bb8e8,construction,ConstructMaster Pro,Site Automation Ltd,CON44438,2024-02-09,164017.18,102483.8,4138.8,497.0,excellent,Warehouse A,18.8,2025-01-10
+727f8ed4-c58c-4d77-9610-69df5089c682,manufacturing,ProductionLine Elite,Industrial Assembly Ltd,MAN92240,2025-04-14,134569.06,122102.41,2699.7,705.0,excellent,Customer Deployed,4.6,2025-04-14
+41a16cf7-b0d3-40da-a1e4-de05e426cd97,warehouse,InventoryBot Elite,Warehouse Robotics Inc,WAR99166,2025-04-12,85400.57,77376.73,1245.5,546.0,excellent,Warehouse B,4.7,2025-07-20
+639ef2d2-8212-444f-803d-675adab919af,cleaning,AutoScrub Elite,CleanBot Industries,CLE44522,2024-05-07,7231.04,3788.93,102.6,504.0,good,Warehouse C,15.9,2024-07-21
+8fa67d03-28ec-4071-b82e-7788d5eed490,warehouse,WarehouseBot X7,Storage Solutions Corp,WAR79514,2025-07-31,133375.28,130483.44,1336.8,654.0,excellent,Warehouse A,1.1,2025-08-11
+d7ef64ba-103e-437c-8d82-1e97b7fa5ac4,cleaning,AutoScrub Elite,Automated Sanitation Corp,CLE17592,2023-11-08,5389.53,1862.61,184.8,524.0,good,Warehouse B,21.8,2024-01-11
+a47a87d7-38e9-46a9-8b04-e88888bcd891,warehouse,WarehouseBot X7,Warehouse Robotics Inc,WAR96474,2025-05-12,121850.3,108280.24,2229.9,692.0,good,Warehouse A,3.7,2025-07-19
+62809c7b-a124-4c2d-853d-742962242cbc,manufacturing,PrecisionArm X12,Industrial Assembly Ltd,MAN50857,2025-04-13,239409.09,217072.63,2498.4,1240.0,excellent,Warehouse C,4.7,2025-07-25
+8b6c03d1-7fbc-45d6-8735-487824b74be8,manufacturing,FactoryWorker AI,Production Systems Group,MAN87128,2024-09-27,365868.79,284137.26,1632.0,563.0,excellent,Warehouse C,11.2,2025-08-23
+08472725-d45b-46a3-afc3-22c95e3ed566,warehouse,WarehouseBot X7,Warehouse Robotics Inc,WAR46500,2024-06-04,119323.3,83651.75,600.2,471.0,excellent,Warehouse A,14.9,2025-02-10
+5825e6b2-fd4d-428e-be32-5065919d56b3,manufacturing,PrecisionArm X12,Precision Automation Corp,MAN63354,2025-04-29,305939.87,242621.17,3146.1,854.0,fair,Maintenance Shop,4.1,2025-07-15
+f0fd2869-9a54-4a0f-93f2-e0651546022c,warehouse,WarehouseBot X7,Warehouse Robotics Inc,WAR95649,2025-05-23,114193.19,102713.85,1158.7,626.0,good,Warehouse B,3.4,2025-07-20
+82429d5d-029a-466b-851f-d374233c457c,cleaning,IndustriClean Pro,Automated Sanitation Corp,CLE34050,2025-01-28,19564.27,16774.88,175.7,361.0,excellent,Customer Deployed,7.1,2025-02-06
+8a24de48-1c7a-4b36-a575-effe4459b33d,construction,Foundation Elite,BuildTech Industries,CON95477,2024-02-15,271759.34,54351.87,1387.3,520.0,fair,Warehouse B,18.6,2024-07-27
+f12353cd-c436-4573-9b65-ada5d135122f,cleaning,IndustriClean Pro,FloorTech Solutions,CLE61173,2023-10-30,8326.22,4644.52,103.5,307.0,excellent,Warehouse B,22.1,2024-04-03
+9f8da72b-f6a8-426f-ac51-ad6e6b3f3f9b,construction,Foundation Elite,Heavy Machinery Robotics,CON48890,2023-11-14,170176.68,96604.9,4816.3,649.0,excellent,Customer Deployed,21.6,2024-05-14
+b705d5b2-1473-4897-a923-336a4a78a7db,warehouse,WarehouseBot X7,Warehouse Robotics Inc,WAR30635,2024-12-09,123537.43,69357.91,688.4,643.0,fair,Warehouse A,8.8,2025-03-16
+dcb87174-9cd9-474f-80eb-109edc405cbd,cleaning,IndustriClean Pro,FloorTech Solutions,CLE84668,2024-05-29,6370.43,1546.57,58.5,367.0,fair,Warehouse B,15.1,2024-09-02
+aee4b60d-fe76-47d2-8caf-0f4ef1c10c81,warehouse,WarehouseBot X7,Warehouse Robotics Inc,WAR51180,2024-03-14,89018.62,41906.6,1244.2,663.0,good,Warehouse B,17.6,2025-07-29
+49eeaa74-0e6c-4bc9-a78c-076ca7e9de60,warehouse,ShelfStacker AI,Industrial Robotics Ltd,WAR91416,2024-12-18,58742.22,48784.6,1308.9,971.0,excellent,Customer Deployed,8.5,2025-05-24
+7b6ecdd4-adfc-44e1-82f2-5afd7ca74ba4,cleaning,IndustriClean Pro,FloorTech Solutions,CLE47353,2024-01-04,15117.69,3023.54,77.2,243.0,maintenance,Maintenance Shop,19.9,2025-03-21
+203b4014-2e18-4bc4-a65b-d588f6dd9300,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR49240,2023-12-30,109226.17,21845.23,2369.5,648.0,fair,Maintenance Shop,20.1,2024-08-18
+134ef2b1-647e-496a-8f91-0344ac4bc161,cleaning,FloorMaster 5000,CleanBot Industries,CLE54942,2025-08-24,7308.57,7243.74,60.2,312.0,good,Warehouse C,0.3,2025-08-29
+4295aa46-a50b-4ed0-9308-2b174e700afa,warehouse,ShelfStacker AI,Industrial Robotics Ltd,WAR15778,2024-10-12,71367.73,33268.99,1508.7,853.0,fair,Warehouse A,10.7,2025-05-22
+109ab7f3-5ce8-48ce-a0dc-a11834dc3f47,cleaning,AutoScrub Elite,FloorTech Solutions,CLE19862,2025-05-09,17742.27,16390.03,109.1,367.0,excellent,Customer Deployed,3.8,2025-08-07
+c0cc157f-8b7e-4dfb-b9a6-a140f10e6de6,warehouse,WarehouseBot X7,Storage Solutions Corp,WAR15229,2024-02-16,106163.5,66823.02,749.8,598.0,excellent,Warehouse B,18.5,2024-03-05
+84136bcb-d10d-49a4-a28c-dfa168d1317c,construction,ConstructMaster Pro,BuildTech Industries,CON30257,2024-04-19,225060.02,113934.79,2669.3,624.0,good,Warehouse A,16.5,2024-08-31
+c9b575f8-3a9f-467b-bd46-9b8206d9fae6,warehouse,LogiMover Pro,LogiTech Automation,WAR97806,2024-02-03,137548.7,27509.74,655.9,608.0,fair,Warehouse B,19.0,2025-07-31
+43eccb35-c88e-4e8d-bffe-2dfedc0c2446,warehouse,ShelfStacker AI,LogiTech Automation,WAR70332,2025-06-02,127674.32,119956.82,835.4,648.0,excellent,Warehouse B,3.0,2025-06-30
+284c1592-e326-4134-b030-d63cb02ee95e,construction,SiteWorker AI,BuildTech Industries,CON56025,2024-12-23,125157.8,104352.99,3142.4,478.0,excellent,Customer Deployed,8.3,2025-04-02
+e02c4cd1-c348-4610-9f0a-f2f4968a2a3f,manufacturing,FactoryWorker AI,Manufacturing Robotics Inc,MAN66959,2025-06-30,99216.2,95044.17,2440.4,1117.0,excellent,Customer Deployed,2.1,2025-07-29
+1c296bea-04c3-493b-8299-b189b3b48479,construction,SiteWorker AI,Site Automation Ltd,CON67154,2024-03-13,211396.99,42279.4,3288.6,586.0,maintenance,Maintenance Shop,17.7,2024-07-23
+425088b3-ec93-4593-9b53-021f8fd8c9a4,cleaning,FloorMaster 5000,CleanBot Industries,CLE26334,2024-10-15,13625.95,9301.81,189.3,506.0,good,Warehouse A,10.6,2025-01-07
+9ee32db2-df50-4a45-9b3e-8ca991a5feed,construction,SiteWorker AI,Site Automation Ltd,CON32810,2024-11-01,148391.15,118654.42,3396.0,528.0,excellent,Customer Deployed,10.0,2025-08-01
+a299596a-2297-497a-bf89-4eb03d16378a,construction,Foundation Elite,Construction Robotics Corp,CON67905,2024-06-19,143371.86,39752.25,1610.7,488.0,fair,Warehouse C,14.5,2024-09-23
+1441f98e-8428-4bee-9683-d072a2af8bc8,manufacturing,PrecisionArm X12,Production Systems Group,MAN97012,2025-08-30,329870.04,328894.73,3530.0,992.0,good,Warehouse A,0.1,2025-08-31
+b063379c-1071-4c96-bc63-ec23d6eecad8,construction,BuildBot Heavy,BuildTech Industries,CON72277,2023-11-07,226379.03,78013.01,1847.6,347.0,good,Warehouse A,21.8,2023-12-08
+e6e4eaa9-2a33-4995-98e6-25a9b105bea9,cleaning,SaniBot AI,Automated Sanitation Corp,CLE29342,2023-11-21,22722.74,4544.55,165.7,405.0,fair,Warehouse C,21.4,2025-01-02
+bae143fe-b47a-4563-9b12-dd7e3ed24e83,cleaning,IndustriClean Pro,Automated Sanitation Corp,CLE25906,2025-04-02,9376.82,8434.21,160.2,445.0,excellent,Warehouse A,5.0,2025-06-05
+4ae9b7ad-386d-4c9a-86f3-54d6a6365404,manufacturing,PrecisionArm X12,Production Systems Group,MAN90301,2023-10-18,286976.43,93239.06,3497.4,1288.0,good,Warehouse B,22.5,2024-07-05
+47906df0-9cfe-4c37-935d-a26c3083a587,manufacturing,ProductionLine Elite,Precision Automation Corp,MAN78327,2025-08-29,312842.85,311609.57,1704.6,890.0,good,Warehouse C,0.1,2025-08-31
+0f697a39-c706-48ee-bc6b-9777c12428bb,manufacturing,PrecisionArm X12,Industrial Assembly Ltd,MAN20561,2025-08-10,209556.68,204806.55,1885.7,986.0,good,Warehouse B,0.8,2025-08-29
+07ad470d-eb69-412c-b5d8-ba654ee8e673,warehouse,LogiMover Pro,LogiTech Automation,WAR18161,2023-09-10,85218.71,44737.02,614.6,560.0,excellent,Warehouse C,23.8,2025-02-12
+87a04557-e370-499f-bde7-3bd2b7689173,warehouse,InventoryBot Elite,Industrial Robotics Ltd,WAR59857,2025-01-11,140008.04,107719.72,1663.3,912.0,good,Warehouse C,7.7,2025-05-16
+6afad737-b1ad-40d4-b4bb-93c592fe2a71,manufacturing,AssemblyBot Pro,Industrial Assembly Ltd,MAN81582,2024-03-14,161528.3,32305.66,1323.6,908.0,fair,Warehouse B,17.6,2025-02-21
+bbc53acb-0fb3-4b67-b6a6-0d2b793f5a6b,warehouse,InventoryBot Elite,LogiTech Automation,WAR31632,2023-11-22,73658.21,26472.43,1078.3,679.0,good,Warehouse B,21.4,2024-08-30
+d9020f6e-3eb7-4cce-ad71-9f46826a4237,manufacturing,PrecisionArm X12,Manufacturing Robotics Inc,MAN33819,2024-07-29,368355.81,271547.45,2275.6,774.0,excellent,Warehouse A,13.1,2025-08-14
+6c4dc44c-a2cc-45f0-afc3-5794945b6256,cleaning,AutoScrub Elite,Automated Sanitation Corp,CLE65255,2025-06-02,11547.05,10849.07,102.5,431.0,excellent,Warehouse C,3.0,2025-06-26
+a1214f67-39db-4c6e-96ae-e433c9c9709c,construction,BuildBot Heavy,Site Automation Ltd,CON95426,2024-09-01,79361.24,50734.88,3065.5,575.0,good,Warehouse B,12.0,2024-11-05
+8461448f-5b43-4507-bfd8-b1bba4e592ec,cleaning,IndustriClean Pro,FloorTech Solutions,CLE83920,2025-06-29,8987.21,8027.67,44.1,279.0,fair,Warehouse A,2.1,2025-08-24
+c6b66197-8876-47bb-8751-2f2b8d42ce37,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR31465,2024-04-06,125524.3,61937.42,888.6,609.0,good,Customer Deployed,16.9,2025-02-28
+c404b6dc-5906-4362-96e2-6c0bbfa85e73,construction,BuildBot Heavy,Construction Robotics Corp,CON87607,2024-11-19,283999.61,230446.46,4095.0,622.0,excellent,Customer Deployed,9.4,2025-01-01
+cb16e849-8480-492c-ab93-d3258769cc84,warehouse,WarehouseBot X7,Storage Solutions Corp,WAR66148,2025-03-11,134280.79,118841.15,1451.5,956.0,excellent,Warehouse A,5.7,2025-06-13
+995c3985-3b79-43cd-9c32-bac65637499b,construction,BuildBot Heavy,Heavy Machinery Robotics,CON70258,2025-03-23,77846.73,69509.66,2302.8,451.0,excellent,Maintenance Shop,5.4,2025-06-17
+20901900-01fa-4f19-87f2-a0d385570b02,warehouse,InventoryBot Elite,LogiTech Automation,WAR73372,2023-09-02,122048.51,24409.7,2106.1,850.0,fair,Warehouse C,24.0,2024-04-25
+535e26e6-ecd0-40eb-b47f-e10ce1f5d0d3,manufacturing,ProductionLine Elite,Industrial Assembly Ltd,MAN70910,2023-09-16,169583.56,33916.71,950.2,694.0,fair,Customer Deployed,23.6,2025-07-13
+9825a413-acad-4538-b31c-d1ef11bab624,manufacturing,FactoryWorker AI,Manufacturing Robotics Inc,MAN88139,2025-06-04,228064.21,214578.15,1056.9,693.0,excellent,Customer Deployed,3.0,2025-08-17
+8efbe80a-8685-42f0-904b-4aff0d9f6017,construction,BuildBot Heavy,BuildTech Industries,CON94659,2024-04-13,94262.92,18852.58,3433.1,708.0,fair,Warehouse B,16.7,2024-05-12
+485a0bb1-f124-4411-8257-65eebc8aa67d,manufacturing,ProductionLine Elite,Manufacturing Robotics Inc,MAN72031,2025-06-03,91638.14,83419.61,842.9,722.0,good,Customer Deployed,3.0,2025-08-28
+a813125d-989a-4466-b6ab-fa7be3d05186,construction,Foundation Elite,Heavy Machinery Robotics,CON51359,2023-11-03,154157.37,52516.82,2330.5,434.0,good,Warehouse A,22.0,2024-09-23
+1a11b624-1121-4a34-bc4c-8924317b7d82,cleaning,FloorMaster 5000,FloorTech Solutions,CLE47093,2023-10-22,9327.69,3067.35,115.9,477.0,good,Warehouse B,22.4,2025-03-22
+586b51fa-e03a-4c2a-a875-b23ed14a6efe,cleaning,FloorMaster 5000,CleanBot Industries,CLE17146,2025-03-14,9549.66,7930.86,61.8,352.0,good,Customer Deployed,5.7,2025-04-05
+6af17cbe-8366-4995-bb44-4d6151015df6,construction,ConstructMaster Pro,Site Automation Ltd,CON43092,2024-08-13,98082.22,73271.67,729.6,460.0,excellent,Warehouse B,12.6,2025-03-12
+f50ca9bf-8f4e-4f2d-9385-fd30d68e6dfb,manufacturing,AssemblyBot Pro,Manufacturing Robotics Inc,MAN83772,2024-03-13,196240.53,92189.21,463.0,576.0,good,Warehouse A,17.7,2025-06-25
+2270b2c0-84a9-4cd1-a4c6-9dacf011f5e9,construction,BuildBot Heavy,BuildTech Industries,CON69049,2024-07-06,101651.6,73400.2,3694.9,642.0,excellent,Warehouse B,13.9,2024-10-03
+615ef8df-605f-45d5-93e5-4d545d64d8d3,manufacturing,FactoryWorker AI,Production Systems Group,MAN37235,2024-09-29,163829.28,72872.81,1822.4,1199.0,fair,Warehouse B,11.1,2025-06-02
+df85fe8b-991a-4b43-bc76-adbe794f5a39,warehouse,ShelfStacker AI,Warehouse Robotics Inc,WAR87832,2024-01-26,61490.99,26038.73,620.0,476.0,good,Warehouse C,19.2,2024-07-26
+5b26ffb4-0d6f-4c40-bf7a-da29d96befc9,manufacturing,FactoryWorker AI,Manufacturing Robotics Inc,MAN91927,2025-08-28,138701.92,138246.26,2077.6,997.0,excellent,Maintenance Shop,0.2,2025-08-31
+e3532888-0cad-4639-ab6d-0e67f4fc22fa,warehouse,InventoryBot Elite,Warehouse Robotics Inc,WAR31747,2024-07-17,102179.05,20435.81,1872.5,761.0,maintenance,Maintenance Shop,13.5,2025-02-15
+e7c70408-f4ae-40ed-b144-669790a229ae,construction,SiteWorker AI,Site Automation Ltd,CON74722,2023-11-29,102979.57,37720.83,3470.7,733.0,good,Warehouse B,21.1,2024-04-21
+4feb0876-9697-4c07-b928-ecaceb542414,manufacturing,AssemblyBot Pro,Manufacturing Robotics Inc,MAN98381,2024-05-05,362403.78,189178.58,2696.8,712.0,good,Warehouse A,15.9,2025-02-14
+b53949db-2beb-4a95-b672-78c629d91aaa,cleaning,AutoScrub Elite,Industrial Clean Systems,CLE67132,2024-02-16,20262.18,12753.72,88.2,331.0,excellent,Warehouse C,18.5,2024-06-19
+c0468874-e147-4d90-bd4b-cc4ee8febdd5,manufacturing,AssemblyBot Pro,Production Systems Group,MAN74942,2023-10-23,178306.76,58810.77,1120.8,878.0,good,Warehouse A,22.3,2024-12-25
+ef3dc69e-82cc-4fbc-88d7-2d12642eb386,construction,Foundation Elite,Construction Robotics Corp,CON77449,2024-02-16,177335.83,78764.14,1833.9,581.0,good,Maintenance Shop,18.5,2025-07-10
+da82bfef-a3e2-4d87-a4a7-3f357db404fb,cleaning,SaniBot AI,Automated Sanitation Corp,CLE45003,2025-05-21,6084.08,5668.35,118.1,355.0,excellent,Customer Deployed,3.4,2025-05-28
+775634cb-5cc5-41cc-a462-a48926122322,warehouse,ShelfStacker AI,Industrial Robotics Ltd,WAR50730,2024-02-22,137488.89,87082.32,1237.7,669.0,excellent,Warehouse B,18.3,2025-03-01
+6065d0af-630b-4e8b-9b5f-b9ff66ff4a1f,cleaning,SaniBot AI,Industrial Clean Systems,CLE30181,2024-02-05,9494.01,1898.8,145.0,605.0,maintenance,Maintenance Shop,18.9,2024-04-21
+2b644432-4e63-498a-a769-029e39a86977,manufacturing,FactoryWorker AI,Industrial Assembly Ltd,MAN88561,2025-07-15,201266.72,194787.04,1433.6,710.0,excellent,Customer Deployed,1.6,2025-08-11
+7f42e0ed-1301-45c3-be3b-79e24d24da3e,warehouse,WarehouseBot X7,Storage Solutions Corp,WAR10336,2024-08-12,126130.89,46159.6,1963.3,790.0,fair,Customer Deployed,12.7,2025-06-10
+8b5afb1f-eddf-4b48-8d90-c1410a7a71eb,construction,SiteWorker AI,Site Automation Ltd,CON52176,2025-04-13,269683.63,244522.61,3064.3,584.0,excellent,Warehouse C,4.7,2025-05-10
+3a9dc342-fa2d-48e1-9134-d65b1116edda,warehouse,LogiMover Pro,Industrial Robotics Ltd,WAR59968,2023-11-11,69524.06,24232.93,1345.2,864.0,good,Warehouse C,21.7,2024-08-21
+3f84b4ff-26fa-49b8-8874-4e0370d7f411,manufacturing,PrecisionArm X12,Production Systems Group,MAN67711,2024-07-07,388040.31,119063.62,826.5,662.0,fair,Warehouse B,13.9,2025-01-20
+ea1ae758-1529-416d-8df5-7689558f03e5,cleaning,SaniBot AI,Industrial Clean Systems,CLE54375,2025-02-15,19448.88,16905.96,133.4,344.0,excellent,Customer Deployed,6.5,2025-06-28
+9ffc5cf9-6402-4204-8b35-6066e318bed3,manufacturing,AssemblyBot Pro,Industrial Assembly Ltd,MAN80912,2025-08-20,349796.05,346808.3,2918.9,939.0,excellent,Warehouse A,0.4,2025-08-21
+609fc4dd-d5a5-4d6f-8478-dc7ea070055c,cleaning,IndustriClean Pro,FloorTech Solutions,CLE93066,2024-06-21,17623.22,12551.62,244.4,516.0,excellent,Customer Deployed,14.4,2024-11-16
+a4bf9ed5-29cf-4aaa-813a-a968113a90ad,cleaning,SaniBot AI,FloorTech Solutions,CLE29080,2025-05-23,18880.02,17614.74,188.1,512.0,excellent,Warehouse C,3.4,2025-06-17
+8c10022d-c574-4669-b2f9-cc33e1ea686c,warehouse,InventoryBot Elite,LogiTech Automation,WAR28758,2024-01-18,62848.28,38361.4,602.5,596.0,excellent,Warehouse B,19.5,2024-10-10
+ffc065c8-e1b2-4692-bbed-09bc5d1f997f,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR81643,2024-07-05,93254.9,54286.36,1469.9,702.0,good,Warehouse C,13.9,2024-10-31
+7c7e5613-92db-4739-9d3c-1f68dc7bf6ea,warehouse,WarehouseBot X7,Industrial Robotics Ltd,WAR49599,2024-03-02,144249.74,92217.48,2159.3,929.0,excellent,Warehouse C,18.0,2025-07-21
+67c3d30a-c241-41ee-9bfc-f1cbbb1142c6,warehouse,InventoryBot Elite,Industrial Robotics Ltd,WAR12875,2024-07-21,56198.59,33601.0,934.6,573.0,good,Maintenance Shop,13.4,2025-07-07
+ac50d163-ce8e-49ce-b3d9-1be045d2902c,manufacturing,FactoryWorker AI,Manufacturing Robotics Inc,MAN47512,2024-10-07,252415.87,197687.07,2632.3,792.0,excellent,Warehouse B,10.8,2024-10-23
+96ac9dba-41f6-4b98-bb7d-c2ab6e86562e,warehouse,ShelfStacker AI,LogiTech Automation,WAR92345,2025-08-31,111844.88,111697.91,1722.4,847.0,excellent,Maintenance Shop,0.1,2025-09-01
+c86c52e3-9829-466a-9b05-c573f7337b59,cleaning,IndustriClean Pro,CleanBot Industries,CLE52823,2025-08-09,20772.21,20280.88,61.0,294.0,good,Warehouse A,0.8,2025-08-31
+b5667ea5-d007-48ee-8784-1d7f8bf83887,manufacturing,PrecisionArm X12,Precision Automation Corp,MAN31567,2025-05-13,104934.33,93351.57,1746.4,1087.0,good,Customer Deployed,3.7,2025-05-31
+5bfaadb1-3d82-48de-afc4-49109ae517c1,construction,Foundation Elite,Heavy Machinery Robotics,CON39571,2024-08-21,242975.85,152698.03,2299.4,549.0,good,Warehouse B,12.4,2024-11-09
+a4369d54-2c20-44dc-8850-8ce88077b496,manufacturing,FactoryWorker AI,Manufacturing Robotics Inc,MAN98125,2024-06-20,328831.87,186561.31,391.9,790.0,good,Warehouse A,14.4,2024-07-15
+86e650d8-18ae-46d3-9d50-c68afb20dff7,construction,Foundation Elite,Heavy Machinery Robotics,CON89964,2024-06-04,99377.87,25105.64,1434.6,579.0,fair,Maintenance Shop,14.9,2025-08-26
+9b1cc7b8-dcf2-431d-91c7-4be758d1f65f,warehouse,WarehouseBot X7,Industrial Robotics Ltd,WAR49893,2024-03-13,140485.7,28097.14,1070.1,559.0,fair,Warehouse B,17.7,2025-05-08
+9b902845-3216-4af8-a611-8d47d19c83de,manufacturing,AssemblyBot Pro,Manufacturing Robotics Inc,MAN80804,2024-07-30,139832.01,84845.51,1537.2,799.0,good,Warehouse C,13.1,2025-01-14
+9ad279df-bd48-4a2e-a0d8-33a673ce7509,manufacturing,PrecisionArm X12,Production Systems Group,MAN58566,2025-07-31,282673.45,273480.06,3022.1,1111.0,good,Customer Deployed,1.1,2025-09-01
+bf892bda-f770-479b-b8ed-a46ec78c19d4,warehouse,InventoryBot Elite,Industrial Robotics Ltd,WAR94518,2024-10-11,144808.29,98283.16,1836.3,814.0,good,Warehouse C,10.7,2025-06-02
+666f35e0-5c3c-45d3-9172-6344e1b0208f,construction,BuildBot Heavy,Site Automation Ltd,CON93819,2023-12-24,137073.32,81415.43,4816.8,629.0,excellent,Customer Deployed,20.3,2024-06-24
+7e8a21a5-e5cf-424d-ad62-98c2adb1cc13,cleaning,IndustriClean Pro,CleanBot Industries,CLE38305,2025-08-09,9871.38,9715.72,62.9,270.0,excellent,Customer Deployed,0.8,2025-08-22
+71527180-97aa-45c1-9203-0ba7ba1a86f2,warehouse,ShelfStacker AI,LogiTech Automation,WAR80807,2024-10-01,127807.59,57269.89,1509.9,1000.0,fair,Warehouse C,11.0,2025-06-09
+ddbc902b-d28b-4bcc-b454-849c69a17f14,construction,ConstructMaster Pro,Construction Robotics Corp,CON32838,2023-10-13,223737.97,122306.17,912.3,521.0,excellent,Warehouse A,22.7,2024-11-19
+cc685ea4-eb98-4ed8-9deb-5d0d8555d1dc,construction,BuildBot Heavy,BuildTech Industries,CON77271,2024-09-03,241886.56,155112.54,3682.8,632.0,good,Warehouse A,12.0,2025-07-10
+d6714c85-4b58-4fd8-b6ec-b462346e4028,cleaning,SaniBot AI,FloorTech Solutions,CLE14082,2023-12-25,23908.31,14216.18,69.8,450.0,excellent,Warehouse B,20.3,2025-08-08
+070cbf2b-1290-4878-994d-3d1fc4ef5d12,cleaning,SaniBot AI,Automated Sanitation Corp,CLE52219,2023-10-30,13525.47,2705.09,62.4,374.0,fair,Warehouse C,22.1,2024-03-03
+004c601f-affc-4f50-8cef-7653783b9a1b,warehouse,WarehouseBot X7,LogiTech Automation,WAR69469,2024-11-09,73876.68,59460.53,1318.7,780.0,excellent,Warehouse C,9.8,2025-05-28
+56fe23a7-942b-4b09-a80f-73efe8c78846,manufacturing,AssemblyBot Pro,Manufacturing Robotics Inc,MAN69186,2024-02-20,349949.53,156810.5,2532.1,1001.0,good,Warehouse B,18.4,2024-04-27
+79dbbb14-9250-4a8e-a1e6-02ef0c9ad30f,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR43408,2025-06-12,131879.02,121221.25,1338.5,663.0,good,Warehouse C,2.7,2025-07-02
+91271f44-3108-4e65-93cf-10ed74667c6c,construction,ConstructMaster Pro,Site Automation Ltd,CON27054,2024-11-08,90104.99,45999.72,3514.8,506.0,fair,Warehouse C,9.8,2025-05-11
+228c932d-2fc0-4a97-aa74-46cfde317afa,cleaning,AutoScrub Elite,Industrial Clean Systems,CLE16743,2024-07-04,13216.17,7680.49,178.9,469.0,good,Warehouse A,14.0,2025-03-09
+6d0b0c2a-a004-4cb9-b5b2-4a99e010cb43,construction,SiteWorker AI,Heavy Machinery Robotics,CON82910,2024-09-17,98310.13,75702.68,2435.6,509.0,excellent,Warehouse A,11.5,2025-08-10
+9f3b3ae2-3261-4a7a-9c92-404d6e3956b5,construction,BuildBot Heavy,Heavy Machinery Robotics,CON90422,2024-01-29,204172.5,87061.73,5252.8,799.0,good,Maintenance Shop,19.1,2025-03-20
+7542ab2f-a6ee-4fd4-b8e2-4c760032e1d3,cleaning,AutoScrub Elite,Industrial Clean Systems,CLE28776,2024-02-23,8608.32,3882.79,133.9,354.0,good,Customer Deployed,18.3,2024-09-30
+d090f356-46f7-4041-b016-8fe92ba47fbe,manufacturing,AssemblyBot Pro,Precision Automation Corp,MAN69460,2025-01-04,311929.48,237841.1,3004.4,959.0,good,Customer Deployed,7.9,2025-03-17
+6b4ceefc-fdfd-44f8-8416-56dcf42750c3,construction,ConstructMaster Pro,Heavy Machinery Robotics,CON30392,2024-04-19,145118.41,73465.0,2137.1,542.0,good,Warehouse C,16.5,2025-04-30
+8af762f0-b03f-41a8-a9b1-9ca6e29fced3,warehouse,WarehouseBot X7,Warehouse Robotics Inc,WAR77154,2023-10-24,73570.8,24338.3,1339.3,693.0,good,Warehouse A,22.3,2024-08-30
+18a4eb3c-2320-459c-adfc-183270c6d8d1,cleaning,AutoScrub Elite,Automated Sanitation Corp,CLE38903,2025-08-30,7217.8,7196.46,139.4,437.0,good,Warehouse A,0.1,2025-09-01
+86d01772-a474-4af9-81a6-134257d15a48,manufacturing,AssemblyBot Pro,Manufacturing Robotics Inc,MAN75193,2023-10-25,129503.86,71814.23,2719.7,1039.0,excellent,Customer Deployed,22.3,2024-03-17
+722d78a1-a13f-4ccf-b370-94f6b1ffe921,manufacturing,PrecisionArm X12,Precision Automation Corp,MAN19447,2024-03-13,189270.53,37854.11,1980.0,1208.0,fair,Warehouse A,17.7,2025-07-28
+876bd566-89d1-45f9-8ef1-c49e93934740,manufacturing,AssemblyBot Pro,Production Systems Group,MAN93904,2025-06-06,66372.12,56778.25,2710.3,1027.0,fair,Maintenance Shop,2.9,2025-08-22
+001e9f9e-827f-4f45-8711-b309dc5be3b9,manufacturing,FactoryWorker AI,Manufacturing Robotics Inc,MAN57428,2024-05-28,197710.98,39542.2,2427.0,1165.0,maintenance,Maintenance Shop,15.2,2024-08-08
+c944d1d7-ecbb-4e78-9c05-f7d81846d671,cleaning,SaniBot AI,Industrial Clean Systems,CLE53655,2025-05-02,9866.33,9068.99,125.2,400.0,excellent,Warehouse A,4.0,2025-07-27
+5edf9f6b-5e62-436f-ba9e-a7a486489cb8,warehouse,WarehouseBot X7,Warehouse Robotics Inc,WAR94599,2024-11-21,100713.51,53566.09,975.0,616.0,fair,Warehouse B,9.4,2025-08-29
+a6b42bd5-6d74-4321-b874-4886613cf9ab,warehouse,LogiMover Pro,Warehouse Robotics Inc,WAR33218,2024-12-22,60376.64,20072.65,732.6,683.0,maintenance,Maintenance Shop,8.3,2024-12-23
+a9bbe635-45be-41a4-91bd-9ee7455ceae5,manufacturing,ProductionLine Elite,Production Systems Group,MAN92210,2025-04-20,291585.38,226926.99,3198.8,1143.0,fair,Customer Deployed,4.4,2025-05-30
+0498c2c8-69b7-4ece-8881-38fa40aa32f9,construction,ConstructMaster Pro,Site Automation Ltd,CON50685,2024-12-29,90364.41,75699.49,2286.8,388.0,excellent,Warehouse B,8.1,2025-08-17
+520dcb09-d2db-4250-b24b-d5edd39b5859,manufacturing,ProductionLine Elite,Manufacturing Robotics Inc,MAN90610,2023-12-09,79342.62,15868.52,2075.5,1236.0,fair,Warehouse B,20.8,2024-02-20
+29af9f32-ec0b-471a-91a2-83ca3d8199fe,manufacturing,ProductionLine Elite,Manufacturing Robotics Inc,MAN18109,2023-11-19,212909.46,121562.63,2313.4,889.0,excellent,Customer Deployed,21.5,2024-11-14
+0106fd02-e05c-4a7a-b0c7-2fdf41cac272,manufacturing,AssemblyBot Pro,Industrial Assembly Ltd,MAN67595,2024-03-18,394011.1,187038.78,630.0,640.0,good,Maintenance Shop,17.5,2025-02-03
+f354b1bf-a8b9-419c-bd2b-b57f0a8f13f7,warehouse,ShelfStacker AI,Storage Solutions Corp,WAR92691,2025-02-06,141383.36,112400.7,1332.3,717.0,good,Warehouse C,6.8,2025-03-20
+90c1892c-83dd-483d-9299-d563c46c76f3,construction,BuildBot Heavy,Heavy Machinery Robotics,CON29709,2024-12-07,96263.84,79250.06,3126.7,692.0,excellent,Warehouse C,8.8,2025-02-16
+22b9dac6-e324-469e-8c89-057e6ea4620e,construction,BuildBot Heavy,BuildTech Industries,CON21104,2024-08-23,281267.95,56253.59,2516.9,480.0,maintenance,Maintenance Shop,12.3,2025-07-28
+8cc44994-d902-416b-aaff-941fe75f66f9,construction,Foundation Elite,Heavy Machinery Robotics,CON94675,2025-05-11,257966.58,238644.51,4513.4,702.0,excellent,Warehouse B,3.7,2025-05-21
+4557e08e-c1bd-4af4-be89-c02cee31a390,manufacturing,FactoryWorker AI,Manufacturing Robotics Inc,MAN39693,2024-07-07,183283.21,56237.36,663.1,939.0,fair,Warehouse C,13.9,2024-10-31
+f3ad55c8-1346-4167-9421-ad5df81dfed1,warehouse,LogiMover Pro,Warehouse Robotics Inc,WAR79013,2023-09-04,76058.17,15211.63,1516.5,806.0,fair,Warehouse C,23.9,2025-03-19
+0463022c-9535-4587-b908-077445609f64,cleaning,AutoScrub Elite,FloorTech Solutions,CLE67366,2024-12-10,16944.93,13983.46,77.1,416.0,excellent,Warehouse A,8.7,2025-02-17
+d53f5457-82b9-48ab-b649-02da547c3771,cleaning,SaniBot AI,CleanBot Industries,CLE68841,2025-02-24,18527.26,12745.1,97.0,324.0,fair,Customer Deployed,6.2,2025-06-08
+863cee4a-661b-4b50-9887-d624d1193b3d,warehouse,LogiMover Pro,Storage Solutions Corp,WAR84766,2024-07-10,146387.65,45637.94,2131.2,686.0,fair,Maintenance Shop,13.8,2024-07-14
+af9ea141-9a25-47a5-bf0b-ad442b28d866,manufacturing,ProductionLine Elite,Industrial Assembly Ltd,MAN89254,2023-10-26,324562.17,108009.68,1866.1,764.0,good,Warehouse B,22.2,2025-06-14
+2d23e728-1cc8-4430-b117-78b2506c4f87,warehouse,ShelfStacker AI,Warehouse Robotics Inc,WAR26341,2025-06-22,112323.8,104353.39,2112.5,683.0,good,Warehouse C,2.4,2025-07-31
+54afa3e6-d9b4-467d-9410-a5f211cff9c9,construction,BuildBot Heavy,BuildTech Industries,CON39102,2025-05-03,136378.04,119980.42,3817.5,644.0,good,Customer Deployed,4.0,2025-07-13
+61298cb4-27cb-4cc1-b7d5-872126b1c118,manufacturing,FactoryWorker AI,Manufacturing Robotics Inc,MAN39430,2023-12-19,201064.95,40212.99,1198.8,677.0,fair,Warehouse B,20.5,2024-03-07
+be4e35f3-d970-4168-9d9c-64712f8b64db,cleaning,AutoScrub Elite,Industrial Clean Systems,CLE71925,2024-04-14,21783.53,10920.39,182.5,324.0,good,Warehouse A,16.6,2025-07-12
+32b23dc9-4d79-49e6-9385-5cfac32605a7,warehouse,InventoryBot Elite,Industrial Robotics Ltd,WAR89807,2025-04-05,109611.57,98808.85,1869.4,609.0,excellent,Warehouse A,4.9,2025-08-12
+2d298a61-e058-470a-ba0f-af299c3d89f3,manufacturing,AssemblyBot Pro,Industrial Assembly Ltd,MAN75513,2025-06-19,140797.68,133859.56,533.2,850.0,excellent,Customer Deployed,2.5,2025-07-04
+562b4eb9-968a-46ef-ac97-f6fbe9b8c832,cleaning,FloorMaster 5000,FloorTech Solutions,CLE97584,2024-03-02,10825.44,4968.18,43.7,353.0,good,Warehouse A,18.0,2024-04-27
+5c1565e3-52df-4af8-9f98-1f3655398153,cleaning,AutoScrub Elite,Industrial Clean Systems,CLE15706,2025-03-24,24068.07,21506.29,162.7,400.0,excellent,Warehouse A,5.3,2025-08-14
+5ee4617b-3e98-466c-8aa5-1135362de2cb,manufacturing,FactoryWorker AI,Industrial Assembly Ltd,MAN86271,2024-06-24,314087.64,224318.83,1289.8,708.0,excellent,Customer Deployed,14.3,2025-03-20
+2b89162b-1937-4614-a8ed-a0f64856dd32,construction,ConstructMaster Pro,Construction Robotics Corp,CON72722,2023-12-23,154267.29,30853.46,2063.2,580.0,fair,Warehouse B,20.3,2025-07-20
+3e144cd4-cbc7-44f2-ac3e-0a78789f65f2,warehouse,LogiMover Pro,Warehouse Robotics Inc,WAR51365,2025-05-25,120184.73,112288.23,1936.7,707.0,excellent,Warehouse B,3.3,2025-08-30
+a08f1af7-d7c4-4440-88d7-665aaba34913,construction,Foundation Elite,Site Automation Ltd,CON95948,2025-04-15,131995.6,113783.33,3322.6,595.0,good,Warehouse A,4.6,2025-08-16
+cd8b2fe0-27eb-4b1d-afe9-c3941014565d,construction,SiteWorker AI,Construction Robotics Corp,CON54438,2023-09-20,254852.04,50970.41,2951.4,646.0,fair,Warehouse A,23.4,2025-02-26
+ce19d472-a20a-4023-ba96-197d0e84e1b2,warehouse,InventoryBot Elite,Industrial Robotics Ltd,WAR33652,2024-05-01,83571.43,56720.95,1447.2,613.0,excellent,Warehouse B,16.1,2025-07-30
+6ee72d0a-0970-4442-9fbd-f53348ce8389,construction,SiteWorker AI,Construction Robotics Corp,CON56077,2025-04-09,93015.5,84092.86,3079.9,620.0,excellent,Warehouse C,4.8,2025-08-13
+bb367e9e-eaa6-4fd6-a08e-88353bf004aa,manufacturing,AssemblyBot Pro,Industrial Assembly Ltd,MAN97973,2025-04-15,269049.5,231927.03,1757.2,989.0,good,Maintenance Shop,4.6,2025-05-22
+8a4bde17-f7b7-451e-8e04-1ea336ce7a91,manufacturing,FactoryWorker AI,Precision Automation Corp,MAN94562,2025-03-29,383948.39,344342.68,810.5,799.0,excellent,Customer Deployed,5.2,2025-04-14
+926a5361-d718-4306-87ff-267a06bf22ef,construction,SiteWorker AI,Site Automation Ltd,CON20077,2025-05-30,288630.1,270614.42,979.1,456.0,excellent,Customer Deployed,3.1,2025-08-19
+04744ecf-c8d3-4c8a-840f-28689f2537bb,warehouse,ShelfStacker AI,Industrial Robotics Ltd,WAR77861,2024-02-11,78010.47,34264.13,910.8,456.0,good,Warehouse B,18.7,2025-05-20
+23b0b50a-21ac-415d-980d-d627a2edf75b,manufacturing,AssemblyBot Pro,Industrial Assembly Ltd,MAN36237,2024-08-03,323487.92,239534.09,2342.6,1073.0,excellent,Warehouse A,13.0,2024-12-01
+72813ab8-458d-4655-9ffb-b33cf84aafdb,cleaning,FloorMaster 5000,Industrial Clean Systems,CLE51889,2025-04-04,14040.85,10558.31,164.3,341.0,fair,Customer Deployed,5.0,2025-05-08
+7dcdff2b-c774-4fa0-aee0-e763f40aa624,construction,BuildBot Heavy,Heavy Machinery Robotics,CON57381,2023-09-19,275549.63,55109.93,5310.1,752.0,fair,Warehouse B,23.5,2024-02-03
+843102db-566e-49d4-af9a-01767cb48fc3,warehouse,WarehouseBot X7,LogiTech Automation,WAR82305,2024-04-28,128166.9,86735.81,981.8,575.0,excellent,Warehouse A,16.2,2025-06-27
+28c3cb47-0437-4d95-8c1e-f932f2866f50,warehouse,WarehouseBot X7,Warehouse Robotics Inc,WAR19666,2025-08-07,77475.53,76152.03,1887.0,807.0,excellent,Warehouse B,0.9,2025-08-14
+bf2cc71e-ce4e-4ed1-8223-8ac1d41fb2e0,warehouse,ShelfStacker AI,Warehouse Robotics Inc,WAR93859,2024-12-13,92247.32,68336.96,1320.9,921.0,good,Warehouse C,8.6,2025-03-28
+026afa43-feb0-4660-a268-61c2270b160a,warehouse,LogiMover Pro,Industrial Robotics Ltd,WAR39552,2025-08-18,97800.7,96836.83,2251.8,720.0,excellent,Customer Deployed,0.5,2025-08-26
+f7f82202-3cb5-45ba-81cd-a6f50ef0d6b1,construction,SiteWorker AI,Construction Robotics Corp,CON79924,2025-07-18,131386.19,121458.85,3155.8,464.0,fair,Warehouse C,1.5,2025-07-23
+63cbc68c-a436-42e0-b827-7f926fdb1068,cleaning,FloorMaster 5000,FloorTech Solutions,CLE13718,2025-08-10,8424.01,8296.71,140.9,442.0,excellent,Customer Deployed,0.8,2025-08-14
+f9f84339-5556-4ad5-89b3-5d91933b3f8c,cleaning,IndustriClean Pro,CleanBot Industries,CLE92203,2025-08-04,18022.6,17507.5,185.7,491.0,good,Warehouse B,1.0,2025-08-11
+76217557-a061-424d-9c3f-b0e6efe9267f,construction,SiteWorker AI,Site Automation Ltd,CON30719,2023-11-20,130097.53,46500.04,3693.1,613.0,good,Warehouse B,21.4,2024-08-29
+c4e1ba98-2f99-497e-b619-7f4703a55417,manufacturing,ProductionLine Elite,Production Systems Group,MAN55268,2025-02-14,217910.33,174958.23,1009.8,877.0,good,Warehouse A,6.6,2025-04-17
+f2b93e82-7cb2-48c0-94b2-dc128237def2,manufacturing,PrecisionArm X12,Industrial Assembly Ltd,MAN16632,2024-11-17,235093.25,190453.34,629.2,638.0,excellent,Customer Deployed,9.5,2025-04-13
+4c7a4944-0571-4b22-982f-a432fe302466,construction,Foundation Elite,Site Automation Ltd,CON30885,2024-06-09,130860.81,92170.03,3689.1,558.0,excellent,Warehouse A,14.8,2025-02-23
+b87e118c-3aa5-4951-b26c-74e10fff9aab,manufacturing,ProductionLine Elite,Production Systems Group,MAN41552,2024-03-05,358885.73,71777.15,1687.3,917.0,fair,Warehouse C,17.9,2025-03-26
+86eb3b7c-5c25-44bc-aee9-7d932b94d16b,warehouse,ShelfStacker AI,Warehouse Robotics Inc,WAR80345,2023-09-03,50306.74,14113.65,1213.1,633.0,good,Warehouse A,24.0,2025-07-09
+be4100ea-8add-4b45-9982-3ada238f6926,cleaning,IndustriClean Pro,Automated Sanitation Corp,CLE16705,2024-09-29,7678.7,5120.82,78.3,306.0,good,Warehouse B,11.1,2025-05-30
+378d21f6-0ed5-4ee3-a1d3-74a30f00aaa8,warehouse,ShelfStacker AI,Storage Solutions Corp,WAR25572,2025-02-24,52720.83,46139.39,1197.2,601.0,excellent,Warehouse B,6.2,2025-07-01
+61a12b94-d841-42f9-bc39-78d654a89a59,warehouse,WarehouseBot X7,Industrial Robotics Ltd,WAR88966,2024-05-24,84185.83,45522.3,1805.1,649.0,good,Warehouse C,15.3,2024-06-25
+06df3daf-681e-494e-acb4-d728179a89c3,manufacturing,AssemblyBot Pro,Manufacturing Robotics Inc,MAN77568,2024-12-29,73230.75,55404.21,2139.4,901.0,good,Warehouse A,8.1,2025-03-20
+b2d79701-0ec0-45af-bd5b-27581e1ce4e6,warehouse,ShelfStacker AI,Storage Solutions Corp,WAR76809,2024-04-18,62062.71,31357.57,1882.4,663.0,good,Warehouse C,16.5,2025-06-17
+a6028a23-1da5-4812-9071-e80878856efb,manufacturing,FactoryWorker AI,Production Systems Group,MAN92478,2025-02-08,337354.6,268864.08,1556.3,969.0,good,Customer Deployed,6.8,2025-04-10
+39372079-adf5-41d2-bffb-5d6fb4d25d0f,cleaning,SaniBot AI,CleanBot Industries,CLE86483,2024-04-14,24341.41,4868.28,206.4,498.0,fair,Warehouse A,16.6,2024-11-06
+3a27f5f6-60ef-434c-a39a-5b992d45582c,manufacturing,PrecisionArm X12,Production Systems Group,MAN51116,2024-06-21,110243.74,78517.88,1723.9,1067.0,excellent,Customer Deployed,14.4,2024-10-28
+84b85a95-a55e-498e-962c-1ec8b46992f1,manufacturing,PrecisionArm X12,Production Systems Group,MAN18163,2023-12-03,294770.09,58954.02,1735.4,1268.0,fair,Warehouse A,21.0,2024-08-27
+154f6fa4-3ba6-4334-a5df-7371baaef56d,warehouse,LogiMover Pro,Storage Solutions Corp,WAR81601,2025-07-19,149802.9,145373.77,1355.2,878.0,excellent,Maintenance Shop,1.5,2025-08-18
+70bdfe3d-aa1d-49c5-83d0-30e94c3aa485,construction,SiteWorker AI,Site Automation Ltd,CON47880,2025-06-22,118259.44,112665.04,1673.2,453.0,excellent,Customer Deployed,2.4,2025-08-05
+eacb11a1-3428-4c95-9f95-6f8135d0e33c,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR85166,2024-04-08,95379.36,47251.01,1323.2,775.0,good,Warehouse C,16.8,2025-01-13
+1920ad2f-bf87-420d-b9e2-8b14ffcd70d3,manufacturing,ProductionLine Elite,Industrial Assembly Ltd,MAN55398,2023-09-02,384567.01,107512.0,2687.9,925.0,good,Warehouse B,24.0,2024-03-29
+9aea8c3f-f441-492f-977f-c85bafdc146c,manufacturing,FactoryWorker AI,Production Systems Group,MAN24316,2024-07-11,132755.51,26551.1,2165.9,948.0,maintenance,Maintenance Shop,13.7,2025-03-10
+d53d9b3a-be13-4cbc-aa71-6623362eb3c2,warehouse,LogiMover Pro,Warehouse Robotics Inc,WAR23178,2024-12-22,115332.57,96085.22,1544.7,603.0,excellent,Maintenance Shop,8.3,2025-04-19
+9d067663-b154-44cf-bfb6-9bd410ca838f,warehouse,WarehouseBot X7,LogiTech Automation,WAR47649,2024-07-20,87725.28,17545.06,1856.3,690.0,maintenance,Maintenance Shop,13.4,2024-10-15
+f973dc40-94df-4610-86b9-62eeca5f948a,construction,SiteWorker AI,Construction Robotics Corp,CON32946,2024-08-12,279285.82,208455.12,1378.2,510.0,excellent,Warehouse A,12.7,2025-07-25
+a86cacdf-b6d3-427b-b9ae-9e199b379632,manufacturing,PrecisionArm X12,Manufacturing Robotics Inc,MAN14910,2025-04-05,399038.41,359711.37,1575.8,1024.0,excellent,Warehouse A,4.9,2025-04-30
+59db5ec7-f7e6-4d48-80dd-f911938a580e,cleaning,AutoScrub Elite,Industrial Clean Systems,CLE27589,2023-11-02,23569.1,13193.74,113.9,396.0,excellent,Warehouse C,22.0,2024-10-12
+e8132a68-50c5-4e70-954a-ff3e9a53f894,manufacturing,FactoryWorker AI,Precision Automation Corp,MAN54185,2024-12-07,334996.72,275789.02,1454.5,870.0,excellent,Customer Deployed,8.8,2025-03-07
+ad0a750b-66ce-404d-a128-d3a5403745f9,construction,ConstructMaster Pro,BuildTech Industries,CON22502,2025-04-21,212464.76,193758.93,3906.3,554.0,excellent,Customer Deployed,4.4,2025-07-30
+f055616a-4893-42ad-b80f-b13779897d45,warehouse,LogiMover Pro,Industrial Robotics Ltd,WAR49576,2025-01-05,78978.18,66524.33,743.1,564.0,excellent,Customer Deployed,7.9,2025-02-27
+1a0f35da-0583-4853-bd76-22d5d9bb2e4a,cleaning,AutoScrub Elite,CleanBot Industries,CLE75866,2024-01-25,18855.37,7965.84,61.4,308.0,good,Warehouse A,19.3,2024-02-08
+2e50fe6f-bca5-4208-803d-b89c6f470319,construction,BuildBot Heavy,Heavy Machinery Robotics,CON89395,2024-02-27,157697.38,31539.48,1712.8,470.0,fair,Warehouse C,18.2,2024-11-15
+6da624ae-8ab5-4709-a9f5-ca651102ec27,construction,Foundation Elite,Site Automation Ltd,CON88094,2025-05-14,245403.87,218557.78,5200.8,708.0,good,Warehouse C,3.6,2025-05-22
+4e9a4579-1036-4db8-939a-75d53c80801c,cleaning,SaniBot AI,CleanBot Industries,CLE85065,2024-06-30,6562.05,1938.0,109.4,372.0,fair,Warehouse A,14.1,2025-03-27
+053f8aa4-5ece-426f-9f5b-c4d63838906e,warehouse,LogiMover Pro,Storage Solutions Corp,WAR68390,2024-01-21,134721.03,82496.71,1400.1,813.0,excellent,Customer Deployed,19.4,2025-03-06
+db2eb8fc-064b-4fbb-a2de-29e3c11f3077,cleaning,SaniBot AI,FloorTech Solutions,CLE12853,2024-08-27,15264.96,5962.56,120.6,373.0,fair,Maintenance Shop,12.2,2024-11-25
+502f5ac6-b860-4c46-beb0-7cecb4efac0c,manufacturing,FactoryWorker AI,Manufacturing Robotics Inc,MAN17897,2024-12-23,313573.52,235386.17,1886.7,810.0,good,Warehouse B,8.3,2024-12-24
+2e8244d8-f402-420a-bd55-e04387485326,cleaning,SaniBot AI,Industrial Clean Systems,CLE65097,2025-03-03,10741.81,8804.47,63.7,412.0,good,Warehouse B,6.0,2025-07-21
+50c12e02-e1f7-4a7f-b567-7a75edbf3113,construction,Foundation Elite,Site Automation Ltd,CON80687,2023-11-18,270664.56,54132.91,5127.8,680.0,maintenance,Maintenance Shop,21.5,2024-08-22
+75197a41-1ed0-4622-b413-44ff95a1ba1d,warehouse,ShelfStacker AI,Warehouse Robotics Inc,WAR10455,2024-01-08,63739.73,12747.95,1182.8,618.0,fair,Warehouse B,19.8,2025-08-07
+6bcd1496-77d1-4ce1-9ae4-c996a070280d,cleaning,AutoScrub Elite,Automated Sanitation Corp,CLE55371,2024-09-14,18470.0,12044.33,152.7,514.0,good,Customer Deployed,11.6,2024-10-01
+c22eff91-164a-4166-a3f5-598e8f3edf9a,warehouse,ShelfStacker AI,LogiTech Automation,WAR12050,2024-03-01,143428.09,91597.97,1641.3,827.0,excellent,Maintenance Shop,18.1,2025-06-10
+0344faf3-c997-451e-aa2c-afcb6fa1a8ea,warehouse,LogiMover Pro,Warehouse Robotics Inc,WAR15798,2024-07-31,55594.15,33787.51,506.1,590.0,good,Customer Deployed,13.1,2025-06-14
+e82d6c2f-23d4-4625-8b26-4c247851789f,manufacturing,ProductionLine Elite,Precision Automation Corp,MAN85511,2025-01-01,243518.34,204478.61,2880.9,909.0,excellent,Customer Deployed,8.0,2025-08-30
+44e20310-e167-48a1-9954-56103685113a,construction,SiteWorker AI,BuildTech Industries,CON17989,2024-11-09,142897.0,73185.42,1306.4,397.0,fair,Warehouse B,9.8,2025-08-18
+c203b49d-2b43-4f33-b927-9cf9a33cd07a,warehouse,InventoryBot Elite,Industrial Robotics Ltd,WAR63511,2025-06-13,49922.83,47265.96,944.1,574.0,excellent,Maintenance Shop,2.7,2025-08-01
+0b9895d6-6743-4418-952d-b1ff39acdcd1,warehouse,ShelfStacker AI,Industrial Robotics Ltd,WAR70689,2025-02-08,64307.29,55603.41,1108.5,572.0,excellent,Customer Deployed,6.8,2025-05-22
+0d74d62e-ec21-4c6c-a58f-2ba7eaf73fa9,cleaning,SaniBot AI,Automated Sanitation Corp,CLE58637,2025-04-30,16145.74,14819.71,75.2,297.0,excellent,Maintenance Shop,4.1,2025-07-07
+2afffcdc-33e2-4e13-a189-c47f67da3a9a,cleaning,FloorMaster 5000,Industrial Clean Systems,CLE87015,2025-06-17,10369.23,9057.75,139.1,520.0,fair,Warehouse C,2.5,2025-08-13
+949974b0-4f5e-4dbe-9aab-b0cdd940bc3a,warehouse,InventoryBot Elite,LogiTech Automation,WAR25376,2024-08-13,136294.75,50103.1,1286.4,668.0,fair,Warehouse B,12.6,2024-11-20
+419f648b-2861-41d0-87f9-9b7aa67893bd,manufacturing,PrecisionArm X12,Precision Automation Corp,MAN95029,2024-02-29,194854.9,89041.78,817.8,697.0,good,Warehouse B,18.1,2025-02-14
+b4bee3f5-7d94-4598-9ee1-6d26bce44ee7,construction,SiteWorker AI,Heavy Machinery Robotics,CON51973,2025-03-14,155920.04,129489.44,4026.4,728.0,good,Customer Deployed,5.7,2025-06-11
+7b7d2360-2bfd-4054-b3b2-ccddcd7e5c9f,warehouse,ShelfStacker AI,Storage Solutions Corp,WAR86550,2024-12-02,88462.67,64574.26,1134.5,490.0,good,Customer Deployed,9.0,2025-02-15
+b5e48e63-580e-4f84-8511-d6e656f8d885,manufacturing,FactoryWorker AI,Precision Automation Corp,MAN54245,2023-10-28,126705.21,70512.03,841.8,695.0,excellent,Warehouse B,22.2,2024-05-07
+2cd4fe41-bbae-4b1a-9d39-fe60eae55125,construction,Foundation Elite,Site Automation Ltd,CON81058,2024-03-18,178686.52,116111.02,3375.2,497.0,excellent,Customer Deployed,17.5,2024-09-04
+96193243-9873-465b-b400-0b86255b409f,cleaning,IndustriClean Pro,Industrial Clean Systems,CLE40334,2024-09-30,23903.76,15964.63,184.7,459.0,good,Warehouse B,11.1,2024-11-15
+5dceac90-3201-44f1-ae73-69c6c77a881b,cleaning,FloorMaster 5000,Industrial Clean Systems,CLE73334,2024-02-17,9374.39,1874.88,96.2,427.0,fair,Warehouse B,18.5,2025-03-13
+16de39da-0243-4883-93b3-30aa3a2587d2,manufacturing,AssemblyBot Pro,Manufacturing Robotics Inc,MAN75826,2025-01-29,240952.24,206756.65,1417.7,866.0,excellent,Customer Deployed,7.1,2025-02-11
+3caf3b11-574d-4abd-9fd5-107f0135a8c9,manufacturing,PrecisionArm X12,Manufacturing Robotics Inc,MAN62022,2024-06-25,372136.61,266021.44,1839.9,968.0,excellent,Customer Deployed,14.3,2025-02-15
+f7116602-12d8-444e-a99b-f06741022edf,cleaning,AutoScrub Elite,Automated Sanitation Corp,CLE20566,2024-07-01,14179.95,4211.13,81.2,332.0,fair,Warehouse A,14.1,2024-09-27
+cfbb5e50-3f8f-4f90-ab70-c89838daab85,cleaning,IndustriClean Pro,Automated Sanitation Corp,CLE66873,2024-07-04,12585.28,9070.99,107.8,226.0,excellent,Warehouse C,14.0,2025-07-23
+4eda56e5-7613-4f26-abff-49ac3610327b,construction,BuildBot Heavy,Construction Robotics Corp,CON99709,2024-11-01,126697.46,101308.02,4303.2,586.0,excellent,Customer Deployed,10.0,2025-06-01
+27f54ddb-40f9-419d-9cf5-b71f3a3b2ddb,construction,BuildBot Heavy,BuildTech Industries,CON62205,2025-05-19,283972.43,254306.45,2732.6,526.0,good,Warehouse A,3.5,2025-08-08
+e2a66553-8128-4eab-9f34-567e17033cf5,cleaning,AutoScrub Elite,FloorTech Solutions,CLE28343,2024-06-05,16279.16,11423.22,169.4,508.0,excellent,Maintenance Shop,14.9,2024-06-07
+d3e56606-2608-4798-a145-2f8a96895e91,cleaning,AutoScrub Elite,Industrial Clean Systems,CLE88067,2024-05-15,6953.72,3698.45,69.1,394.0,good,Warehouse B,15.6,2025-05-07
+e8e23e2c-bab2-4a7b-b98e-0404de13cd83,manufacturing,FactoryWorker AI,Manufacturing Robotics Inc,MAN59207,2025-05-17,275601.8,246267.05,2742.1,864.0,good,Maintenance Shop,3.5,2025-08-27
+679d5eeb-5bcc-422c-9790-eb1b5134e9b2,manufacturing,PrecisionArm X12,Production Systems Group,MAN30214,2024-07-03,89136.0,17827.2,1890.7,963.0,maintenance,Maintenance Shop,14.0,2025-05-17
+56de4382-3dfb-49e0-bebc-793371357b80,manufacturing,PrecisionArm X12,Production Systems Group,MAN45358,2024-10-04,167670.6,112643.36,470.8,691.0,good,Warehouse B,10.9,2025-04-22
+9e7caae4-867b-404f-be80-8eb5612587ba,cleaning,FloorMaster 5000,Industrial Clean Systems,CLE22198,2024-02-09,8747.84,5465.96,106.9,306.0,excellent,Customer Deployed,18.8,2024-06-13
+d5023993-9cd1-497d-872d-fa043f4ca8e3,construction,Foundation Elite,Construction Robotics Corp,CON41816,2024-07-16,140665.65,83410.48,1984.1,623.0,good,Warehouse B,13.6,2024-07-27
+a3abbff4-edad-4609-b9c2-be7fb1e86369,warehouse,InventoryBot Elite,LogiTech Automation,WAR65194,2024-05-04,59578.21,11915.64,855.2,489.0,maintenance,Maintenance Shop,16.0,2025-03-30
+da64eb1a-0fdc-4d67-9af0-f426fc7121bd,construction,Foundation Elite,Construction Robotics Corp,CON27758,2024-06-23,156253.11,111492.04,4499.7,616.0,excellent,Warehouse B,14.3,2024-09-02
+2427e505-587f-4a66-b2d2-6b88b6d18ba2,construction,BuildBot Heavy,Site Automation Ltd,CON95332,2024-08-08,149748.87,111376.95,3271.4,527.0,excellent,Warehouse B,12.8,2024-09-26
+d59a87fc-25f5-4e84-8537-f4e08d1d7400,warehouse,ShelfStacker AI,Storage Solutions Corp,WAR92955,2024-11-29,108337.18,88620.1,1764.7,637.0,excellent,Warehouse A,9.1,2024-12-06
+46c4824d-8ff5-4f3d-986e-9a0fb5cb3710,manufacturing,PrecisionArm X12,Industrial Assembly Ltd,MAN81516,2024-06-15,187858.8,133056.36,2200.5,814.0,excellent,Warehouse C,14.6,2025-02-20
+3cb79506-a0cd-4d78-a15f-b8dd0efc31d8,warehouse,WarehouseBot X7,Industrial Robotics Ltd,WAR63627,2023-09-21,144012.37,28802.47,1009.4,621.0,fair,Warehouse C,23.4,2024-12-21
+7a6ba2c6-7c9b-4009-b261-51f7381c9441,manufacturing,PrecisionArm X12,Industrial Assembly Ltd,MAN88372,2023-12-10,142287.2,28457.44,1960.0,992.0,maintenance,Maintenance Shop,20.8,2024-09-26
+42b6a56b-3460-4d5f-a834-33fc0cb90c1f,manufacturing,ProductionLine Elite,Production Systems Group,MAN93647,2023-10-08,244839.37,77135.66,2697.6,1163.0,good,Warehouse A,22.8,2024-06-27
+f580e38c-1016-4d94-a5f9-d7d1e5eb8f26,cleaning,IndustriClean Pro,FloorTech Solutions,CLE98797,2024-02-03,18152.03,3630.41,123.3,275.0,fair,Warehouse A,19.0,2024-08-09
+d523b6f6-7c5b-4b77-b4b3-e13a048fe2a2,manufacturing,FactoryWorker AI,Production Systems Group,MAN85397,2025-03-10,96021.15,68262.08,478.1,879.0,fair,Warehouse A,5.8,2025-05-15
+a177bb6f-937d-4555-a590-f7bda021c16d,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR13219,2025-03-03,86069.09,44674.49,1522.0,722.0,maintenance,Maintenance Shop,6.0,2025-08-02
+8a0f63ce-ae90-42ad-9928-c790850fae25,manufacturing,AssemblyBot Pro,Industrial Assembly Ltd,MAN69681,2024-03-04,201431.65,129038.01,2384.6,1072.0,excellent,Customer Deployed,18.0,2024-04-17
+256547c7-7a5d-46bc-8c2c-17b56a7db412,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR25084,2023-09-16,94997.07,27868.72,1087.1,534.0,good,Maintenance Shop,23.6,2024-10-06
+6f463889-ecc3-45fa-83c9-72f9db94481c,cleaning,AutoScrub Elite,Industrial Clean Systems,CLE83380,2025-08-31,18542.79,18518.42,96.7,279.0,excellent,Customer Deployed,0.1,2025-08-31
+88d3833e-5eba-4668-a931-6e2fe37e9f56,manufacturing,ProductionLine Elite,Precision Automation Corp,MAN90492,2024-12-19,331236.97,247339.56,2112.2,1020.0,good,Maintenance Shop,8.4,2025-07-07
+b537de5d-3537-4aa9-bb3c-5ddd705cdf67,warehouse,InventoryBot Elite,Industrial Robotics Ltd,WAR18200,2024-12-20,85827.76,64173.45,1309.8,887.0,good,Warehouse C,8.4,2025-07-01
+26b5a04a-04c6-4687-b236-fb0388cab209,cleaning,FloorMaster 5000,CleanBot Industries,CLE93769,2025-07-26,11519.7,11088.28,101.1,450.0,good,Warehouse B,1.2,2025-08-02
+21df6c9a-d629-46ce-b180-057a17b42eb9,construction,Foundation Elite,Site Automation Ltd,CON48986,2023-09-16,207076.06,41415.21,2834.9,540.0,fair,Warehouse C,23.6,2024-01-03
+abbcefe9-cc74-4767-a31d-0f76bfbe0ee0,cleaning,FloorMaster 5000,CleanBot Industries,CLE64819,2023-12-03,7357.23,1471.45,80.2,407.0,maintenance,Maintenance Shop,21.0,2025-02-02
+1aa3a9cd-29f4-4632-b4b0-e4bc95b0a8de,warehouse,InventoryBot Elite,Industrial Robotics Ltd,WAR74178,2024-10-17,64504.14,50942.17,1364.1,889.0,excellent,Warehouse A,10.5,2024-12-25
+9402e43c-9747-4540-8fe1-d86c0a89137c,construction,ConstructMaster Pro,BuildTech Industries,CON27895,2025-01-24,145780.5,61109.04,2184.3,402.0,maintenance,Maintenance Shop,7.3,2025-07-12
+31d72aba-b29b-4135-a412-0b8fe4fa5cfc,warehouse,InventoryBot Elite,Industrial Robotics Ltd,WAR84107,2024-01-02,87959.11,17591.82,1165.8,547.0,fair,Warehouse B,20.0,2025-01-05
+46033fbf-4314-4647-8422-3cfca0874357,cleaning,FloorMaster 5000,CleanBot Industries,CLE74921,2025-02-28,5653.9,4617.48,71.8,433.0,good,Warehouse A,6.1,2025-03-21
+047550ec-079e-49a9-9e0e-93a79ec4131d,cleaning,IndustriClean Pro,CleanBot Industries,CLE81611,2025-04-22,20502.26,18710.67,192.6,487.0,excellent,Warehouse B,4.4,2025-08-28
+b9882d65-d0c2-4b03-a1ff-43a7b23f7bb5,warehouse,InventoryBot Elite,Warehouse Robotics Inc,WAR44447,2023-11-19,122278.81,43584.92,1590.4,766.0,good,Warehouse C,21.5,2023-12-05
+570785aa-4a23-4762-a8b6-b16a1418c874,construction,BuildBot Heavy,Site Automation Ltd,CON89988,2024-04-16,269690.36,180384.22,1608.0,430.0,excellent,Maintenance Shop,16.6,2025-03-23
+1e0d4c00-e9ee-4a66-baf8-2ff0e43b817a,manufacturing,PrecisionArm X12,Precision Automation Corp,MAN88231,2025-08-01,326848.77,299360.83,3099.8,1014.0,maintenance,Maintenance Shop,1.1,2025-08-13
+6e595e5a-ad7f-453c-a522-a280514905df,warehouse,ShelfStacker AI,Storage Solutions Corp,WAR22481,2025-02-04,75379.99,59779.01,875.4,742.0,good,Warehouse B,6.9,2025-02-19
+6354bf5a-5653-4b84-ac96-c3996c883a0e,warehouse,InventoryBot Elite,Warehouse Robotics Inc,WAR42447,2025-01-18,149211.05,126956.84,1869.1,808.0,excellent,Customer Deployed,7.5,2025-06-09
+bdc6b9b2-ad5f-476e-b325-ddea4dbf9058,manufacturing,ProductionLine Elite,Precision Automation Corp,MAN22202,2023-11-15,256324.68,51264.94,1153.0,783.0,fair,Warehouse A,21.6,2025-04-05
+bdd731e2-65d6-4c89-94f3-b7977826979b,manufacturing,FactoryWorker AI,Industrial Assembly Ltd,MAN22208,2025-05-14,214596.52,175470.02,1482.5,976.0,fair,Customer Deployed,3.6,2025-07-19
+6f613507-e23f-4ecf-b250-7bdee43968a7,manufacturing,FactoryWorker AI,Manufacturing Robotics Inc,MAN52318,2023-11-29,330530.5,66106.1,1772.8,1120.0,maintenance,Maintenance Shop,21.1,2025-08-22
+21b2be56-1bca-43d0-a3fc-aef7aa0a3a8e,construction,SiteWorker AI,BuildTech Industries,CON23051,2025-03-26,202381.97,170468.91,3131.1,584.0,good,Warehouse C,5.3,2025-05-20
+23079b25-3cce-4a28-b3eb-19d341a3c610,manufacturing,AssemblyBot Pro,Manufacturing Robotics Inc,MAN27290,2024-07-10,376007.18,220737.46,826.1,943.0,good,Maintenance Shop,13.8,2024-12-12
+72a30f47-77a2-4201-a7e1-16c2b59713c3,construction,ConstructMaster Pro,Heavy Machinery Robotics,CON16787,2024-09-05,96001.5,38917.82,1889.2,535.0,fair,Warehouse A,11.9,2025-01-06
+0f3d342b-1f70-4e4d-bba3-02e850c7cf4e,manufacturing,FactoryWorker AI,Precision Automation Corp,MAN78084,2025-05-14,205938.52,190919.35,447.4,620.0,excellent,Warehouse B,3.6,2025-08-13
+6e3b38bd-042a-4166-a444-4ab1964fc424,manufacturing,AssemblyBot Pro,Manufacturing Robotics Inc,MAN19283,2023-11-18,296503.02,59300.6,3249.1,857.0,fair,Maintenance Shop,21.5,2025-08-07
+6772e9ba-5264-4996-b406-f5756d55eb3b,warehouse,InventoryBot Elite,Warehouse Robotics Inc,WAR27451,2024-12-08,121730.16,100295.41,715.1,641.0,excellent,Warehouse C,8.8,2025-07-18
+41d8a47c-480c-4297-9373-bad00a8a5d21,warehouse,WarehouseBot X7,Warehouse Robotics Inc,WAR90750,2025-01-30,109083.52,93674.22,824.8,558.0,excellent,Maintenance Shop,7.1,2025-05-03
+0b71c021-ce02-4380-b8ec-b8cfe20c64c4,manufacturing,PrecisionArm X12,Manufacturing Robotics Inc,MAN66280,2025-02-18,364841.6,247382.74,703.1,837.0,fair,Customer Deployed,6.4,2025-08-26
+87a832e9-af17-4e49-9b4f-b50b013f240c,construction,ConstructMaster Pro,BuildTech Industries,CON13515,2024-03-17,137317.72,65049.98,1050.8,515.0,good,Warehouse B,17.5,2025-05-22
+a772c2b0-14ea-43e0-9f11-c9d4c9efa961,construction,ConstructMaster Pro,BuildTech Industries,CON24777,2024-09-28,243264.82,189081.66,2074.7,628.0,excellent,Warehouse A,11.1,2025-03-10
+1ae95e7b-d3c7-4bd0-af26-8dd67197307c,warehouse,InventoryBot Elite,Warehouse Robotics Inc,WAR84498,2024-07-15,100470.08,32147.79,2548.8,802.0,fair,Customer Deployed,13.6,2025-05-13
+9a4424c8-168e-4d4f-81eb-364841c9f3d8,manufacturing,FactoryWorker AI,Precision Automation Corp,MAN44365,2024-03-15,319326.82,63865.36,3541.9,679.0,maintenance,Maintenance Shop,17.6,2025-06-14
+01d5a33f-c424-48db-9039-aece0d5ac805,warehouse,WarehouseBot X7,Warehouse Robotics Inc,WAR65518,2025-04-30,144611.4,97104.37,1191.2,686.0,maintenance,Maintenance Shop,4.1,2025-05-10
+420a6415-832b-412d-b364-2f5f3b10eccf,manufacturing,AssemblyBot Pro,Precision Automation Corp,MAN61213,2025-06-06,154339.03,145415.35,1025.6,715.0,excellent,Customer Deployed,2.9,2025-06-27
+d0fe47d1-f5a8-4e38-a940-01cef8049a71,cleaning,AutoScrub Elite,Automated Sanitation Corp,CLE69424,2024-08-06,19599.17,3919.83,180.0,321.0,maintenance,Maintenance Shop,12.9,2025-04-02
+5a3d8931-0dc7-469d-8efb-65f2f38872e6,cleaning,AutoScrub Elite,FloorTech Solutions,CLE78551,2024-06-04,7388.86,1866.63,146.9,387.0,fair,Warehouse A,14.9,2024-06-17
+449bdd80-2947-40ce-b75e-d191f80b2f29,construction,ConstructMaster Pro,Heavy Machinery Robotics,CON66272,2025-05-15,103559.39,96074.81,3483.9,763.0,excellent,Customer Deployed,3.6,2025-06-04
+c374814c-0fe9-4e95-b6d2-bd3dc39b6c01,construction,BuildBot Heavy,Heavy Machinery Robotics,CON84302,2024-02-03,235272.73,146079.32,3296.4,567.0,excellent,Maintenance Shop,19.0,2025-05-08
+43f8a1ca-4fee-4075-9ab8-1fbd0b82ef87,warehouse,ShelfStacker AI,LogiTech Automation,WAR76692,2024-05-07,71787.19,14833.82,598.6,618.0,fair,Warehouse A,15.9,2025-07-06
+12e475d1-5916-4ad2-b78c-7e191070d31f,cleaning,IndustriClean Pro,Industrial Clean Systems,CLE14635,2025-01-25,9891.03,7746.46,105.9,300.0,good,Warehouse C,7.2,2025-03-26
+676f83e5-19fe-4583-b629-323ab8f65238,manufacturing,PrecisionArm X12,Industrial Assembly Ltd,MAN25650,2023-09-09,144409.48,41368.29,2395.7,1141.0,good,Warehouse A,23.8,2025-07-26
+fa63ffaa-a6c5-477c-8f9e-b8210b78e3c8,cleaning,FloorMaster 5000,FloorTech Solutions,CLE47002,2023-11-03,21086.76,4217.35,253.7,318.0,fair,Warehouse B,22.0,2025-02-26
+9bb265e3-69e5-490f-b0a9-a8bfb654323c,construction,SiteWorker AI,Construction Robotics Corp,CON91620,2024-08-23,199445.56,76593.91,883.6,476.0,fair,Warehouse B,12.3,2025-06-03
+f68ac09b-914c-4f0f-86bd-c878da58962b,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR42129,2025-01-18,107127.55,67183.47,1527.5,722.0,fair,Warehouse C,7.5,2025-06-13
+851f16c1-9588-470e-84c0-4ee59a138c1b,warehouse,WarehouseBot X7,Industrial Robotics Ltd,WAR53911,2024-08-25,47510.58,30045.29,1216.8,583.0,good,Customer Deployed,12.3,2025-06-16
+b08f525a-f6a0-4440-9a62-f4c9d48d6327,cleaning,SaniBot AI,CleanBot Industries,CLE28661,2023-11-08,7078.98,2446.48,109.7,327.0,good,Warehouse A,21.8,2024-04-03
+ff91a4ad-1cbc-45c3-99e0-68dd6a255a35,construction,BuildBot Heavy,Construction Robotics Corp,CON21128,2025-01-19,282286.74,240370.31,5281.0,640.0,excellent,Customer Deployed,7.4,2025-03-29
+465d158f-24d7-48fa-a4f3-969f680c2edb,cleaning,FloorMaster 5000,Automated Sanitation Corp,CLE44208,2024-10-30,6496.61,4530.98,119.9,447.0,good,Warehouse C,10.1,2025-03-24
+29e08aec-6ea0-425e-b39f-d1bc22f16682,construction,Foundation Elite,Heavy Machinery Robotics,CON30369,2024-09-23,146562.99,113437.06,1582.8,432.0,excellent,Warehouse A,11.3,2025-02-16
+8a5e6619-0fbc-4055-883a-eb13543ab57f,cleaning,FloorMaster 5000,Automated Sanitation Corp,CLE44735,2025-02-27,14321.1,12561.54,100.7,444.0,excellent,Warehouse B,6.1,2025-04-29
+e94e7d75-56c6-47cb-ba9d-f2aaa9fd9ea0,cleaning,IndustriClean Pro,FloorTech Solutions,CLE52964,2025-01-27,21151.94,16607.47,115.8,363.0,good,Warehouse B,7.2,2025-03-27
+9885588f-e591-457f-90d1-69206f833ff3,warehouse,WarehouseBot X7,LogiTech Automation,WAR32789,2024-03-03,146682.0,67462.16,1110.4,587.0,good,Maintenance Shop,18.0,2024-05-08
+60009083-3216-402f-a72c-5cf8c9e9bd30,cleaning,SaniBot AI,Automated Sanitation Corp,CLE25919,2024-01-20,16119.08,6730.4,136.3,354.0,good,Warehouse B,19.4,2024-03-30
+fb9b862c-6cce-4f91-9e2a-a6de7f275678,cleaning,IndustriClean Pro,FloorTech Solutions,CLE86326,2024-09-27,7614.3,5062.86,151.8,506.0,good,Warehouse B,11.2,2025-06-13
+b09a90ba-6bf6-43ab-ad78-06f507f1bb37,construction,BuildBot Heavy,Construction Robotics Corp,CON53456,2024-01-15,299361.32,59872.26,1946.5,509.0,fair,Customer Deployed,19.6,2024-05-22
+99687d08-e374-4c59-8a97-cccbb3c12ec8,cleaning,IndustriClean Pro,Automated Sanitation Corp,CLE60165,2024-08-20,6012.75,1202.55,167.2,517.0,maintenance,Maintenance Shop,12.4,2025-05-20
+3acee8b6-8690-4ef7-befd-d63a90c83b9e,manufacturing,PrecisionArm X12,Industrial Assembly Ltd,MAN42215,2025-08-14,133003.48,131343.12,689.3,833.0,excellent,Maintenance Shop,0.6,2025-08-23
+08fda113-f1cd-4699-9037-862e7a046ed2,construction,Foundation Elite,Site Automation Ltd,CON94233,2024-03-26,273625.18,132048.42,2885.9,445.0,good,Warehouse A,17.2,2024-05-17
+01c47547-5419-4242-9d98-119ba33cf53d,warehouse,WarehouseBot X7,Industrial Robotics Ltd,WAR75849,2024-01-21,127101.16,53195.43,1208.3,646.0,good,Maintenance Shop,19.4,2024-06-03
+70d14bfe-c52d-40b1-9f6b-2f949a069d58,construction,Foundation Elite,Heavy Machinery Robotics,CON17679,2024-01-10,115458.57,47070.99,1805.1,607.0,good,Warehouse B,19.7,2024-01-18
+57b56315-17f3-4082-a854-940bca97e3bb,manufacturing,FactoryWorker AI,Precision Automation Corp,MAN17328,2024-09-25,391153.15,259312.44,682.8,740.0,good,Warehouse A,11.2,2024-12-27
+2ac995ee-9b15-426e-b296-9d252a9360ad,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR57026,2025-08-13,143196.63,141314.94,2090.9,642.0,excellent,Warehouse A,0.7,2025-08-24
+8b9c46a4-d6cd-459c-94ab-12b75b651c45,cleaning,AutoScrub Elite,FloorTech Solutions,CLE74282,2025-01-23,16262.18,13890.17,101.4,451.0,excellent,Warehouse A,7.3,2025-02-20
+402ec6c4-987b-4d19-8a39-f2565b71cb73,cleaning,IndustriClean Pro,Industrial Clean Systems,CLE27103,2025-05-27,9652.47,9030.96,75.0,260.0,excellent,Customer Deployed,3.2,2025-07-14
+63f7c861-bdb7-4409-87b7-e1720662af79,construction,ConstructMaster Pro,Heavy Machinery Robotics,CON78982,2025-05-31,88400.09,80210.59,1336.5,363.0,good,Warehouse A,3.1,2025-07-23
+f6a339d1-be1c-4469-81e0-29389a28254c,construction,BuildBot Heavy,Heavy Machinery Robotics,CON30644,2024-08-09,233521.05,143994.42,4210.5,528.0,good,Customer Deployed,12.8,2025-01-27
+e958aeee-74a5-4122-85cb-5d848d51da81,manufacturing,ProductionLine Elite,Industrial Assembly Ltd,MAN39260,2024-01-14,119228.91,49078.13,2736.9,1248.0,good,Warehouse C,19.6,2024-02-13
+79a30481-c2ea-4433-96ed-512192632c3d,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR84381,2025-07-19,122069.47,118460.32,992.0,500.0,excellent,Warehouse A,1.5,2025-08-09
+3b7a2223-c9d2-47f3-a344-8796b925ada8,cleaning,FloorMaster 5000,CleanBot Industries,CLE20198,2025-04-24,23420.76,21404.91,208.1,519.0,excellent,Customer Deployed,4.3,2025-06-15
+2e98ab25-0799-41c1-af69-4306d33fa1c5,warehouse,ShelfStacker AI,Storage Solutions Corp,WAR68540,2023-10-26,62628.18,34770.57,1494.8,840.0,excellent,Warehouse A,22.2,2024-12-25
+ad5522ce-05f6-4ea9-bb53-e07869b51a35,cleaning,AutoScrub Elite,FloorTech Solutions,CLE65004,2023-10-11,9990.82,5448.34,51.2,239.0,excellent,Warehouse A,22.7,2024-01-22
+009e35c8-d7d2-4b88-b5bd-a423266f2db8,warehouse,InventoryBot Elite,Industrial Robotics Ltd,WAR39567,2024-10-16,137585.92,108568.13,1142.5,718.0,excellent,Warehouse B,10.5,2025-01-21
+be9b283f-6f3c-4bad-8953-25334a0c6199,warehouse,InventoryBot Elite,Warehouse Robotics Inc,WAR59212,2025-08-27,128915.43,128407.22,553.4,500.0,excellent,Warehouse B,0.2,2025-08-27
+f3d06321-4c99-489c-b88b-486006e80a87,warehouse,WarehouseBot X7,Warehouse Robotics Inc,WAR89602,2025-03-13,80484.81,71336.41,1935.7,798.0,excellent,Warehouse C,5.7,2025-06-25
+cc5e4d50-4858-4519-94df-e3d8ef910ee4,manufacturing,PrecisionArm X12,Manufacturing Robotics Inc,MAN44768,2025-04-01,94427.66,84873.22,716.5,889.0,excellent,Customer Deployed,5.1,2025-05-05
+ff1cbcc4-f1a5-4bfc-bba2-e4df363e4df2,construction,SiteWorker AI,BuildTech Industries,CON10500,2024-09-17,96581.08,63266.32,2229.5,435.0,good,Warehouse A,11.5,2025-02-21
+56a03773-3133-4285-ae2b-3aedb990a1bf,manufacturing,AssemblyBot Pro,Industrial Assembly Ltd,MAN93648,2024-07-21,340125.08,112183.17,2274.2,738.0,fair,Maintenance Shop,13.4,2025-07-06
+04a76113-6039-4ca0-ad47-b5bde07b5569,construction,BuildBot Heavy,Site Automation Ltd,CON81319,2025-08-24,264848.04,263281.92,2344.9,493.0,excellent,Customer Deployed,0.3,2025-08-26
+1892e793-7822-40f2-ab01-f67e54a87b94,manufacturing,PrecisionArm X12,Industrial Assembly Ltd,MAN45200,2024-11-28,361067.52,295116.95,1470.9,690.0,excellent,Customer Deployed,9.1,2025-05-16
+08e939fb-05a9-46de-a180-9df7b07a0cbb,cleaning,FloorMaster 5000,Industrial Clean Systems,CLE82561,2025-02-23,6714.15,4607.71,92.3,481.0,fair,Warehouse C,6.3,2025-08-22
+16af11b4-ee58-41ca-b5d5-b79669b95ee1,cleaning,SaniBot AI,Automated Sanitation Corp,CLE61747,2024-01-31,24312.55,15047.58,196.1,442.0,excellent,Customer Deployed,19.1,2024-06-01
+e950a22d-a9b5-448f-a320-2b54917d37ae,cleaning,FloorMaster 5000,Industrial Clean Systems,CLE15593,2024-12-27,23985.1,20061.13,150.8,326.0,excellent,Customer Deployed,8.2,2025-02-04
+51607fb5-d6be-499d-9b91-539a8224c329,manufacturing,AssemblyBot Pro,Production Systems Group,MAN18783,2024-01-06,128652.56,51942.84,2091.3,974.0,good,Warehouse B,19.9,2024-02-20
+f6b3c4d8-53f7-4e60-b00a-1924a762d4e1,cleaning,SaniBot AI,Automated Sanitation Corp,CLE91665,2023-09-03,16041.08,3208.22,206.3,508.0,fair,Warehouse B,24.0,2024-07-27
+3b2636f6-08fc-4443-92fb-006d784eb1db,manufacturing,AssemblyBot Pro,Production Systems Group,MAN23845,2024-11-08,110878.39,78314.24,1677.1,1071.0,good,Warehouse C,9.8,2025-02-02
+15e9d577-6e2a-4c24-9f3c-3aa762a30e93,cleaning,AutoScrub Elite,CleanBot Industries,CLE62818,2024-02-17,22557.87,14213.53,107.2,375.0,excellent,Customer Deployed,18.5,2025-03-21
+14cdcd22-7ece-4db5-be81-d6d675e87cee,warehouse,InventoryBot Elite,Warehouse Robotics Inc,WAR58816,2025-01-27,86558.24,74160.28,1705.9,611.0,excellent,Customer Deployed,7.2,2025-05-05
+b5aa565c-67b6-492a-871a-b41985d931ca,cleaning,AutoScrub Elite,CleanBot Industries,CLE39878,2025-01-15,11218.99,8675.92,171.4,563.0,good,Customer Deployed,7.6,2025-08-15
+4e44084a-7b5d-4a81-9150-c2c9deb00f1c,warehouse,ShelfStacker AI,Industrial Robotics Ltd,WAR63368,2025-03-30,126273.24,113330.65,1195.9,574.0,excellent,Warehouse B,5.1,2025-07-05
+a637b654-11a8-454c-99a6-16ee6bf2fb4f,manufacturing,FactoryWorker AI,Manufacturing Robotics Inc,MAN84537,2024-12-27,235191.7,196714.21,797.3,725.0,excellent,Warehouse B,8.2,2025-08-16
+7ef7c724-d725-4ad4-b351-cc748f0a858b,cleaning,FloorMaster 5000,FloorTech Solutions,CLE57235,2024-07-08,22503.61,13166.53,81.5,226.0,good,Warehouse A,13.8,2025-02-22
+41d55a9b-4758-4b4c-b2eb-eb1fff06a203,warehouse,ShelfStacker AI,Storage Solutions Corp,WAR87862,2024-12-17,131468.16,109096.11,1497.4,565.0,excellent,Warehouse B,8.5,2025-08-09
+e1a3421e-6bc8-4748-b56e-69b24cc02603,manufacturing,PrecisionArm X12,Production Systems Group,MAN47364,2025-04-27,259539.28,237712.06,1305.4,968.0,excellent,Warehouse B,4.2,2025-05-06
+f1560d30-0fee-413e-977e-25132b6c5599,cleaning,SaniBot AI,Industrial Clean Systems,CLE98826,2024-01-01,8258.15,3293.49,134.9,577.0,good,Warehouse B,20.0,2024-07-06
+f00501f4-36fd-4a82-ba5b-c715b054831d,warehouse,ShelfStacker AI,Industrial Robotics Ltd,WAR32701,2025-03-01,98894.53,86873.84,2318.3,800.0,excellent,Customer Deployed,6.1,2025-06-14
+9e246cfb-53af-42d6-bb7e-ec5fbb01cd1d,cleaning,FloorMaster 5000,CleanBot Industries,CLE59345,2024-03-30,17166.88,3433.38,232.4,485.0,fair,Warehouse C,17.1,2024-06-02
+b5e66f76-d0af-4d8c-a18c-7df5b7f4cac3,construction,Foundation Elite,Heavy Machinery Robotics,CON10963,2025-01-16,124097.04,96089.59,1870.6,518.0,good,Customer Deployed,7.5,2025-06-25
+ffd8a8f4-e2ac-4552-acc7-8fe29e4e5e73,construction,SiteWorker AI,Heavy Machinery Robotics,CON95998,2025-07-21,228992.96,222523.38,3108.1,511.0,excellent,Customer Deployed,1.4,2025-08-11
+623dc0da-f82f-4078-b766-a889fcadccf2,construction,ConstructMaster Pro,BuildTech Industries,CON51888,2024-08-27,191391.06,144737.92,1840.1,601.0,excellent,Warehouse B,12.2,2024-09-25
+4ecd6ee5-0194-4c13-bb46-2de2b816e235,warehouse,WarehouseBot X7,Industrial Robotics Ltd,WAR84978,2023-10-01,149734.26,46140.19,1000.8,520.0,good,Warehouse C,23.1,2024-07-30
+ef227dc5-5b83-4c7a-8e38-35f4a3666a8f,warehouse,ShelfStacker AI,LogiTech Automation,WAR49347,2024-04-24,117063.4,59839.24,1665.5,852.0,good,Warehouse A,16.3,2024-08-26
+5a6af973-15e9-4b90-828b-b39b5b85fa09,warehouse,LogiMover Pro,Storage Solutions Corp,WAR33995,2023-11-07,55248.32,19039.25,589.3,709.0,good,Warehouse B,21.8,2025-08-07
+621097cf-9a4c-4bda-bff8-012f727def41,construction,BuildBot Heavy,BuildTech Industries,CON44152,2025-05-04,154938.76,136462.16,3381.6,659.0,good,Warehouse C,4.0,2025-07-12
+92f787aa-c182-4cf6-be95-e2c483734722,construction,Foundation Elite,Construction Robotics Corp,CON75598,2025-07-27,180870.73,176473.74,4069.2,658.0,excellent,Maintenance Shop,1.2,2025-09-01
+5357722e-e28c-4ec4-8dde-4761f2b0e3dc,cleaning,SaniBot AI,CleanBot Industries,CLE84632,2025-01-04,13262.15,10112.17,149.9,575.0,good,Warehouse A,7.9,2025-03-09
+75a1c26d-1c69-4e38-9954-decc7c82ff23,manufacturing,PrecisionArm X12,Industrial Assembly Ltd,MAN17603,2023-10-01,353213.94,190299.23,806.0,790.0,excellent,Warehouse A,23.1,2025-03-14
+24de4d8c-c725-4515-9df8-bdbde8cf0ac8,cleaning,SaniBot AI,CleanBot Industries,CLE21539,2024-08-10,9187.65,5674.37,152.0,371.0,good,Warehouse A,12.7,2025-04-19
+ec89d632-e868-4826-b359-36800e57ee6e,warehouse,InventoryBot Elite,Industrial Robotics Ltd,WAR11845,2025-07-01,87356.32,83740.39,1707.7,567.0,excellent,Warehouse A,2.1,2025-07-12
+455c476b-73a7-46b6-9c58-0f04b66d838f,construction,ConstructMaster Pro,Construction Robotics Corp,CON60272,2024-11-02,227268.33,181874.39,3688.3,633.0,excellent,Customer Deployed,10.0,2025-05-13
+46a9b706-0aed-404d-aafc-50e3627bc3f8,construction,ConstructMaster Pro,Construction Robotics Corp,CON54280,2024-08-25,260364.86,100844.34,2231.5,545.0,fair,Warehouse A,12.3,2024-09-28
+45c899d2-2333-46f5-bed4-13641cf76d30,manufacturing,PrecisionArm X12,Industrial Assembly Ltd,MAN62873,2024-05-13,398687.23,211262.32,1988.8,905.0,good,Warehouse B,15.7,2024-10-18
+7844ab17-1845-4347-9fd5-5a2b603cbaff,cleaning,FloorMaster 5000,FloorTech Solutions,CLE58049,2025-01-03,19543.38,7113.69,85.0,356.0,maintenance,Maintenance Shop,8.0,2025-07-29
+34f1c7f8-b3d0-414c-aeaa-85c50f878610,cleaning,SaniBot AI,CleanBot Industries,CLE16322,2024-04-29,20424.99,13835.85,169.0,285.0,excellent,Warehouse B,16.1,2025-04-04
+0f483a78-04e0-4613-a65f-2552cec46efe,cleaning,SaniBot AI,Automated Sanitation Corp,CLE92616,2024-03-30,12605.08,2521.02,118.2,288.0,maintenance,Maintenance Shop,17.1,2025-08-04
+52595802-bb1e-4a16-b02a-111946fb7027,cleaning,AutoScrub Elite,Automated Sanitation Corp,CLE23751,2025-04-17,18233.29,15753.47,161.5,440.0,good,Customer Deployed,4.5,2025-07-01
+30189984-631f-4a90-925e-16a507a89a43,cleaning,AutoScrub Elite,Industrial Clean Systems,CLE36433,2024-07-30,20695.2,12557.17,147.4,576.0,good,Warehouse A,13.1,2024-12-02
+e9a8287c-0671-4d7a-8379-e98bdf24a0cf,construction,Foundation Elite,Heavy Machinery Robotics,CON40737,2024-04-24,111084.06,22216.81,3046.6,653.0,fair,Maintenance Shop,16.3,2025-08-18
+9ce69a09-ea52-4bc1-aed2-335bdaa24179,cleaning,IndustriClean Pro,Industrial Clean Systems,CLE77070,2024-06-23,23137.6,13195.42,210.5,311.0,good,Warehouse C,14.3,2025-02-02
+9e49f7c5-8b29-4ad6-9501-f5a2bf9e1873,cleaning,IndustriClean Pro,CleanBot Industries,CLE15170,2025-08-23,17886.74,17769.22,153.3,338.0,excellent,Customer Deployed,0.3,2025-08-29
+e2effcc1-b92a-446f-b566-32f57d55623c,construction,SiteWorker AI,Heavy Machinery Robotics,CON94829,2024-10-02,170848.92,133244.2,1248.5,517.0,excellent,Customer Deployed,11.0,2025-02-17
+339118a7-7fd8-4f93-8701-c62f33b3aafd,warehouse,ShelfStacker AI,Storage Solutions Corp,WAR54921,2024-01-16,138925.4,57459.62,2088.2,795.0,good,Warehouse B,19.5,2024-08-18
+0dc44fec-4329-42b4-bddf-6d390f115deb,warehouse,WarehouseBot X7,Industrial Robotics Ltd,WAR31860,2025-03-07,87026.27,76791.25,1145.9,643.0,excellent,Warehouse A,5.9,2025-06-26
+e400fa28-1bcf-48d2-8602-ae241b53e06a,cleaning,FloorMaster 5000,Industrial Clean Systems,CLE67430,2025-03-09,24631.38,21766.89,182.1,571.0,excellent,Warehouse C,5.8,2025-04-14
+9b96cef7-aeda-4af5-b8f7-20facd82676e,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR73979,2024-10-06,109192.63,85445.74,2267.4,895.0,excellent,Warehouse C,10.9,2025-08-09
+e4779418-dcc0-462d-9ecc-ce1c5ed5c527,cleaning,SaniBot AI,Automated Sanitation Corp,CLE85582,2024-07-17,5919.45,4317.08,77.0,424.0,excellent,Warehouse B,13.5,2025-04-30
+7b2d2f8c-e7b1-413d-a3c2-ae7d511aea4b,warehouse,ShelfStacker AI,Warehouse Robotics Inc,WAR29484,2023-11-29,90449.03,33130.97,1425.2,826.0,good,Warehouse A,21.1,2025-08-15
+0a316375-1cef-4354-b2d5-af3acc83996a,cleaning,IndustriClean Pro,FloorTech Solutions,CLE53371,2024-11-19,15111.35,12261.84,138.3,371.0,excellent,Warehouse A,9.4,2025-01-26
+cf3172c1-7178-4db5-a211-18881880898b,construction,BuildBot Heavy,BuildTech Industries,CON21536,2023-12-26,198861.5,118376.16,2976.2,467.0,excellent,Maintenance Shop,20.2,2024-11-29
+f4aa9f9f-76ac-44b6-a6cd-c2ede5aa88cb,manufacturing,ProductionLine Elite,Industrial Assembly Ltd,MAN10022,2024-10-09,100360.33,78732.09,1529.0,626.0,excellent,Customer Deployed,10.8,2024-11-08
+cff82c2b-9a6f-4035-97a8-de984cc8af85,cleaning,AutoScrub Elite,FloorTech Solutions,CLE53512,2025-08-26,18091.92,18008.71,130.5,589.0,excellent,Warehouse C,0.2,2025-09-01
+cfa4599c-a80d-497f-aba8-b2b672591420,manufacturing,FactoryWorker AI,Production Systems Group,MAN48270,2024-08-03,98767.94,34685.59,1984.4,975.0,fair,Warehouse C,13.0,2024-09-18
+6e2c1956-e78d-4c36-8014-d5f6fc96a488,construction,BuildBot Heavy,Construction Robotics Corp,CON35679,2025-05-01,276797.35,254246.19,3575.3,658.0,excellent,Customer Deployed,4.1,2025-07-01
+37f375a4-ec0b-4b9e-b160-44e4c76e6e5f,warehouse,WarehouseBot X7,Industrial Robotics Ltd,WAR16094,2025-02-06,67636.9,53771.78,1455.7,745.0,good,Warehouse B,6.8,2025-05-22
+927dee08-efea-4295-ad6e-f4e279308cad,cleaning,SaniBot AI,Automated Sanitation Corp,CLE16366,2024-03-19,18169.13,3633.83,201.2,453.0,maintenance,Maintenance Shop,17.5,2025-06-06
+c732fccb-a281-4003-a887-4744b686d257,manufacturing,ProductionLine Elite,Precision Automation Corp,MAN89450,2025-08-17,295218.02,290562.81,956.9,657.0,good,Maintenance Shop,0.5,2025-08-20
+7bab9f75-85d1-4985-9df4-4b0b9edca584,construction,Foundation Elite,Site Automation Ltd,CON69355,2024-10-08,295387.67,231535.8,5709.6,591.0,excellent,Warehouse C,10.8,2025-02-11
+7b7a36c2-095d-4096-9385-416faea2ed60,warehouse,LogiMover Pro,Industrial Robotics Ltd,WAR51144,2025-07-05,108265.07,97772.89,2110.9,863.0,fair,Warehouse A,1.9,2025-08-03
+b3fbb40b-7c72-45dd-a8d8-40c5c9268887,warehouse,LogiMover Pro,LogiTech Automation,WAR33306,2025-06-04,110537.6,104001.21,1032.8,703.0,excellent,Warehouse C,3.0,2025-08-20
+5d62dafa-b922-42a5-95d7-555de1bc8dc6,construction,BuildBot Heavy,Heavy Machinery Robotics,CON79979,2024-03-21,201513.05,96254.92,4166.3,691.0,good,Customer Deployed,17.4,2025-05-13
+0eda53f5-8eb6-4449-bdf4-a8029e36f70d,construction,Foundation Elite,Construction Robotics Corp,CON31094,2024-06-30,192614.25,138322.85,945.6,490.0,excellent,Customer Deployed,14.1,2025-08-04
+0fd5abe0-c0ea-4d29-b151-53452948e20f,construction,SiteWorker AI,BuildTech Industries,CON23432,2024-09-06,263860.91,201276.29,4028.1,600.0,excellent,Warehouse A,11.9,2025-06-29
+22468b9f-5b48-4a07-89bd-6516ac4c1126,warehouse,InventoryBot Elite,LogiTech Automation,WAR64600,2024-03-26,98646.84,64619.51,2049.3,720.0,excellent,Customer Deployed,17.2,2024-08-29
+55497963-01da-405c-af5a-f5b5b12cca34,construction,BuildBot Heavy,Construction Robotics Corp,CON39563,2024-11-03,242325.74,169962.37,2083.8,560.0,good,Warehouse B,10.0,2025-09-01
+b36201c8-2bff-40e8-881d-ed702462b1ee,construction,ConstructMaster Pro,BuildTech Industries,CON77350,2024-08-24,141189.99,89148.21,1447.1,378.0,good,Customer Deployed,12.3,2024-10-18
+b86c3965-8109-4fa1-8f04-19ebcb88f2bd,cleaning,SaniBot AI,Industrial Clean Systems,CLE30290,2024-09-29,13570.16,10556.55,110.3,362.0,excellent,Customer Deployed,11.1,2025-01-23
+3cfb5cb5-a0fe-460a-a3b5-d25bf63b9c6d,cleaning,FloorMaster 5000,CleanBot Industries,CLE85061,2024-10-08,16937.61,11445.68,197.2,527.0,good,Warehouse B,10.8,2025-04-04
+ee3034d8-c464-467a-98a9-29431f4c05a3,construction,BuildBot Heavy,Heavy Machinery Robotics,CON81182,2024-07-30,193213.89,117235.89,5572.0,630.0,good,Warehouse B,13.1,2024-12-05
+a5152c3b-a35c-4e0a-be31-109667cda2ac,manufacturing,AssemblyBot Pro,Industrial Assembly Ltd,MAN91039,2024-01-17,135207.35,27041.47,759.0,689.0,fair,Warehouse B,19.5,2025-03-06
+a05622f1-b938-4f98-b4a0-343887f36997,manufacturing,AssemblyBot Pro,Manufacturing Robotics Inc,MAN99463,2024-10-23,287439.08,228138.24,1911.2,1056.0,excellent,Customer Deployed,10.3,2025-01-04
+02148375-dde3-4a3e-8444-02b05bf1c067,construction,Foundation Elite,Construction Robotics Corp,CON76680,2025-03-21,161822.09,144278.96,2628.8,616.0,excellent,Warehouse B,5.4,2025-03-28
+fc1cbebf-dcb6-4659-8729-163a86e20f4b,manufacturing,ProductionLine Elite,Manufacturing Robotics Inc,MAN80513,2025-02-26,160787.55,111135.68,1779.2,711.0,fair,Warehouse C,6.2,2025-07-08
+48971947-1d28-4903-a4cd-da6a8277741f,cleaning,IndustriClean Pro,FloorTech Solutions,CLE67047,2025-04-16,18406.7,16725.67,209.1,387.0,excellent,Maintenance Shop,4.6,2025-06-08
+494aaa5c-15cd-455b-99a5-a69926cc6d24,cleaning,FloorMaster 5000,Industrial Clean Systems,CLE83149,2024-12-29,14184.5,10731.57,81.6,268.0,good,Warehouse B,8.1,2025-07-19
+c7913498-f130-475d-b1ab-ec53285e4009,cleaning,FloorMaster 5000,CleanBot Industries,CLE10773,2025-08-17,13152.66,13014.39,103.7,309.0,excellent,Customer Deployed,0.5,2025-08-24
+5f347d63-779c-47e8-bf9a-ea9071d995e6,cleaning,IndustriClean Pro,Industrial Clean Systems,CLE46899,2023-09-29,12154.0,2430.8,107.6,413.0,fair,Warehouse C,23.1,2024-09-16
+9c899c35-1fef-4151-ae14-b8d18579c544,manufacturing,ProductionLine Elite,Production Systems Group,MAN81529,2024-11-05,339521.61,238802.81,401.2,713.0,good,Customer Deployed,9.9,2025-07-24
+42796274-1219-462d-9f29-8237f2c5eacb,construction,ConstructMaster Pro,Heavy Machinery Robotics,CON11461,2025-06-01,227390.04,206548.44,5746.1,648.0,good,Warehouse A,3.1,2025-07-11
+2bb607b3-15f0-4546-ba42-a6675df03497,warehouse,WarehouseBot X7,Warehouse Robotics Inc,WAR55069,2024-09-19,45528.13,35118.28,1265.8,843.0,excellent,Warehouse A,11.4,2025-02-25
+a8c7066d-0b58-4414-ab30-06be283f412c,warehouse,InventoryBot Elite,LogiTech Automation,WAR84356,2025-02-10,61900.21,49455.1,803.7,493.0,good,Warehouse A,6.7,2025-05-04
+b3ce86fa-b02b-42af-9a63-a567f7354b57,cleaning,SaniBot AI,Industrial Clean Systems,CLE53365,2024-12-22,10813.05,8106.24,49.3,413.0,good,Customer Deployed,8.3,2025-01-30
+99281d2b-e015-4186-8c61-64f286566daf,construction,ConstructMaster Pro,BuildTech Industries,CON90785,2024-08-09,97510.14,35204.88,3334.0,539.0,fair,Warehouse B,12.8,2025-08-21
+b3161ee6-b232-4730-8729-0f02c6c755c1,construction,ConstructMaster Pro,Heavy Machinery Robotics,CON93995,2024-05-06,256732.45,52628.47,5070.5,581.0,fair,Warehouse A,15.9,2025-04-06
+61b4da86-75e3-4316-a0d9-fff5409f4e19,manufacturing,FactoryWorker AI,Industrial Assembly Ltd,MAN50038,2024-12-19,105663.98,61058.78,2223.4,926.0,fair,Warehouse A,8.4,2025-07-25
+f28b722a-6ff0-40ff-bfb2-6138a3a5c334,manufacturing,AssemblyBot Pro,Precision Automation Corp,MAN92132,2025-05-16,279487.55,259471.69,565.2,968.0,excellent,Customer Deployed,3.6,2025-08-17
+66a18107-d30e-494a-b925-40e2e6f74836,cleaning,IndustriClean Pro,Industrial Clean Systems,CLE37886,2024-06-05,21991.75,5591.86,180.0,504.0,fair,Warehouse A,14.9,2024-10-26
+7e7e0758-1c96-4e71-96b5-76782b01ff56,cleaning,AutoScrub Elite,Automated Sanitation Corp,CLE27548,2025-02-07,18078.16,15619.44,80.8,462.0,excellent,Warehouse C,6.8,2025-07-14
+53010119-6c39-4fdc-8c3e-040385f2afdc,manufacturing,AssemblyBot Pro,Production Systems Group,MAN99674,2025-05-30,183714.29,166513.71,278.6,1038.0,good,Warehouse C,3.1,2025-06-02
+93c6d5e2-88f4-4aa5-b8d3-dcc33ce3b5f2,warehouse,LogiMover Pro,Industrial Robotics Ltd,WAR73373,2023-10-21,61718.35,12343.67,1232.3,641.0,fair,Warehouse B,22.4,2024-12-24
+dc582466-2785-4c50-a272-43cb0fa76c7e,construction,BuildBot Heavy,BuildTech Industries,CON57349,2025-07-05,246331.29,236782.31,1914.0,430.0,excellent,Warehouse B,1.9,2025-09-01
+2f31b74f-ed49-4d93-b885-e74aa3590eb4,manufacturing,ProductionLine Elite,Production Systems Group,MAN45847,2025-02-28,359727.67,315766.21,487.1,697.0,excellent,Maintenance Shop,6.1,2025-05-19
+113c687e-d59a-4585-9196-2b92fbc72d41,construction,ConstructMaster Pro,Site Automation Ltd,CON59326,2023-11-12,222076.95,77624.79,2791.8,562.0,good,Warehouse B,21.7,2025-01-03
+9ebeae3d-dcaf-4dd6-9125-bfe66981ed77,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR67658,2025-05-30,130809.86,122644.99,1259.5,764.0,excellent,Maintenance Shop,3.1,2025-07-11
+40f72ec0-8b74-48e7-9714-fe8738d6cfec,warehouse,LogiMover Pro,Warehouse Robotics Inc,WAR96652,2025-01-20,99026.83,84387.52,962.7,528.0,excellent,Warehouse C,7.4,2025-08-11
+60ac173b-0faa-4d9d-a502-0eccda395303,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR63857,2023-10-05,120626.84,37646.35,1397.8,609.0,good,Warehouse C,22.9,2025-04-12
+210d9724-6338-4419-acbd-9464ae90ed9e,cleaning,FloorMaster 5000,Industrial Clean Systems,CLE31802,2024-04-03,7557.7,4990.47,114.8,391.0,excellent,Customer Deployed,17.0,2024-10-13
+ede5d520-c3d8-4a39-8444-a2bc91bd6e2f,construction,ConstructMaster Pro,Site Automation Ltd,CON47152,2023-12-17,209855.44,41971.09,3184.8,692.0,fair,Maintenance Shop,20.5,2024-11-12
+4d52c5aa-8c2b-4556-ba57-aebd51cfcc27,cleaning,FloorMaster 5000,Automated Sanitation Corp,CLE28705,2024-10-19,17130.52,11761.76,138.2,358.0,good,Warehouse C,10.4,2025-06-28
+35d60e9c-5913-4ef8-ba7b-bc942af5dd61,warehouse,ShelfStacker AI,LogiTech Automation,WAR60523,2024-01-04,121039.61,24207.92,1152.0,588.0,maintenance,Maintenance Shop,19.9,2024-02-20
+ee7a27f0-3b11-4208-9791-40c3c839c405,warehouse,WarehouseBot X7,Warehouse Robotics Inc,WAR22622,2025-05-29,66246.6,59978.85,1612.0,665.0,good,Warehouse A,3.2,2025-07-27
+bcbc9eef-7162-40a8-9c45-64c115a4f966,warehouse,InventoryBot Elite,Warehouse Robotics Inc,WAR89098,2024-02-24,137164.03,62003.19,1589.9,652.0,good,Warehouse C,18.3,2025-07-15
+8b7ef9d3-5ed7-4482-8ba0-d92bb460947b,cleaning,SaniBot AI,Automated Sanitation Corp,CLE59969,2023-12-15,12407.55,4740.47,51.2,313.0,good,Warehouse C,20.6,2024-09-29
+e9b82e97-0967-4600-ae74-50ba00480abd,construction,BuildBot Heavy,Site Automation Ltd,CON81267,2024-03-05,105123.7,21024.74,2373.6,542.0,maintenance,Maintenance Shop,17.9,2024-07-22
+b56998bc-b900-4979-9bba-a06923946b17,manufacturing,FactoryWorker AI,Precision Automation Corp,MAN59155,2023-09-08,61859.61,12371.92,1849.6,990.0,maintenance,Maintenance Shop,23.8,2025-04-13
+ad7d0929-f4e9-4fcc-80c5-444e81112fe1,warehouse,ShelfStacker AI,Industrial Robotics Ltd,WAR57925,2025-06-20,83038.33,79000.99,681.1,579.0,excellent,Warehouse A,2.4,2025-08-09
+fed24e27-1149-460f-87e3-1047714346bf,construction,Foundation Elite,BuildTech Industries,CON43263,2023-12-26,167976.34,33595.27,3668.4,568.0,maintenance,Maintenance Shop,20.2,2024-09-23
+ff517990-e262-430e-ae83-6713863751c5,construction,SiteWorker AI,Site Automation Ltd,CON31206,2024-05-11,240551.05,51287.0,5259.5,666.0,fair,Warehouse A,15.7,2025-02-16
+595af369-248b-4bbf-a477-3a0f005c6317,cleaning,FloorMaster 5000,Automated Sanitation Corp,CLE61000,2024-12-11,20721.62,11701.86,201.5,451.0,fair,Customer Deployed,8.7,2025-04-02
+758c0f64-17e6-4398-bb5c-4a29e6fb6bee,cleaning,IndustriClean Pro,FloorTech Solutions,CLE89826,2024-03-02,14433.37,6623.99,114.5,295.0,good,Warehouse C,18.0,2025-06-09
+68811873-ccf7-4cd9-8a9c-b51cb6d73811,cleaning,SaniBot AI,Automated Sanitation Corp,CLE32973,2024-01-25,17279.31,7300.0,155.5,531.0,good,Warehouse A,19.3,2024-09-06
+f63566bd-1199-4129-b33b-017f31187a8e,manufacturing,ProductionLine Elite,Manufacturing Robotics Inc,MAN88579,2024-08-19,128580.46,80552.87,1992.3,780.0,good,Customer Deployed,12.5,2024-11-16
+01564e1e-cc36-4b97-a78c-6550d37422da,warehouse,LogiMover Pro,Warehouse Robotics Inc,WAR97773,2024-10-23,82772.7,65696.07,1475.3,592.0,excellent,Warehouse B,10.3,2025-04-21
+0e447e89-bdfb-48d3-a1ff-cac363d6316a,manufacturing,ProductionLine Elite,Precision Automation Corp,MAN86406,2025-08-26,236032.52,234946.96,2336.8,750.0,excellent,Warehouse B,0.2,2025-08-28
+ea06d076-9770-47a2-b84d-992a061aba06,construction,SiteWorker AI,Heavy Machinery Robotics,CON32942,2025-08-15,125916.49,122193.6,4316.5,503.0,fair,Warehouse B,0.6,2025-08-26
+30e9f0b5-3f2a-4ce6-afd2-d866414dca28,manufacturing,AssemblyBot Pro,Manufacturing Robotics Inc,MAN80504,2024-03-20,231077.52,110148.98,1260.7,747.0,good,Warehouse C,17.4,2025-01-14
+e9b68d85-8e6f-4555-9fbe-e52f7d813d32,construction,Foundation Elite,Site Automation Ltd,CON70387,2025-01-14,201712.94,155790.78,4950.5,731.0,good,Warehouse A,7.6,2025-07-05
+0cad3ae8-e8a3-4044-b761-79f9a316b92a,cleaning,SaniBot AI,Industrial Clean Systems,CLE51383,2023-10-07,10156.4,3189.72,102.9,305.0,good,Warehouse A,22.9,2024-12-02
+91d21039-1fae-40cd-b495-13b6bd9d93ff,manufacturing,FactoryWorker AI,Manufacturing Robotics Inc,MAN82686,2024-08-29,298278.31,225962.48,1098.2,781.0,excellent,Warehouse B,12.1,2025-07-28
+0e0568c5-df2b-4602-8a13-21bd45fa8b7d,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR34925,2024-03-28,82121.48,39792.77,1572.3,923.0,good,Maintenance Shop,17.2,2025-05-19
+bf081d98-3a2e-439a-a33e-a9e388d467bb,manufacturing,PrecisionArm X12,Precision Automation Corp,MAN30446,2024-11-18,310045.88,251377.54,2821.2,791.0,excellent,Warehouse C,9.5,2025-02-27
+32d9072c-3c44-4a3f-bc4c-d4ee02055488,cleaning,IndustriClean Pro,Industrial Clean Systems,CLE15539,2024-12-09,18516.24,13643.87,177.0,535.0,good,Warehouse A,8.8,2025-05-23
+aae593b3-8d05-47fa-b2f6-61d41b6e660f,manufacturing,FactoryWorker AI,Industrial Assembly Ltd,MAN76995,2025-01-08,227395.73,174281.94,2899.5,1138.0,good,Warehouse A,7.8,2025-06-27
+946151c6-153f-4658-9c51-b670083df0fb,construction,Foundation Elite,BuildTech Industries,CON14268,2024-12-26,243788.11,83611.95,1549.8,502.0,maintenance,Maintenance Shop,8.2,2025-07-23
+501e62dd-c214-4e6e-9341-c8e96958e959,construction,Foundation Elite,BuildTech Industries,CON59732,2024-12-03,177869.11,145964.86,1179.7,393.0,excellent,Warehouse B,9.0,2025-08-06
+49f4cca2-33e9-41ac-b2e3-ddebada2ef8a,cleaning,AutoScrub Elite,CleanBot Industries,CLE57962,2024-12-16,17255.56,14307.83,103.6,295.0,excellent,Maintenance Shop,8.5,2025-03-06
+4521b04e-8142-4f72-b1a0-da2fa8ecfd5c,warehouse,InventoryBot Elite,Industrial Robotics Ltd,WAR33578,2024-07-19,67105.91,39990.18,1356.4,811.0,good,Warehouse C,13.5,2025-03-13
+d8d50a04-7458-49bf-acbf-aaeb806a4c9d,warehouse,LogiMover Pro,Warehouse Robotics Inc,WAR29601,2025-02-17,120685.62,105064.68,1990.4,794.0,excellent,Warehouse C,6.5,2025-03-06
+8104c33e-5511-4947-bf06-cb1ebd7ae9ee,manufacturing,AssemblyBot Pro,Precision Automation Corp,MAN51383,2024-04-04,203317.03,99921.9,648.9,833.0,good,Customer Deployed,17.0,2025-04-24
+17f88908-e090-403a-9c48-1f8d31d0e21c,manufacturing,FactoryWorker AI,Industrial Assembly Ltd,MAN43330,2024-01-08,251127.07,101886.31,2052.3,949.0,good,Warehouse A,19.8,2024-03-27
+cdf558a9-b31d-4baf-8aec-336b261b5107,manufacturing,AssemblyBot Pro,Production Systems Group,MAN63970,2024-09-29,313161.69,243615.93,1109.6,850.0,excellent,Warehouse B,11.1,2025-08-23
+268f8b22-70a3-4838-a6fd-45285539f35d,cleaning,AutoScrub Elite,FloorTech Solutions,CLE52610,2024-09-23,16537.08,10930.55,171.3,563.0,good,Warehouse A,11.3,2025-08-03
+f22cf1f9-6dc8-4461-9b7f-71c0c624aacc,manufacturing,ProductionLine Elite,Manufacturing Robotics Inc,MAN54222,2025-04-30,189564.14,166211.13,994.5,609.0,good,Warehouse B,4.1,2025-06-01
+e43ceb53-3a53-4fcb-ad80-2fe73a204edb,manufacturing,ProductionLine Elite,Manufacturing Robotics Inc,MAN61833,2025-04-26,86898.06,79532.85,1059.2,870.0,excellent,Warehouse B,4.2,2025-06-27
+965a8725-5a63-4042-af80-e56ce774268d,construction,Foundation Elite,Heavy Machinery Robotics,CON40753,2025-04-12,243276.49,220419.37,3391.6,543.0,excellent,Customer Deployed,4.7,2025-07-27
+d2c766ca-0e0b-4632-bee2-33c48aff1025,construction,BuildBot Heavy,BuildTech Industries,CON13455,2024-05-06,112554.85,58865.74,1001.8,576.0,good,Warehouse A,15.9,2024-06-30
+68b661eb-9bc5-472e-a6f8-26b4a0cae4af,manufacturing,AssemblyBot Pro,Manufacturing Robotics Inc,MAN47247,2025-08-04,149233.77,146390.29,669.6,884.0,excellent,Customer Deployed,1.0,2025-08-08
+bc7d5b55-3089-4c29-b00b-f8668e71f369,manufacturing,PrecisionArm X12,Precision Automation Corp,MAN72410,2025-08-07,239092.39,232965.84,768.7,789.0,good,Maintenance Shop,0.9,2025-08-29
+8232c2bd-f745-4ca6-849e-9bc08d64b0bd,manufacturing,FactoryWorker AI,Production Systems Group,MAN83922,2025-02-11,105939.07,91809.22,2597.3,1005.0,excellent,Warehouse A,6.7,2025-08-28
+ea21b217-2141-497a-b28a-c2abedae9b94,manufacturing,FactoryWorker AI,Industrial Assembly Ltd,MAN30410,2025-08-08,223761.57,218248.39,747.0,698.0,good,Warehouse B,0.8,2025-08-28
+f49859b7-4aa9-47cc-900f-6794bebb3b50,construction,BuildBot Heavy,Construction Robotics Corp,CON74478,2024-05-26,192746.15,133985.17,4147.8,541.0,excellent,Warehouse A,15.2,2025-05-27
+495a488d-02ac-41f0-b621-7dfc00525d58,manufacturing,FactoryWorker AI,Manufacturing Robotics Inc,MAN34716,2023-09-12,320395.53,64079.11,2894.1,1121.0,fair,Warehouse C,23.7,2024-10-02
+eef21d37-8761-4f2a-aeb4-544dd9b0d2d8,manufacturing,ProductionLine Elite,Production Systems Group,MAN91962,2024-07-29,144964.68,106866.21,2072.4,1048.0,excellent,Customer Deployed,13.1,2025-04-24
+4fdec7ec-0197-4dea-b78a-0d8a6c3d9d87,warehouse,ShelfStacker AI,Storage Solutions Corp,WAR24464,2025-01-04,113087.99,95181.15,1402.6,588.0,excellent,Customer Deployed,7.9,2025-05-24
+819970c2-a869-4e73-8495-a0ca2cf574c8,manufacturing,ProductionLine Elite,Industrial Assembly Ltd,MAN23405,2025-04-24,298160.68,272497.7,1785.0,911.0,excellent,Customer Deployed,4.3,2025-08-25
+dc72138e-686f-494c-8dd5-c31b6579ec8f,construction,SiteWorker AI,BuildTech Industries,CON54815,2023-11-20,235919.09,47183.82,4123.0,494.0,fair,Warehouse A,21.4,2024-04-20
+2f8a03a3-fcaa-473c-ac46-d23a9ff875e8,manufacturing,FactoryWorker AI,Production Systems Group,MAN17345,2023-09-20,399307.57,212246.93,1920.4,973.0,excellent,Customer Deployed,23.4,2025-06-11
+7df123b5-3ff8-498d-8007-c18022cf34a4,construction,Foundation Elite,Construction Robotics Corp,CON42631,2024-10-15,197218.19,155493.97,1982.7,410.0,excellent,Customer Deployed,10.6,2025-08-05
+90dc5c37-50f8-42a3-8e04-f490a76ec51b,manufacturing,ProductionLine Elite,Precision Automation Corp,MAN37321,2024-02-10,310790.46,62158.09,444.5,881.0,fair,Warehouse A,18.7,2024-03-17
+7cc9989a-81d3-4a37-95c5-906b95ab1b61,manufacturing,ProductionLine Elite,Industrial Assembly Ltd,MAN73075,2025-04-25,378313.18,345999.96,887.4,877.0,excellent,Customer Deployed,4.3,2025-08-21
+f72f38af-5c87-4f29-a205-0521746805f3,construction,ConstructMaster Pro,Heavy Machinery Robotics,CON52534,2024-04-09,274691.9,136353.31,4716.6,499.0,good,Warehouse C,16.8,2024-11-03
+62a5319b-2a8b-4a0d-92c6-9008ec82f0c5,cleaning,FloorMaster 5000,CleanBot Industries,CLE72294,2023-12-13,16693.94,3338.79,117.3,480.0,fair,Customer Deployed,20.7,2025-07-30
+a263e8ed-6109-4133-b715-d8344ee8c793,warehouse,ShelfStacker AI,Warehouse Robotics Inc,WAR91937,2024-04-11,71115.84,35441.11,1171.4,614.0,good,Warehouse C,16.7,2024-12-17
+7fbbab01-7bff-443f-bf0a-bc33356d2087,cleaning,IndustriClean Pro,CleanBot Industries,CLE83184,2023-11-11,17891.5,6236.16,192.0,316.0,good,Warehouse A,21.7,2025-06-19
+ed6fa5b4-e1b8-42cb-b900-a97b6a3be60b,construction,Foundation Elite,BuildTech Industries,CON67344,2023-12-10,79804.39,15960.88,2255.1,381.0,fair,Warehouse A,20.8,2024-09-21
+de70d25b-14c0-458b-9a77-8fca01d597c5,construction,Foundation Elite,BuildTech Industries,CON82682,2025-01-03,202507.89,170308.87,3382.6,643.0,excellent,Warehouse A,8.0,2025-07-01
+cc88a53f-c960-498c-8269-551610c49aad,warehouse,WarehouseBot X7,LogiTech Automation,WAR34318,2025-07-23,92185.34,89702.03,1570.6,785.0,excellent,Warehouse A,1.3,2025-08-09
+1f687ac7-10e8-41c1-b4da-4da335c14522,cleaning,AutoScrub Elite,FloorTech Solutions,CLE99551,2025-02-24,11413.88,9276.59,59.1,409.0,good,Warehouse B,6.2,2025-03-25
+103e2d28-c059-463f-8626-011cfb7d85a4,manufacturing,PrecisionArm X12,Industrial Assembly Ltd,MAN27009,2024-06-30,169684.01,50113.64,1669.2,883.0,fair,Customer Deployed,14.1,2024-08-11
+962d35d9-5d02-4714-91ea-2daf53d7666c,warehouse,WarehouseBot X7,LogiTech Automation,WAR74213,2024-08-24,56240.79,35510.77,635.0,620.0,good,Warehouse A,12.3,2025-01-23
+6dcc3c86-2682-4526-80ba-7fc43697a8c3,construction,BuildBot Heavy,Heavy Machinery Robotics,CON20480,2025-07-27,124662.63,121632.07,3061.9,753.0,excellent,Warehouse C,1.2,2025-07-28
+c09b9d66-0dbf-4c99-a09e-fc77dbb2fd3f,manufacturing,AssemblyBot Pro,Industrial Assembly Ltd,MAN90862,2024-05-29,249726.76,136266.8,3186.8,962.0,good,Warehouse C,15.1,2024-12-19
+6323b542-fe19-4d70-a55e-a413afcda368,construction,BuildBot Heavy,Construction Robotics Corp,CON60506,2025-07-26,262752.71,256192.52,1200.3,446.0,excellent,Customer Deployed,1.2,2025-08-27
+556a4a7f-e948-4ef3-8479-94acf03037e5,warehouse,LogiMover Pro,LogiTech Automation,WAR93705,2023-11-13,104852.91,36753.63,2243.1,813.0,good,Warehouse B,21.6,2025-02-06
+d3f9c591-73bd-4c5a-a0f0-f1ba0c9e8fbd,construction,Foundation Elite,Site Automation Ltd,CON88632,2024-10-03,273635.4,213586.63,1581.8,442.0,excellent,Customer Deployed,11.0,2025-08-25
+01c2c65a-ab3e-4ad8-9b0a-e30f47f365e1,manufacturing,FactoryWorker AI,Industrial Assembly Ltd,MAN52395,2024-05-20,247027.66,49405.53,3749.7,965.0,maintenance,Maintenance Shop,15.4,2024-11-23
+6343dd1c-3d56-442e-a52f-2bb57c7cabb3,warehouse,LogiMover Pro,Industrial Robotics Ltd,WAR62047,2024-01-18,125399.36,25079.87,2033.2,877.0,fair,Warehouse A,19.5,2024-03-30
+1378f003-1031-4292-be33-9e807b1906de,cleaning,IndustriClean Pro,CleanBot Industries,CLE39083,2025-05-13,16915.26,15048.14,165.7,372.0,good,Warehouse B,3.7,2025-07-02
+1a97d807-2ca0-4afc-b112-b322aa5b32c9,warehouse,ShelfStacker AI,Warehouse Robotics Inc,WAR84798,2024-12-28,126009.92,74678.68,2387.5,878.0,fair,Customer Deployed,8.1,2025-06-05
+a213f5be-71f4-480d-a11b-77345e7c2ffc,warehouse,WarehouseBot X7,Warehouse Robotics Inc,WAR43586,2024-11-10,93338.83,66109.89,626.2,659.0,good,Warehouse A,9.7,2024-11-16
+702e9aab-2861-4db4-8478-f547090d74ff,construction,BuildBot Heavy,Site Automation Ltd,CON85527,2025-03-29,203039.61,182095.31,1752.9,436.0,excellent,Warehouse B,5.2,2025-05-06
+4c7424ef-e9a1-477e-a0af-89b52b7a7cd4,cleaning,AutoScrub Elite,Industrial Clean Systems,CLE55603,2023-12-02,19615.79,3923.16,139.7,337.0,fair,Warehouse A,21.0,2024-11-27
+e6ab6ce8-7b04-4f12-a8b4-722a619802d3,manufacturing,ProductionLine Elite,Manufacturing Robotics Inc,MAN60133,2023-10-22,355727.41,196561.6,1090.8,737.0,excellent,Customer Deployed,22.4,2025-03-26
+b787a3b3-9a18-45ff-9faa-43924bbe9b9e,cleaning,AutoScrub Elite,Industrial Clean Systems,CLE98294,2024-01-31,11386.33,2277.27,116.6,379.0,maintenance,Maintenance Shop,19.1,2024-06-04
+94518d8a-6316-4f2d-8b3c-af913d436733,manufacturing,ProductionLine Elite,Manufacturing Robotics Inc,MAN16463,2025-05-28,135509.11,126872.85,951.3,594.0,excellent,Warehouse A,3.2,2025-06-28
+6a789bff-67ed-4d8d-b28b-438a65edd3d6,manufacturing,FactoryWorker AI,Manufacturing Robotics Inc,MAN35966,2023-12-18,195499.19,75271.04,1384.1,871.0,good,Warehouse A,20.5,2025-07-01
+e3a19bda-09a9-4f6b-8048-38043cfb67c2,manufacturing,ProductionLine Elite,Precision Automation Corp,MAN66369,2023-09-04,250796.99,50159.4,3462.7,811.0,maintenance,Maintenance Shop,23.9,2025-05-21
+4ba32c80-8800-4765-9a8b-580e4c4194a2,construction,BuildBot Heavy,Construction Robotics Corp,CON49953,2023-12-16,226143.2,133130.29,2848.3,445.0,excellent,Customer Deployed,20.6,2024-03-06
+1d0b7a2a-d740-416c-9c1c-902e45b98b90,warehouse,ShelfStacker AI,Industrial Robotics Ltd,WAR30446,2024-03-02,110434.13,50682.15,1482.5,700.0,good,Warehouse A,18.0,2024-06-05
+599fc061-deae-4d9d-ad47-94620086a5e8,cleaning,IndustriClean Pro,Industrial Clean Systems,CLE54993,2024-12-27,9860.97,7441.08,118.7,421.0,good,Warehouse C,8.2,2025-01-02
+2c0f6d5f-4589-4139-889b-2b50a4931da1,cleaning,AutoScrub Elite,Automated Sanitation Corp,CLE43902,2023-09-12,14423.81,2884.76,94.6,294.0,fair,Warehouse A,23.7,2025-04-03
+157ae80d-1199-44d5-8b38-bcb7a6268789,manufacturing,PrecisionArm X12,Manufacturing Robotics Inc,MAN90997,2024-02-22,188046.27,119104.21,2486.4,774.0,excellent,Customer Deployed,18.3,2024-08-20
+caebe0ae-bbff-4b3f-a6aa-df9cdf56d902,construction,BuildBot Heavy,Site Automation Ltd,CON24141,2024-01-07,222320.52,134093.45,932.4,455.0,excellent,Maintenance Shop,19.8,2024-02-07
+85197192-fb10-46bb-87f8-aa2922a7eae1,cleaning,AutoScrub Elite,Automated Sanitation Corp,CLE88263,2025-02-24,9623.37,6620.02,106.6,254.0,fair,Warehouse C,6.2,2025-06-03
+dd4566e6-c0c9-425d-aff8-bfa5279836a0,cleaning,FloorMaster 5000,FloorTech Solutions,CLE79391,2025-02-27,15013.02,12246.17,151.7,288.0,good,Warehouse C,6.1,2025-05-27
+9b40828c-2af8-4c91-bf09-3f8b0094302b,construction,SiteWorker AI,Site Automation Ltd,CON75700,2025-03-22,163514.96,145895.74,1268.8,456.0,excellent,Customer Deployed,5.4,2025-06-14
+07a5ba71-f7cf-4c23-95a1-22be749e05e0,construction,BuildBot Heavy,Heavy Machinery Robotics,CON46725,2023-11-20,272702.39,54540.48,5649.5,465.0,maintenance,Maintenance Shop,21.4,2024-10-13
+5c031ed2-4408-4815-bb56-541ef74a7987,warehouse,LogiMover Pro,Storage Solutions Corp,WAR91988,2025-07-23,139203.41,135453.52,1524.5,794.0,excellent,Warehouse B,1.3,2025-07-24
+c81d06fa-23d8-45be-a536-d201fa8ac9fd,warehouse,InventoryBot Elite,LogiTech Automation,WAR95520,2025-03-26,105154.35,94100.02,1246.5,619.0,excellent,Customer Deployed,5.3,2025-08-11
+e13967ed-0961-42f4-ac85-19f86fe7a4ed,warehouse,LogiMover Pro,LogiTech Automation,WAR29025,2024-09-16,77444.83,59584.69,1409.4,717.0,excellent,Warehouse A,11.5,2025-02-23
+ee0d9fd9-8867-4067-b87c-d6eeada7a231,warehouse,ShelfStacker AI,Warehouse Robotics Inc,WAR13864,2025-08-05,103520.73,100664.05,1991.2,759.0,good,Warehouse A,0.9,2025-08-06
+8bd48716-7834-4467-afb2-f5d672a71fc6,construction,Foundation Elite,Site Automation Ltd,CON29917,2024-08-16,143253.32,53367.04,3791.4,678.0,fair,Warehouse A,12.5,2025-01-16
+62df3368-9cfc-456a-9d02-e35aaef3259c,warehouse,WarehouseBot X7,LogiTech Automation,WAR40432,2025-01-14,64398.38,54624.38,1516.1,691.0,excellent,Customer Deployed,7.6,2025-05-07
+6f2f5ce7-983d-4646-92ba-1b54db2b5651,warehouse,WarehouseBot X7,Storage Solutions Corp,WAR34114,2025-06-27,53344.92,50996.62,1380.6,847.0,excellent,Warehouse B,2.2,2025-07-01
+687b134a-0f7b-4dfc-bc4b-c68269ffb7cc,manufacturing,ProductionLine Elite,Production Systems Group,MAN45370,2023-10-30,106754.33,21350.87,662.7,790.0,fair,Warehouse A,22.1,2024-12-12
+f2e67d32-930e-4f10-a7a4-34138209f78e,manufacturing,PrecisionArm X12,Precision Automation Corp,MAN74217,2023-10-19,317644.04,103516.06,611.7,1025.0,good,Warehouse B,22.5,2024-04-24
+ea8756e0-c1b5-41a6-a9ab-37f6c71344d3,construction,Foundation Elite,BuildTech Industries,CON61662,2024-12-07,171200.03,125812.9,3741.7,734.0,good,Maintenance Shop,8.8,2025-05-03
+82b0d0aa-2ddb-43e6-bc85-a91e015b3721,cleaning,IndustriClean Pro,Automated Sanitation Corp,CLE15144,2024-04-26,14138.01,2827.6,177.2,377.0,fair,Warehouse A,16.2,2025-08-30
+cd774bfe-fbc4-407a-95b3-13fb99ae188b,manufacturing,AssemblyBot Pro,Precision Automation Corp,MAN90364,2024-09-23,159000.98,123063.83,1183.5,891.0,excellent,Warehouse A,11.3,2025-02-26
+80cf326b-c77a-46ee-99bc-5fd00c67acd3,cleaning,FloorMaster 5000,Automated Sanitation Corp,CLE81618,2024-11-16,21597.87,15425.02,143.3,356.0,good,Warehouse A,9.5,2024-12-14
+f023a7b0-3ff6-4412-8237-d801549d90c5,warehouse,InventoryBot Elite,Industrial Robotics Ltd,WAR69596,2025-01-26,78963.4,61920.38,478.7,750.0,good,Warehouse C,7.2,2025-07-31
+f3701a2b-67d1-4a2a-a2ce-3e202ed2c378,cleaning,AutoScrub Elite,CleanBot Industries,CLE68903,2024-12-20,18834.35,15666.42,230.5,469.0,excellent,Customer Deployed,8.4,2025-07-04
+24539053-5359-41d0-a017-db6d3fb33251,construction,BuildBot Heavy,Site Automation Ltd,CON15754,2025-02-09,238546.61,190351.42,5794.8,504.0,good,Warehouse A,6.7,2025-03-25
+95fbf026-ad8f-445e-b662-d53f16dbcd4b,warehouse,ShelfStacker AI,LogiTech Automation,WAR68491,2024-07-27,62023.03,45641.13,683.8,473.0,excellent,Warehouse C,13.2,2024-10-26
+762b6794-ceac-427c-b63a-238fa2482d1d,construction,ConstructMaster Pro,Construction Robotics Corp,CON75225,2024-05-06,277171.93,144959.83,4838.9,600.0,good,Warehouse C,15.9,2024-12-11
+e50e8a68-2440-49f0-957f-6d70888e60fe,manufacturing,AssemblyBot Pro,Production Systems Group,MAN88656,2024-07-01,140878.64,81454.14,1691.8,840.0,good,Warehouse A,14.1,2024-08-10
+81c9c687-c179-48c2-93df-b63c780cb8d8,cleaning,FloorMaster 5000,CleanBot Industries,CLE95626,2024-07-09,17395.32,5394.61,166.7,288.0,fair,Customer Deployed,13.8,2025-04-14
+6aa6df18-87f1-44d0-9c61-bb88ab2a199c,construction,BuildBot Heavy,BuildTech Industries,CON16426,2024-06-01,267111.59,66163.65,4506.8,594.0,fair,Warehouse A,15.0,2024-08-09
+e09b9523-e760-4b27-806d-9446b0dc3495,cleaning,SaniBot AI,FloorTech Solutions,CLE69682,2025-07-06,8226.7,7913.2,86.4,414.0,excellent,Warehouse B,1.9,2025-07-09
+0b43549b-703c-4896-a29a-ed14bee7f369,construction,BuildBot Heavy,Construction Robotics Corp,CON18509,2025-05-01,247915.2,227717.12,2736.3,586.0,excellent,Maintenance Shop,4.1,2025-05-12
+e82666df-3977-41e6-b9a6-e6c87526c849,construction,Foundation Elite,BuildTech Industries,CON17626,2023-11-11,102455.23,57959.23,3817.9,534.0,excellent,Customer Deployed,21.7,2025-03-13
+1374e8c3-7434-4fea-8323-4654e8cf1a5c,cleaning,IndustriClean Pro,Automated Sanitation Corp,CLE51482,2025-04-16,19481.48,15033.51,174.0,503.0,fair,Warehouse B,4.6,2025-07-02
+31b09929-f8c3-4bc9-8171-05ee996b17c5,construction,SiteWorker AI,BuildTech Industries,CON40503,2024-11-03,213215.25,170768.32,3515.9,644.0,excellent,Warehouse B,10.0,2025-04-22
+dbbada8c-ed82-4d80-90fe-c391877428a0,construction,ConstructMaster Pro,Construction Robotics Corp,CON90649,2024-04-29,101596.61,20319.32,2640.6,506.0,fair,Warehouse C,16.1,2024-06-28
+630e49ac-b76a-44f9-b0ee-28c158ba1291,manufacturing,ProductionLine Elite,Manufacturing Robotics Inc,MAN46913,2024-05-17,173489.37,38698.84,1681.7,701.0,fair,Warehouse C,15.5,2025-03-27
+1bf30c68-3e72-49c6-ad24-a7d8b963e2c2,construction,BuildBot Heavy,Heavy Machinery Robotics,CON61910,2025-03-02,142563.9,116711.31,2965.1,465.0,good,Customer Deployed,6.0,2025-08-08
+c51b8fb9-161e-4628-916e-1570988f1715,cleaning,FloorMaster 5000,FloorTech Solutions,CLE73110,2025-02-09,11610.3,10046.49,94.1,487.0,excellent,Warehouse B,6.7,2025-08-26
+5b6c934b-d9b1-410b-9b8f-c70c704dd716,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR98892,2024-11-13,93559.36,75548.26,1696.4,620.0,excellent,Maintenance Shop,9.6,2025-02-24
+ea6f7f3d-be7b-4cd8-9f8b-eb5e21e6c9b0,construction,BuildBot Heavy,BuildTech Industries,CON29569,2024-10-27,204914.47,100572.35,2796.0,503.0,fair,Warehouse A,10.2,2024-12-31
+4eef8f3b-d869-478e-a100-f370e8859119,construction,BuildBot Heavy,Heavy Machinery Robotics,CON88012,2024-12-24,296314.22,222722.38,4298.5,605.0,good,Maintenance Shop,8.3,2025-02-18
+cd667330-8a06-4489-b30b-6da6e6db61f8,cleaning,AutoScrub Elite,CleanBot Industries,CLE49666,2023-11-19,19196.8,10960.59,93.1,439.0,excellent,Warehouse C,21.5,2025-05-24
+2ba6d845-d716-4a2f-be04-93e148dbcd38,warehouse,ShelfStacker AI,LogiTech Automation,WAR13268,2024-05-27,56784.28,11356.86,1602.9,862.0,maintenance,Maintenance Shop,15.2,2025-05-15
+9ad2daf9-f6da-4af7-bae6-c0e2a4d7347b,manufacturing,PrecisionArm X12,Precision Automation Corp,MAN22878,2024-10-25,175639.41,139634.48,1564.9,687.0,excellent,Warehouse C,10.2,2025-07-03
+e459318c-c997-42ec-aad2-b8593b783dac,warehouse,LogiMover Pro,Warehouse Robotics Inc,WAR87894,2025-05-10,93233.68,86189.09,1420.5,664.0,excellent,Maintenance Shop,3.8,2025-08-30
+8690a81b-edd2-48c6-b330-02d3dd24067d,cleaning,AutoScrub Elite,Automated Sanitation Corp,CLE50913,2025-04-21,22783.72,17768.91,80.5,379.0,fair,Maintenance Shop,4.4,2025-07-12
+f19dd07e-4dd1-4c73-ba85-a0fd5749827d,warehouse,ShelfStacker AI,LogiTech Automation,WAR29571,2024-12-14,65217.29,48377.35,790.4,541.0,good,Customer Deployed,8.6,2024-12-20
+fcf8c780-9648-45f7-9c30-9fff5bddd61a,warehouse,ShelfStacker AI,Warehouse Robotics Inc,WAR51744,2025-07-11,46601.96,44167.76,1295.0,638.0,good,Warehouse B,1.7,2025-08-23
+83cf25ad-8bc0-4cb8-84a1-6de1085033d8,construction,ConstructMaster Pro,Heavy Machinery Robotics,CON16648,2024-03-15,204168.66,40833.73,1661.3,579.0,fair,Warehouse A,17.6,2024-06-19
+786f0ddf-ea3f-4dfa-8c6f-a2f490e79bbd,warehouse,WarehouseBot X7,Industrial Robotics Ltd,WAR88134,2025-01-26,139845.7,109662.18,641.9,490.0,good,Warehouse A,7.2,2025-04-03
+7028fcec-f257-4b81-89e7-c2c0d995ed6c,manufacturing,FactoryWorker AI,Industrial Assembly Ltd,MAN71039,2024-05-07,172992.91,118094.37,794.7,816.0,excellent,Warehouse A,15.9,2024-05-09
+a32698b9-df2d-4a5d-9f26-291eb9819e86,warehouse,WarehouseBot X7,Industrial Robotics Ltd,WAR39333,2025-05-28,55212.61,49934.4,896.9,660.0,good,Warehouse B,3.2,2025-07-21
+c2a3f7f0-f3f4-4f38-b2a3-8e07b6c986ad,warehouse,ShelfStacker AI,Storage Solutions Corp,WAR69412,2024-06-20,86168.08,24033.08,1445.7,913.0,fair,Warehouse A,14.4,2024-08-21
+14a6fc53-6127-4722-ac30-a58d644909ad,manufacturing,AssemblyBot Pro,Manufacturing Robotics Inc,MAN26697,2024-12-07,221613.68,182445.43,1114.3,697.0,excellent,Warehouse B,8.8,2024-12-15
+84b9b947-f151-4efd-bd8a-f3ce8234dc93,cleaning,SaniBot AI,Industrial Clean Systems,CLE64190,2025-02-27,11517.39,9394.77,141.3,449.0,good,Warehouse B,6.1,2025-04-08
+cd1f90c4-3501-4f02-a5ae-a91fe237d424,warehouse,LogiMover Pro,LogiTech Automation,WAR67062,2024-07-04,147258.63,44458.17,1185.7,688.0,fair,Customer Deployed,14.0,2024-11-25
+5ede7277-205b-4474-a227-fd7d1232cc45,construction,ConstructMaster Pro,BuildTech Industries,CON87616,2024-05-29,224087.76,54402.38,1441.9,496.0,fair,Warehouse A,15.1,2025-04-26
+f7baed26-1840-4912-8557-e946a78a1ef6,manufacturing,FactoryWorker AI,Manufacturing Robotics Inc,MAN59664,2025-03-22,339487.84,302907.02,998.1,576.0,excellent,Customer Deployed,5.4,2025-06-23
+edacf22c-53d5-48f3-bdde-c0af75bf76d2,construction,Foundation Elite,Construction Robotics Corp,CON29231,2023-11-03,95369.93,53449.77,4136.1,745.0,excellent,Customer Deployed,22.0,2023-12-08
+02cb7aca-d9e8-4d57-bae7-172a6ad6de9d,warehouse,InventoryBot Elite,Storage Solutions Corp,WAR84747,2023-12-25,85948.18,17189.64,1147.0,620.0,fair,Warehouse B,20.3,2025-01-09
+96ec0b7a-6ca2-4861-91a7-a842b3350f48,construction,Foundation Elite,Heavy Machinery Robotics,CON48559,2025-01-05,297815.08,180410.97,3843.2,653.0,fair,Customer Deployed,7.9,2025-03-11
+47696b16-a8b9-41c0-9600-7bc74b9bd76a,cleaning,AutoScrub Elite,Industrial Clean Systems,CLE14087,2024-12-28,5016.87,1747.0,133.4,316.0,maintenance,Maintenance Shop,8.1,2025-04-27
+e608dcb9-a43c-4188-a471-948ba501ddb3,warehouse,InventoryBot Elite,Industrial Robotics Ltd,WAR32729,2024-07-20,110647.5,66046.82,1758.6,680.0,good,Customer Deployed,13.4,2024-11-08
+b21d7102-2ba8-4fd2-920f-2c6c88c44b1e,manufacturing,PrecisionArm X12,Precision Automation Corp,MAN26455,2025-03-06,248843.34,219413.77,2855.5,890.0,excellent,Warehouse B,5.9,2025-03-26
+06a5a4d7-d343-4a01-8faf-2454004cf7d4,warehouse,WarehouseBot X7,Warehouse Robotics Inc,WAR27796,2024-07-11,113080.87,35439.93,906.1,698.0,fair,Customer Deployed,13.7,2024-11-06
+9d498439-77cd-4565-af19-27fbd0b655d2,cleaning,FloorMaster 5000,Automated Sanitation Corp,CLE69558,2025-01-09,22203.06,8431.91,222.4,596.0,maintenance,Maintenance Shop,7.8,2025-05-03
+1a0029b2-19f6-41ef-912d-bdde20dff6b4,manufacturing,ProductionLine Elite,Production Systems Group,MAN41031,2025-01-01,180804.46,137325.86,738.2,864.0,good,Warehouse B,8.0,2025-01-12
+3c35d76a-94a7-43e5-9b79-bc57e6aeef63,construction,Foundation Elite,Heavy Machinery Robotics,CON20494,2024-06-16,82528.92,46497.08,859.9,456.0,good,Warehouse C,14.6,2025-03-08
+abb1c3aa-8baf-45c9-bae0-b58bc27b0c28,warehouse,ShelfStacker AI,Industrial Robotics Ltd,WAR96997,2023-09-07,99279.7,28244.49,1520.2,695.0,good,Warehouse A,23.9,2024-04-12
+a7ced157-1020-40ac-9615-74e99178cab2,cleaning,AutoScrub Elite,Industrial Clean Systems,CLE85230,2024-02-03,23071.71,9951.76,130.7,479.0,good,Warehouse A,19.0,2024-04-22
+58aed2e1-971b-48e8-b510-c3e5d0c2004e,construction,Foundation Elite,Heavy Machinery Robotics,CON49855,2024-03-06,291130.79,134757.98,4512.8,507.0,good,Warehouse A,17.9,2024-08-31
+2657bba5-fd8a-4e6e-b6bc-c180e3307e05,construction,BuildBot Heavy,Site Automation Ltd,CON73538,2023-09-07,205081.74,107256.94,3837.3,568.0,excellent,Customer Deployed,23.9,2025-03-02
+d92ff2d9-7d40-4ba2-822e-e8b2de24aa81,cleaning,FloorMaster 5000,Industrial Clean Systems,CLE24621,2024-01-08,22028.91,13301.29,95.3,329.0,excellent,Customer Deployed,19.8,2024-08-24
+73720bd9-9caa-49d4-a000-46b6b265816a,warehouse,LogiMover Pro,Industrial Robotics Ltd,WAR79125,2025-01-27,83825.52,35799.34,729.9,502.0,maintenance,Maintenance Shop,7.2,2025-05-16
+74dd9bf9-47c4-41d6-aaff-f3959c541529,cleaning,AutoScrub Elite,Industrial Clean Systems,CLE60222,2025-05-02,24346.91,22379.32,173.7,585.0,excellent,Warehouse B,4.0,2025-08-09
+6b4a3e13-8eee-4e71-9eea-e754511bef7c,warehouse,InventoryBot Elite,LogiTech Automation,WAR25203,2023-10-24,67139.96,13427.99,1391.8,841.0,fair,Warehouse A,22.3,2025-05-31
+194c0a67-99a2-47cd-9010-dcff0f3800e5,cleaning,FloorMaster 5000,Automated Sanitation Corp,CLE59781,2023-10-02,12974.9,2594.98,90.4,423.0,maintenance,Maintenance Shop,23.0,2023-10-15
+8699ea27-c808-44a0-9474-d1a0a3ead623,manufacturing,ProductionLine Elite,Industrial Assembly Ltd,MAN98931,2025-07-05,109350.94,102992.49,2126.1,1153.0,good,Warehouse A,1.9,2025-08-24
+2ee05e7c-d7fc-4f1f-b428-fa9e8cfd3a4f,construction,BuildBot Heavy,Construction Robotics Corp,CON45728,2024-10-26,281485.23,195208.71,4474.6,638.0,good,Customer Deployed,10.2,2025-04-22
+7dbdbc4f-ddab-451e-ab08-3037e5eff2fd,construction,SiteWorker AI,Heavy Machinery Robotics,CON41692,2025-01-31,255521.18,165702.63,2200.6,487.0,fair,Warehouse B,7.0,2025-04-30
+bb8f1790-c2ed-4ff9-93e6-cca1c2622b57,warehouse,ShelfStacker AI,LogiTech Automation,WAR78847,2023-11-25,77893.33,15578.67,413.6,487.0,fair,Warehouse A,21.3,2023-12-08
+b0603f6c-a184-4ee5-8385-d454234802ea,cleaning,SaniBot AI,CleanBot Industries,CLE87874,2024-04-26,9388.33,1877.67,77.6,226.0,maintenance,Maintenance Shop,16.2,2025-05-26
+d06637fb-f914-4a02-8381-339ff262b532,warehouse,WarehouseBot X7,Warehouse Robotics Inc,WAR34217,2024-11-26,54070.57,44123.29,1231.4,683.0,excellent,Maintenance Shop,9.2,2025-07-16
+e0172222-2121-4ba2-8c27-f2d965ed5d52,cleaning,FloorMaster 5000,CleanBot Industries,CLE65965,2025-07-04,10891.37,10247.33,121.5,383.0,good,Warehouse C,2.0,2025-07-09

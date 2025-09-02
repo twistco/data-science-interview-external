@@ -1,0 +1,7 @@
+plan_id,plan_name,robot_category,robot_types_included,price_monthly,price_yearly,max_robots,maintenance_included,status,created_date
+CLEAN_BASIC_001,Cleaning Basic,cleaning,cleaning,89.99,899.99,2,True,active,2022-01-15
+WAREHOUSE_PRO_002,Warehouse Automation Pro,warehouse,warehouse,599.99,5999.99,5,True,active,2022-01-20
+CONSTRUCTION_003,Construction Fleet,construction,construction,899.99,8999.99,3,True,active,2022-02-01
+MANUFACTURING_004,Manufacturing Suite,manufacturing,manufacturing,1299.99,12999.99,8,True,active,2022-03-01
+ENTERPRISE_005,Enterprise Multi-Robot,enterprise,"cleaning,warehouse,construction,manufacturing",2499.99,24999.99,15,True,active,2022-04-01
+TRIAL_006,Trial Plan,trial,cleaning,0.0,0.0,1,False,active,2022-01-01

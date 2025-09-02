@@ -1,0 +1,301 @@
+customer_id,customer_type,first_name,last_name,company_name,email,phone,country,city,address,postal_code,registration_date,annual_income,preferred_contact
+CUST_A064C0C4,individual,Megan,Sanchez,,zwarren@example.com,001-453-552-1818x8355,Canada,East Jonathanburgh,127 Webster Trace,76453,2024-07-26,30126.0,phone
+CUST_73DC9DC0,individual,Sandra,Cunningham,,michelle52@example.com,377-644-9058,Australia,Hayeston,1199 Ford Plaza Apt. 793,42644,2024-11-17,29702.0,email
+CUST_E3F767A0,individual,Walter,Rosario,,vgarcia@example.net,482-703-7788,UK,Samanthafurt,9051 Davis Springs Suite 449,20210,2024-05-02,53680.0,phone
+CUST_68625360,business,,,"Alvarado, Rangel and Collins",tanderson@example.org,486-552-8168x5054,UK,Staceyfort,22141 Ebony Wells,81507,2023-12-06,380669.0,email
+CUST_908E1615,individual,Nicholas,Martin,,jenniferwilliams@example.com,+1-937-994-7383x47359,Germany,Kimberlyhaven,39240 Sawyer Plaza Apt. 814,11494,2025-03-12,50907.0,email
+CUST_96B4A23F,individual,Joshua,Whitehead,,mariahdavis@example.org,550.260.6853x615,USA,Sarahmouth,04727 Gilbert Common,02991,2024-03-07,23951.0,phone
+CUST_493B6668,individual,Mary,Dunn,,srodriguez@example.org,510-436-9711x7980,Canada,Rubenstad,621 Jones Pine,71814,2024-09-06,21104.0,phone
+CUST_1593F74A,individual,Vanessa,Spencer,,cmarks@example.net,(754)705-1531x9520,USA,Port Kimberly,722 Jennifer Mount Apt. 430,26645,2025-06-10,22596.0,email
+CUST_D58257ED,individual,Leslie,Collins,,ihays@example.com,903-845-0541x566,UK,Terrifort,8416 Ryan View Apt. 845,13948,2023-10-30,48814.0,email
+CUST_0333EEC2,business,,,"Phillips, Griffin and Robbins",hannahbell@example.org,001-959-264-0165x8202,Germany,North Joel,6909 Erika Land Suite 719,18548,2024-09-23,842418.0,email
+CUST_5EEF4E6F,business,,,Edwards-Ramirez,johnsonjacob@example.net,(381)944-7394x7312,Canada,Lake Sean,551 Vance Vista,21145,2025-02-03,465006.0,email
+CUST_3764AD42,individual,Sara,Little,,william13@example.org,470.358.9578,France,West Raymondfort,9125 Shannon Springs Suite 289,24351,2025-03-16,39014.0,sms
+CUST_4B97B505,individual,David,Shaw,,guerraapril@example.com,(525)635-8414,Australia,Lake Kevin,299 George Road,94955,2025-06-22,40747.0,phone
+CUST_777A87EC,individual,Matthew,Bradshaw,,bryananthony@example.org,+1-594-839-6907x8447,Canada,Shawnton,6773 Lawson Island,94658,2024-04-22,32751.0,email
+CUST_EC543FC8,individual,Vanessa,Reed,,xanderson@example.net,+1-415-337-1473,USA,West Soniachester,59532 Ferrell Mountain,65874,2025-06-05,28258.0,sms
+CUST_F7C3D89B,business,,,Johnson-Landry,nlevy@example.net,(400)647-9748x016,France,Kathrynstad,0983 Tran Cliffs,51140,2024-09-04,224843.0,sms
+CUST_D89F8A4F,business,,,"Ramirez, Hays and Becker",andersoncolin@example.com,985-923-9868x00025,UK,New Patricia,9526 Wheeler Parkways,67310,2024-09-25,680136.0,phone
+CUST_69590BFD,individual,Jeanne,Evans,,richardsonemily@example.com,001-240-997-4993,Canada,New Cristina,30913 Scott Manor Apt. 636,66275,2025-03-21,39678.0,sms
+CUST_9BD412F7,individual,Samantha,Salas,,thorntonapril@example.net,578-565-2785x85497,Netherlands,Angelabury,3757 Castro Underpass Suite 419,89187,2024-10-03,50492.0,phone
+CUST_921A1735,individual,Paula,Foster,,stephanie24@example.org,315-574-7338x4842,France,North Elizabeth,301 Rivera Mountains,13679,2025-01-11,40522.0,phone
+CUST_BED9A05F,individual,Derrick,Oconnell,,richarddonovan@example.com,434.254.0193x8026,Germany,Frenchburgh,04991 Mitchell Row Suite 287,36262,2024-01-20,45689.0,phone
+CUST_FB16AC60,individual,Daniel,Martin,,twong@example.org,7543932966,UK,Caldwellburgh,5304 Young Terrace,35496,2025-07-30,50525.0,email
+CUST_87B60B5B,individual,Kevin,Sharp,,greenmichael@example.org,6177426841,UK,East Susan,79568 Todd Unions Apt. 391,69380,2024-07-24,44640.0,sms
+CUST_87096B33,individual,Jane,Miller,,brownamy@example.net,598.922.5871,Germany,New Seanton,86790 Chambers Inlet Apt. 640,98255,2024-02-08,38792.0,email
+CUST_8588F96D,individual,Charles,Henderson,,weaverbrian@example.org,404.762.2656x7661,Netherlands,East Victoriafurt,300 Ford Stravenue,71862,2024-07-08,34902.0,phone
+CUST_11048700,individual,Nicolas,Hall,,rreed@example.org,001-210-569-0331x1907,Netherlands,South Scottside,28439 Ray Trail,88651,2025-04-22,48875.0,phone
+CUST_11FA693B,individual,Joel,Walter,,roberthill@example.net,001-726-887-0568,Australia,Hernandezfurt,733 Mathews Divide,61190,2025-07-01,40811.0,email
+CUST_B0BEC5BA,individual,Anna,Faulkner,,paulscott@example.com,+1-317-551-8304x6990,USA,South Jason,0331 Rocha Square Apt. 638,42655,2025-03-21,26358.0,sms
+CUST_B4DBD547,individual,Oscar,Ferguson,,kyle58@example.com,217.653.5560x932,USA,Phillipsborough,69378 Scott View Suite 772,96546,2025-04-05,27799.0,sms
+CUST_4B6DEE6A,individual,Gary,Cortez,,iwhite@example.net,3804100623,France,East Williamstad,977 Adam Plaza,54415,2023-09-10,40529.0,sms
+CUST_C6B7ACA0,individual,Alyssa,Hill,,andre62@example.org,682-833-9845,Netherlands,West Susanmouth,341 Clayton Light,49937,2024-10-10,34801.0,email
+CUST_B3A5000F,individual,Brian,Smith,,christopherbruce@example.net,291-480-3397x40148,Germany,Alexisborough,614 Anne Port,51508,2025-01-08,45279.0,email
+CUST_D468A7D2,individual,Amber,Reyes,,krystalnorris@example.org,650.916.3159x99650,Netherlands,Perezside,2961 Yates Station Apt. 142,50308,2025-02-03,34044.0,sms
+CUST_7355988E,individual,Cynthia,Singh,,michael10@example.com,854.312.1267x888,USA,North Michaelland,0466 Jenny Points Apt. 982,90326,2024-06-06,23747.0,email
+CUST_4D53B855,business,,,Adams LLC,kthomas@example.com,964-371-5437x993,Australia,West Adam,9657 Jordan View Apt. 459,91634,2024-01-26,739062.0,phone
+CUST_BFBDE599,individual,Leon,Oconnell,,kelly79@example.org,564-965-1939x82807,Australia,Marieland,724 Johnny Drives Suite 617,78873,2024-08-17,39157.0,email
+CUST_97C05474,individual,Richard,Hunter,,ystephens@example.com,001-789-811-3529x096,Netherlands,North Coreybury,5679 Michael Burg,63778,2023-11-17,57787.0,email
+CUST_D980C15F,individual,Robert,Nixon,,guerrajessica@example.com,657-238-7571x7751,Germany,North Melindaville,382 Mark Meadow,61063,2024-02-18,44798.0,sms
+CUST_AF48ACF6,individual,Richard,Lopez,,vfoster@example.net,379.366.0334,UK,West Mark,47859 Carr Radial Apt. 557,81419,2024-01-06,36739.0,sms
+CUST_88820328,individual,Emily,Mcbride,,powerslawrence@example.org,412-952-8669x2966,Germany,New Garrett,25790 Crane Oval Apt. 368,66749,2024-12-22,36862.0,email
+CUST_6DF0F26F,individual,Robert,Vasquez,,fburns@example.net,9349043842,Netherlands,New Dannyside,078 Veronica Cove Apt. 407,34948,2024-05-13,31003.0,email
+CUST_8332897F,individual,Lisa,Gonzales,,rowejoel@example.net,001-259-762-9233,Germany,Candiceburgh,449 Farley Passage Apt. 260,36850,2025-05-27,54802.0,email
+CUST_3630F5C3,individual,David,Cline,,dustinmorris@example.org,001-767-929-4667x11684,Netherlands,Murphytown,751 Robinson Meadow,28268,2024-08-28,36177.0,email
+CUST_AA783003,business,,,Clayton-Morgan,ashleewashington@example.com,+1-600-417-0127x70632,USA,Clarencestad,52064 Ruben Course Apt. 037,10716,2023-12-08,291700.0,sms
+CUST_488D6B74,individual,Jeremy,Frazier,,smithmatthew@example.org,(427)413-6111x55426,Australia,New Annaburgh,3269 Heath Corners Apt. 219,96184,2024-06-08,33930.0,phone
+CUST_147E2565,individual,Sylvia,Edwards,,johnnewman@example.org,+1-599-894-0438,USA,Debbiebury,1379 Allison Bridge Suite 526,74999,2024-07-05,26358.0,email
+CUST_9E05FC48,individual,Amy,Thompson,,xbest@example.org,6918043006,Netherlands,Milesland,1418 Terri Drives,70806,2024-04-27,56863.0,phone
+CUST_32BBFD7C,individual,Brenda,Hines,,collinssamuel@example.org,6314617990,Australia,North Jeantown,5884 Nathan Summit,35728,2025-02-18,49177.0,sms
+CUST_414271A2,individual,David,Yoder,,lindsay48@example.org,491-677-8507x925,Germany,New Emilyville,800 John Mountains,48208,2024-06-07,51560.0,sms
+CUST_2B3A1137,individual,Edward,Velazquez,,tranrobin@example.net,+1-263-453-6541x9518,Germany,Port Zachary,1744 Miller Motorway,01545,2024-05-28,61855.0,sms
+CUST_1BC98DDC,individual,Kelly,Mueller,,stevenvargas@example.com,001-838-632-0603x85050,Netherlands,East Alyssabury,0241 Samantha Vista Suite 571,76623,2023-11-10,38787.0,phone
+CUST_D69190DB,individual,Dennis,Wilkins,,vargasbryan@example.net,(634)545-6557,USA,East Derekshire,12775 Martinez Knolls,27716,2024-07-28,37791.0,phone
+CUST_17BE5AA7,individual,Steven,Phelps,,mooregina@example.net,001-690-635-2135x680,USA,North Stephanie,831 Garcia Underpass Apt. 100,29636,2023-12-06,31600.0,email
+CUST_DA401993,individual,Madison,Watson,,aguilarjonathan@example.org,9132721510,Netherlands,New Ryan,0662 Lewis Ferry Suite 472,05042,2024-11-23,59727.0,sms
+CUST_A5E07D73,individual,Christina,Holland,,jjenkins@example.com,2148626383,Australia,Timothyfort,856 White Island Apt. 040,62325,2024-09-23,50167.0,sms
+CUST_013E6A33,individual,Katie,Key,,craigsandoval@example.com,+1-703-796-5223,Australia,Lake Jackieshire,378 Thompson Camp,12331,2023-10-13,40086.0,email
+CUST_D4D3AA6A,individual,Carolyn,Smith,,nsmith@example.org,(352)750-0292,Germany,West Janetfurt,4522 Conner Oval,85590,2024-04-20,32862.0,email
+CUST_BBEE7645,individual,Jasmine,Hoffman,,jeffrey92@example.com,542-320-9690x2959,France,Taylorland,5215 Smith Fords,33208,2025-01-20,35792.0,email
+CUST_05D1DC3E,individual,Michael,Buchanan,,williamssamuel@example.com,(567)465-8617,USA,Joneston,54115 Pamela Estates Apt. 815,78361,2025-08-22,23859.0,phone
+CUST_C25CCA61,individual,Patricia,Bush,,kdunlap@example.net,(320)215-3368x84443,France,Armstrongfort,50614 Gonzalez Burg,27626,2024-01-04,30223.0,sms
+CUST_DCC5E83A,business,,,Rowland-Wells,parkerraymond@example.com,+1-941-686-2565x27047,Australia,Port Joseph,11586 Angela Ville,51239,2025-04-22,584877.0,email
+CUST_717AD8AF,individual,Robert,Nichols,,parmstrong@example.com,416-508-9899x2172,Netherlands,East Brad,632 Flores Stream,09284,2023-11-04,35796.0,email
+CUST_64D88ADD,individual,Angela,Arnold,,april09@example.net,761.862.2999x11914,USA,Patrickfort,24629 Williams Isle Apt. 074,49317,2023-09-16,24812.0,email
+CUST_26EF4F17,individual,Lisa,Turner,,megan13@example.org,775-246-9137x3678,Netherlands,North Larry,89023 Mary Gateway Apt. 705,92858,2024-01-25,41135.0,phone
+CUST_B8621579,individual,Micheal,Marshall,,hreid@example.net,7357797279,Canada,Port Patricia,0602 Mercedes Rue,30006,2025-01-09,35686.0,email
+CUST_3EA984DA,individual,Joseph,Ortiz,,hancocktammy@example.net,6726290349,UK,Woodardstad,3748 Silva Avenue Suite 899,37552,2024-04-07,36217.0,email
+CUST_0DD5582C,individual,Daniel,Brown,,danielle44@example.net,001-943-628-3096x520,Australia,Rebeccafurt,099 Matthew Station Apt. 875,66995,2024-04-08,34574.0,email
+CUST_F115C781,individual,George,Sandoval,,kellyruiz@example.net,682-651-3534x655,Netherlands,Yorkfort,999 Thomas Fields,66099,2023-11-28,39345.0,phone
+CUST_9A56E9A1,individual,Erin,Moreno,,jbrown@example.org,956.797.2521,Netherlands,West Cynthia,4329 Tracy Track,12040,2023-12-05,48545.0,phone
+CUST_BDF9B2B5,individual,Ryan,Jordan,,ysanford@example.org,2835505830,France,Lake Natalie,16894 Cameron Cape Suite 478,78668,2024-09-19,39808.0,sms
+CUST_03A482B5,individual,Ryan,Mcdaniel,,matthewvalenzuela@example.com,001-732-260-3323x09821,UK,Mcdowellview,010 Hannah Mall,58738,2024-06-05,36051.0,email
+CUST_FB9B4481,individual,Amy,Wells,,jamiejennings@example.org,661-384-9926x1891,Netherlands,South Jamesborough,356 Martin Plaza Suite 375,31238,2023-09-04,31561.0,email
+CUST_688FDA32,individual,Emily,Meadows,,fhernandez@example.net,314-437-4470,France,Port Kellymouth,110 Melissa Shore Apt. 557,82002,2024-03-16,35073.0,email
+CUST_080B9BD5,individual,Jessica,Watson,,ian66@example.com,967-962-1202x169,Germany,New Noah,027 Rodriguez Loop Suite 014,86349,2024-04-18,56542.0,sms
+CUST_75E63BC2,individual,Janet,Gregory,,tiffanysantiago@example.com,489.916.3756x28900,Australia,Boothland,3540 Andrea Lane Suite 317,58721,2025-04-09,47413.0,sms
+CUST_AEA14984,business,,,Miller-Jimenez,david70@example.org,(960)788-0199x4883,Netherlands,Marciabury,8997 Baldwin Crescent Apt. 305,47049,2025-04-30,988516.0,email
+CUST_37438B80,individual,Tamara,Carter,,jacqueline02@example.com,(561)949-3316,Australia,Lake Matthew,91779 Tamara Avenue Apt. 869,63799,2025-07-08,40996.0,email
+CUST_08A98EB9,individual,Kimberly,Kent,,jessicaanderson@example.com,+1-499-458-6693x46547,Australia,Morrisonhaven,858 James Road Suite 522,66547,2024-10-02,40246.0,email
+CUST_4D5D5D69,individual,Dana,Page,,anna99@example.net,001-268-546-0810x620,Canada,Karenburgh,420 Harris Plains Apt. 571,81255,2025-05-28,34773.0,email
+CUST_13D1199D,individual,Jodi,Hancock,,yyoung@example.net,506-766-5800x4397,Netherlands,Port Jenny,7212 Jill Crest,49941,2023-10-01,35833.0,sms
+CUST_021421AF,business,,,Hawkins-Anderson,adam72@example.org,(759)309-4798,Netherlands,Aliciaburgh,268 Davis Forges,28465,2024-12-29,1080378.0,phone
+CUST_FD749CEB,business,,,Ward-Robinson,wbarajas@example.net,7158739930,USA,South Jonathanport,588 Tucker Hill,85898,2024-01-20,1042364.0,sms
+CUST_D2FD6D3F,individual,Willie,Vaughan,,teresaayala@example.net,3134361386,USA,South Jenniferton,02481 Rhonda Lodge,51361,2024-07-27,27450.0,phone
+CUST_938DE53A,individual,Richard,Stewart,,inunez@example.org,+1-691-990-1581x4491,Australia,Fostertown,83268 Choi Divide Suite 508,73255,2023-12-14,48124.0,email
+CUST_ED1A0756,individual,Bobby,Armstrong,,fmedina@example.com,653.568.2223,Germany,East Emilyshire,781 Powers Glen,13372,2024-01-24,32684.0,email
+CUST_BD89DED0,individual,Beverly,Lynn,,david31@example.com,+1-713-757-7594x929,France,Jacksonmouth,64525 Ford Knolls,40539,2024-08-22,44428.0,email
+CUST_D3B64972,individual,Daniel,Brewer,,wilkinsonmichele@example.org,+1-834-511-0809,Germany,New Jorgeside,256 Patricia Radial Suite 278,67401,2023-11-07,51222.0,email
+CUST_F21338F1,individual,Michael,Smith,,melaniedrake@example.net,+1-928-527-2299x27503,Canada,West Miketon,567 Keith Canyon,85504,2024-04-25,24397.0,sms
+CUST_B1F58FCE,individual,Jane,Boyd,,mary49@example.net,001-826-565-9184,Netherlands,Gomezstad,9082 Martin Club Suite 322,21126,2024-05-23,50741.0,email
+CUST_C03460E8,business,,,"Montoya, Guerrero and Perry",jennifer77@example.com,492.460.3029,France,New Dylanburgh,86990 Valentine Forge Suite 977,22857,2024-02-09,680285.0,sms
+CUST_267B76CF,individual,Robert,Thomas,,cindydixon@example.org,001-857-499-1366x2103,Australia,East Thomaston,72980 Boyd Land,06194,2025-01-23,51767.0,sms
+CUST_234BC143,individual,Roy,Mays,,yclarke@example.com,001-691-862-4731,Canada,Jacobtown,063 Ortiz Coves,20788,2024-07-09,21396.0,sms
+CUST_1A9CA7FA,individual,Brenda,Green,,ncunningham@example.com,+1-763-868-8725x88744,Canada,Port Michelle,372 Jason Locks,44860,2025-04-09,23243.0,email
+CUST_9101A20A,individual,Christina,Cohen,,martintamara@example.org,727-396-1143,Australia,Lake Patrickfurt,902 Gonzales Flats Suite 309,67419,2024-09-13,33174.0,sms
+CUST_303C33F2,individual,Jesse,Jackson,,warddiana@example.org,246-356-6938,Australia,New Justinside,4393 Spears Ports Apt. 426,66854,2023-11-18,29534.0,sms
+CUST_EA0C9D55,individual,Charles,Phillips,,prattsue@example.net,001-947-269-7357,UK,Wilsonland,335 Moses Path Apt. 434,12691,2024-06-19,48522.0,email
+CUST_6BF36537,individual,Kaitlyn,Peterson,,thomasgomez@example.net,723-473-3343x333,Canada,North Samanthafort,075 Vasquez Ports,36510,2024-08-25,27422.0,email
+CUST_ECF95061,individual,Tracey,Moon,,raymond92@example.org,267.280.8562x71875,UK,South Bianca,9428 Young Mountains Suite 527,56068,2024-02-02,45583.0,email
+CUST_4913017A,individual,Jaclyn,Watson,,lramirez@example.net,(593)414-3866,Germany,South Linda,7288 Floyd Hills,33396,2024-10-16,54315.0,sms
+CUST_36AC7F74,individual,Ashley,Ross,,briancervantes@example.com,+1-317-754-5588x4506,Canada,New Barbara,5587 Preston Light,80935,2024-03-29,36330.0,email
+CUST_26BE9363,business,,,"Frye, Oneill and Davidson",robert99@example.com,812-653-5544,Germany,Normanstad,2202 Ebony Summit Apt. 326,14002,2023-11-10,825431.0,sms
+CUST_E6395E61,individual,Sharon,Kennedy,,johnsonrandy@example.org,649-921-6433,Australia,East Alison,05577 Dunn Dale,91939,2024-09-30,37987.0,sms
+CUST_7DA4F1DA,individual,Brittany,Bryant,,omills@example.net,257-283-1745x6424,Canada,West Justin,774 Katie Union,38894,2024-11-11,32982.0,phone
+CUST_D9C72A5E,individual,Laura,Kelley,,robertcastro@example.com,626.663.4163,UK,Robertland,41797 Graves Overpass,25114,2024-04-23,45419.0,phone
+CUST_8A61BDA8,individual,Edwin,Booker,,lopezcurtis@example.com,(770)831-2073,USA,Kristifort,0512 Joseph Lock Apt. 872,25692,2025-06-17,27031.0,phone
+CUST_0EB40CD8,individual,John,James,,martinezkayla@example.org,(473)203-7183x7645,Netherlands,West Timothyport,0313 Nguyen Expressway,36689,2024-11-02,60622.0,phone
+CUST_E99CE326,individual,Randy,Sanchez,,perkinshannah@example.net,+1-725-413-2719x500,Canada,East Tonymouth,3065 John Canyon Suite 784,71638,2025-01-23,36382.0,phone
+CUST_B3E0EBC7,individual,James,Lopez,,mario74@example.net,+1-721-982-7448,UK,Port Danafurt,95935 Dominique Plain,51290,2024-01-18,50073.0,sms
+CUST_E3ADA904,business,,,"Jimenez, Arnold and Austin",robert51@example.org,910.622.0317x31096,USA,West Jeffreyland,71705 Short Underpass,93356,2023-10-14,339809.0,phone
+CUST_24435FA7,individual,Christina,Rice,,davenportchristian@example.org,811.338.6338x39288,France,Emilychester,28685 Amanda Rapid,58567,2025-07-15,40665.0,phone
+CUST_62734B55,business,,,Pierce-Shea,robert65@example.net,998.836.8457,USA,Lake Austinport,240 Joyce Forest,41776,2023-09-17,270694.0,phone
+CUST_D73918D8,individual,Lynn,Norris,,samantha88@example.net,001-721-507-5224,Germany,West Lisa,693 Jennifer Turnpike,63747,2024-01-06,44640.0,email
+CUST_BA5A1AFB,individual,Margaret,Norris,,larsonkevin@example.net,001-561-205-5661,Canada,Brownhaven,8925 Eric Spring,96390,2025-08-31,21628.0,phone
+CUST_DDA136D8,business,,,Mullins-Johnston,walkerkeith@example.com,(625)317-9086,Netherlands,Shawberg,8376 Ann Street,69215,2024-02-29,1115722.0,phone
+CUST_41628AA8,individual,Charles,Frank,,gail91@example.org,+1-966-455-3559x04259,France,Williamsbury,521 Jodi Gardens,81897,2025-07-10,41072.0,email
+CUST_CB85AF9D,individual,Misty,Wilkins,,cooperlinda@example.com,970.453.8338x848,USA,South Brandyhaven,2043 Brown Shoal,01593,2023-10-20,22554.0,email
+CUST_8905CF77,business,,,"Nelson, Christian and Keller",smithmichelle@example.net,(936)281-5798x1238,Netherlands,East Sandraport,6205 Kelly Hollow Apt. 840,82524,2024-03-08,899533.0,phone
+CUST_652C29D5,individual,Paul,Cooke,,raymondstacy@example.org,(856)521-6893,Canada,South Tara,8232 Michelle Inlet Apt. 629,21216,2024-04-21,30762.0,phone
+CUST_576B0081,individual,Angela,Fry,,whitemary@example.org,001-205-666-4742x3122,Canada,New Jesse,1728 Joseph Landing,24615,2025-05-16,33612.0,sms
+CUST_21A4093E,individual,Travis,Taylor,,jeremyortiz@example.org,563-833-1279x757,UK,Parsonsfurt,9998 Abigail Mission Suite 038,71000,2024-06-17,47499.0,phone
+CUST_76C18101,individual,Jill,Grant,,leescott@example.com,001-347-426-4908x27718,UK,South Robert,27937 John Square Apt. 111,93067,2024-07-26,37265.0,phone
+CUST_87448E8F,business,,,Miller-Zimmerman,nicholasjames@example.org,492-522-2064x47421,Australia,New Kathytown,7809 Young Radial Suite 767,10908,2024-11-14,1036209.0,email
+CUST_6E610E07,individual,Adam,Khan,,christine83@example.org,(620)750-2099,France,North Danielburgh,499 Tammy Summit,76387,2024-05-22,40885.0,sms
+CUST_85DFCB05,business,,,Davis LLC,miguel61@example.com,+1-814-572-1458,Canada,New Brian,9469 Green Ports,82190,2024-05-17,579062.0,email
+CUST_A5FED881,business,,,Mendez Group,lvasquez@example.net,843.801.0713,Australia,West Michaelborough,344 Kyle Parkways,72589,2024-04-25,966026.0,sms
+CUST_26435BFF,individual,Adam,Jennings,,randy99@example.org,(435)957-7027,Germany,Stevenchester,495 Jared Spur,43980,2025-04-08,39896.0,email
+CUST_C3DF0A64,business,,,Jones-Hernandez,morgannicholas@example.net,(299)662-9145,Netherlands,Millerbury,4384 Daniel Tunnel Apt. 317,66822,2023-09-20,293247.0,phone
+CUST_E6AC4F28,individual,Timothy,Porter,,matthewwebb@example.net,652-218-2307x6810,Germany,West Steventon,409 Fowler Fords,42559,2024-01-26,47174.0,email
+CUST_313CE2EA,individual,Justin,Patel,,rlambert@example.org,(741)709-8813,UK,Donaldport,14958 Williams Burgs,62201,2025-06-23,34875.0,phone
+CUST_9E8BA7EA,individual,Brent,Reyes,,simmonsharold@example.net,001-979-454-5381,Germany,Port Leahmouth,4773 Douglas Ridges,34324,2025-06-30,43640.0,email
+CUST_89DA6363,business,,,White-Stark,kristina57@example.com,7174157724,France,South Lisaville,148 Morales Loop Apt. 938,21344,2025-08-13,791748.0,email
+CUST_921BE52D,business,,,Jones-Clark,bmueller@example.net,983-421-9719x97581,UK,Stephanieland,965 Newman Circle,12367,2024-02-08,371497.0,sms
+CUST_DA302A4F,individual,Dominic,Carpenter,,shermandonna@example.com,+1-646-699-7335,Netherlands,Robbinsstad,098 Abbott Walk,39060,2023-10-17,37608.0,sms
+CUST_204142E4,individual,Rachel,Faulkner,,warnerlori@example.com,840-836-9656,UK,Gardnerburgh,38656 Keith Well Apt. 201,85486,2023-09-13,55304.0,sms
+CUST_B4D90FB0,individual,Jennifer,Tucker,,iproctor@example.org,(867)996-9278,Australia,Kellyburgh,097 Jennifer Grove Suite 895,04886,2025-08-17,36162.0,phone
+CUST_FEBDAF1F,individual,Ashley,Bush,,carpentersuzanne@example.org,(584)978-1891,USA,Lake Cynthiashire,058 Taylor Passage Suite 956,46758,2025-08-04,37724.0,email
+CUST_5412E36D,individual,Lauren,Roberts,,nealcarla@example.com,001-994-307-9290x4904,Netherlands,New Chase,2944 Smith Creek Apt. 927,48967,2025-04-14,32447.0,email
+CUST_50D8DCBF,individual,Jose,Haynes,,hwhite@example.org,212-692-7663x72395,Australia,North Garyfurt,7836 Wells Drive Suite 047,50571,2025-01-09,35730.0,phone
+CUST_87991C0C,individual,Suzanne,Vega,,davisamanda@example.com,(794)454-4149x67393,USA,Amytown,61817 Robinson Haven,33517,2024-01-21,33345.0,email
+CUST_D5418554,individual,Andrew,Davis,,stephanielittle@example.net,619-626-9212,Germany,Guerreroland,6542 Joshua Circle Suite 650,34348,2025-07-31,53282.0,phone
+CUST_B30DACDC,individual,Joseph,Alexander,,mkrause@example.net,(227)312-8639x1741,USA,New Jessicamouth,2006 Hernandez Isle,51793,2024-10-26,32257.0,phone
+CUST_A331F290,individual,Zachary,Case,,zmendoza@example.net,001-218-330-6719x85546,USA,Amandamouth,4328 Tammy Shore,25536,2024-04-07,39234.0,phone
+CUST_F41B5FC9,individual,Peter,Rodriguez,,tom73@example.org,6309937618,UK,Levytown,0506 Jason Shoal,87967,2024-09-18,51944.0,sms
+CUST_04D36016,business,,,"Berg, Herrera and Figueroa",sandyjohnson@example.org,407.390.3202x0417,Canada,North Tylerbury,65651 Marc Underpass,28449,2025-03-13,441839.0,email
+CUST_48BE9FF0,individual,Brittany,Rogers,,hillkatherine@example.org,001-458-227-3902x196,France,Millertown,94672 Douglas Groves,69063,2024-07-27,34296.0,phone
+CUST_ED8F7C54,individual,John,Thompson,,carlsonjennifer@example.net,345-760-8331,UK,South Kaylee,0312 Jimenez Estate,88337,2025-07-07,35643.0,phone
+CUST_5530E570,business,,,Newman LLC,ryancook@example.com,3103822078,USA,Lake Sean,3531 Perez Freeway Suite 363,10138,2024-08-11,363733.0,phone
+CUST_48DCB488,individual,Todd,Zamora,,javierlynch@example.org,(652)473-5435x2090,France,Port Stevenchester,3492 Belinda Plaza,30608,2023-11-04,42433.0,phone
+CUST_570D2693,individual,Melody,Burns,,brittanyhood@example.com,4632356939,Canada,Bairdton,806 Mendoza Union Apt. 773,11391,2024-10-14,36854.0,phone
+CUST_45C46ED7,individual,Alexander,Dennis,,davidphillips@example.net,907-942-7990,France,Port Jacqueline,7016 Schmidt Hill,56324,2025-03-05,25762.0,sms
+CUST_2B1BB2B0,individual,Helen,Salazar,,kristinmiller@example.com,001-408-350-1657x9055,Germany,East Tina,179 Karen Trace,30049,2024-04-23,36666.0,phone
+CUST_27A6FDA5,business,,,Gordon-Henderson,brownmichael@example.com,381.878.8479x51371,Netherlands,West Susan,24127 Nancy Pike,82719,2023-09-18,1159716.0,email
+CUST_6131ECE6,business,,,Montes-Weaver,thomasfisher@example.net,+1-904-931-0385x6955,Netherlands,Torresberg,43754 Eddie Haven Suite 292,93799,2024-09-27,1279806.0,email
+CUST_5CA62173,individual,Ian,Thompson,,evanwilson@example.com,001-727-745-2380,Canada,West Shane,410 Velazquez Trafficway,19556,2025-07-25,35878.0,phone
+CUST_3F6CD108,individual,Sarah,Moore,,deborah47@example.com,001-892-597-5170x28140,France,Howardmouth,398 Kimberly Trafficway,36929,2024-01-23,40510.0,email
+CUST_043B5919,individual,Christopher,Atkinson,,daughertypreston@example.com,799-780-5626x56504,Australia,Tiffanyside,76742 Chandler Mall,18794,2025-05-04,42298.0,sms
+CUST_4567CE28,individual,Carla,Thomas,,thomas85@example.org,001-961-406-4628,Australia,East Marisa,704 Snyder Streets Suite 300,20689,2024-03-12,44420.0,sms
+CUST_E2BFCFB9,individual,Stephanie,Flowers,,qmartinez@example.com,(827)630-1471x95979,Netherlands,Mccannville,904 Bonnie Drive Suite 725,21906,2023-10-10,51258.0,email
+CUST_5B764FDD,individual,Michael,Fields,,brandon48@example.net,783-621-9285,USA,Ginastad,952 Derrick Haven,49392,2025-03-24,24717.0,phone
+CUST_2C3FF0CD,business,,,Peterson-Bartlett,robinsonwesley@example.org,+1-398-488-1671,Australia,South Michaelstad,9852 Johnson Via,16045,2024-02-11,761919.0,email
+CUST_F0279059,individual,Melissa,Thomas,,kyleclark@example.org,(311)607-6031x08907,UK,North Kevintown,93932 Johnson Drive,98306,2025-07-21,40293.0,phone
+CUST_F4F1683F,business,,,"Bailey, Martin and Mason",williamjones@example.net,001-408-933-4280x13875,Canada,East Maryfurt,83615 Steven Pike Apt. 754,73525,2025-02-10,350241.0,email
+CUST_B9B5CDA9,individual,Christopher,Snyder,,mcampbell@example.net,973-386-4631x7520,France,Kimland,66912 Michael Flat,44886,2024-01-26,45588.0,email
+CUST_C7AD2899,individual,Megan,Powell,,maryhardy@example.com,001-399-346-5796x78427,UK,Tracybury,10170 Patrick Springs,43355,2023-12-22,41216.0,sms
+CUST_43B83E11,individual,Christy,Davis,,guerreroapril@example.com,234.877.8485x880,UK,South Shannonfurt,0028 Dyer Expressway Suite 624,94312,2024-06-12,50240.0,phone
+CUST_A0F8278A,business,,,Carroll Group,kalvarez@example.net,7642796954,Australia,New Brandonstad,905 Davis Key Suite 650,87171,2024-02-27,317351.0,sms
+CUST_2809E0F0,individual,Jimmy,Collins,,lozanocameron@example.com,852-608-5076,USA,Lake Terrytown,9659 Lindsey Courts Apt. 578,87976,2024-05-07,37323.0,email
+CUST_21882DBA,individual,Christina,Cox,,oharris@example.org,+1-334-340-4963,Germany,Joshuashire,3514 Reynolds Plains Suite 366,33434,2024-12-01,39118.0,sms
+CUST_7E7CEE34,individual,Shawn,Hines,,nicoleburton@example.net,(297)537-4896,Germany,Stevenbury,466 Dalton Circles,83591,2024-01-28,33968.0,phone
+CUST_6C7699AD,individual,Robert,Colon,,jonathanburke@example.com,812.830.3477,UK,East Erikberg,4820 Casey Centers,11501,2024-04-18,29197.0,phone
+CUST_6BF30A2F,individual,Kenneth,Brown,,qmosley@example.net,662-931-9818,USA,East Carolmouth,636 Drew Extensions Apt. 476,33833,2025-05-24,35951.0,sms
+CUST_F31E1C7A,individual,Brian,Ferguson,,stewartrodney@example.net,242.257.5409,USA,West Angela,518 Mia Loaf Apt. 644,12330,2025-07-17,34579.0,email
+CUST_E450947B,individual,Katherine,Evans,,ruthwelch@example.net,(704)817-7656x12481,Australia,Shawntown,272 Richard Road,40549,2024-04-18,36537.0,sms
+CUST_CA87D16B,individual,Christopher,Moore,,melaniejennings@example.com,472.842.9543x165,UK,Duffyshire,08931 Gonzalez Squares,22620,2023-10-08,50634.0,sms
+CUST_6714BD34,individual,Christine,Burke,,christopherrichardson@example.net,508-667-7133,Netherlands,Juliefurt,3934 Robert Lodge,19630,2023-09-23,44564.0,email
+CUST_F829D536,individual,Theresa,Young,,xsolomon@example.net,+1-371-207-2563x66941,Netherlands,West Sarahfort,900 Wagner Light Suite 652,73843,2023-10-02,42032.0,phone
+CUST_EDCF2650,individual,Harry,Jackson,,dconrad@example.org,458-962-4150,Germany,Juliechester,9485 Stafford Island Suite 287,07476,2024-01-18,34911.0,email
+CUST_037CCE5E,individual,Brian,White,,tgreen@example.com,(317)507-5877x71215,Australia,Henryburgh,939 Alicia Ports Apt. 613,65789,2025-01-08,34795.0,sms
+CUST_C5D15E42,individual,Paige,Johnson,,longbrittany@example.org,720-417-7749x05097,Australia,Port Brandon,0189 Davis Glens Apt. 361,03189,2025-05-17,50073.0,sms
+CUST_7F49C45C,individual,Frank,Chan,,deborah21@example.com,964.692.5158x3776,Canada,Davischester,266 Billy Junctions Suite 327,69612,2024-12-05,36030.0,email
+CUST_7DE21A82,individual,Alicia,Roberts,,zmiller@example.com,322-843-8649x0810,USA,Davisshire,4918 Daniel Shore Suite 226,06433,2023-11-01,25085.0,email
+CUST_D050973B,business,,,"Evans, Matthews and Gibson",qhanson@example.com,(232)219-4168,France,Wilsonburgh,6974 Vazquez Spurs Suite 412,18210,2023-09-12,506546.0,sms
+CUST_9D334FC9,individual,Daniel,Smith,,micheleclark@example.net,(936)883-1472,Australia,North Gabrielberg,7079 James Port Suite 050,13957,2024-12-05,37332.0,sms
+CUST_AD452D4A,individual,Jennifer,Petty,,mmclaughlin@example.net,+1-940-576-7899,UK,New Andrewshire,146 Wilson Road Suite 760,21647,2024-03-30,35069.0,phone
+CUST_2FEF3FFA,individual,James,Cooper,,williammatthews@example.net,997-424-6657x29341,Australia,East Eric,67433 Yvette Knolls Suite 522,66492,2023-09-25,28088.0,email
+CUST_EC65EC9A,business,,,Morgan Inc,davidwalker@example.com,350-284-2891x07711,Germany,East Crystalborough,47871 Deborah Isle Apt. 137,54994,2025-03-17,955095.0,phone
+CUST_FADDF696,individual,Adam,Davenport,,gpeterson@example.org,545-465-3286,Germany,Gutierrezchester,507 Kayla Stravenue Apt. 155,53146,2025-08-19,61978.0,phone
+CUST_09A621B0,individual,Frank,Brown,,kellerdarlene@example.net,2846668455,Australia,Lake Richard,997 Barron Tunnel,85534,2024-06-23,33218.0,email
+CUST_E43837C5,individual,James,Turner,,medinapeter@example.net,001-228-284-3188x4852,Australia,Johnport,105 Sims Knoll Apt. 017,39555,2024-10-24,46830.0,email
+CUST_999E7740,individual,Adam,Morgan,,lindazhang@example.net,001-389-735-4492x683,Australia,Port Kimberly,26611 Roger Curve Suite 371,48905,2025-01-08,43430.0,sms
+CUST_8F03E55B,individual,Richard,Hansen,,lwiggins@example.com,+1-367-576-2282x7728,USA,Kennedyburgh,96115 Williams Drives Apt. 545,40249,2024-04-03,37368.0,email
+CUST_37FA8C9C,individual,Anthony,Thomas,,twilliams@example.com,827.901.8510,Canada,Arielmouth,9228 Gill Shores Suite 251,82390,2024-12-30,21134.0,email
+CUST_ECD6CC2F,individual,Robert,Hall,,cmorgan@example.net,241.520.9481x813,Netherlands,Shawtown,820 Buchanan Gardens,92987,2025-05-07,33259.0,email
+CUST_578FF965,individual,Bethany,Miller,,richard07@example.org,662-460-8564x11182,UK,West Kayla,6209 White Station,08168,2024-04-06,32176.0,email
+CUST_396AA169,business,,,Flores Group,jonathan10@example.org,699.237.8861,UK,Stevenchester,0630 Spencer Radial,88987,2023-11-15,1169326.0,phone
+CUST_BADB4DF9,individual,Kathryn,Pearson,,kevinrussell@example.org,+1-283-925-8238x6870,Australia,Deniseburgh,74946 Kirby Forest,77198,2025-05-08,40555.0,sms
+CUST_26487E33,individual,Juan,Martin,,turnerrandall@example.org,(684)963-9855,Netherlands,Johnmouth,79502 Chelsea Avenue Apt. 268,91791,2025-01-28,50555.0,email
+CUST_D1333942,business,,,Medina-Cobb,ryanpatricia@example.net,515.969.5620x175,Australia,East Juliaview,19433 Coffey Camp Suite 793,01436,2024-01-23,194482.0,email
+CUST_35A17882,individual,Lori,Foster,,ashley72@example.net,499.692.1921,UK,New Jessica,08948 Smith Meadow Apt. 566,36419,2023-11-29,37119.0,sms
+CUST_1FF396CA,individual,April,Simpson,,stephensonjeffrey@example.com,(587)550-6351x90361,Canada,West Lance,76095 Wright Mountains,31743,2025-08-02,22914.0,email
+CUST_D17D8B34,business,,,Underwood PLC,sherryparsons@example.net,217.991.1006x512,Australia,West Cherylchester,08046 Davis Terrace,54385,2024-02-19,675144.0,phone
+CUST_6635EC32,individual,Carol,Keller,,chavezsteven@example.com,+1-291-350-7859x311,Germany,New David,6797 John Union Apt. 024,77115,2024-07-16,40650.0,email
+CUST_189DCD01,individual,Susan,Webster,,brandy82@example.org,249.854.5089x2038,UK,Jamesborough,53779 Christian Port,44496,2024-11-25,48544.0,phone
+CUST_7E7D538A,individual,Robert,Martin,,cwalter@example.com,703.837.9337,Germany,South Jack,0150 Douglas Mill,25981,2024-12-06,48839.0,phone
+CUST_1410F6F2,individual,Roberta,Ward,,gonzalezjustin@example.org,425-883-2302x410,USA,West Sharonport,55289 Johns Circles Apt. 223,25625,2024-09-25,32031.0,phone
+CUST_EB35FBCB,individual,Heather,Stewart,,prowland@example.org,001-999-538-4253x04289,Canada,Port Thomasland,685 Stone Fall,42683,2025-02-03,27909.0,sms
+CUST_EDB17BB9,individual,Alicia,Webb,,lwells@example.com,+1-490-733-3736x3466,UK,Andreaberg,7853 Steven Road,44590,2024-07-09,37136.0,phone
+CUST_DEA0A779,individual,Taylor,Ortiz,,ystewart@example.org,(373)641-5148,Netherlands,North David,83535 Turner Via Suite 392,99117,2025-02-06,48653.0,sms
+CUST_D9B90F1F,business,,,"Gaines, Smith and Evans",krista66@example.net,001-907-982-6333x73898,France,Latoyamouth,6377 Nicholas Ports,17323,2024-04-12,337632.0,phone
+CUST_C8A86E8A,individual,Joan,Porter,,matthew66@example.net,001-868-845-9090x22599,Australia,South Bryce,71597 Davis Cove Apt. 097,04018,2024-01-16,38685.0,email
+CUST_B91ED6FB,business,,,Pruitt Group,jamie48@example.org,805.980.2566x212,Australia,South Stephanieborough,46729 Matthews Parkway,94449,2025-01-14,663202.0,sms
+CUST_0CCFC809,individual,Joshua,Smith,,seansummers@example.net,385.697.7790,USA,Reedport,263 Rachel Street Suite 762,92057,2024-10-21,38125.0,phone
+CUST_9B83D068,individual,Phillip,Bautista,,nicolemoore@example.net,+1-341-337-6815,France,Robertburgh,80701 James Summit Suite 360,01908,2024-03-03,36781.0,sms
+CUST_6ACDBADB,individual,Jenna,Taylor,,ewashington@example.org,+1-337-427-4220,USA,Davidfurt,04275 Jay Bypass,88980,2024-09-25,26233.0,phone
+CUST_060AC4D6,individual,Scott,Williams,,myerskyle@example.org,+1-200-263-3533x106,USA,Loriland,22068 Lisa Islands,74170,2024-12-03,37532.0,email
+CUST_9165940C,individual,Colleen,Villa,,hmcmillan@example.org,815.552.0650,Germany,Robinsonview,13649 Bird Cove Apt. 419,43014,2025-08-19,38818.0,sms
+CUST_083D994E,business,,,"Price, Middleton and Wise",martinreid@example.net,571-250-9976x83890,France,West Joelchester,102 Jimenez Flats,20380,2024-06-02,240910.0,phone
+CUST_146DA09F,individual,Dawn,Young,,vstevenson@example.org,250-586-4035x533,UK,New Monique,70171 Brett Divide Apt. 212,78178,2024-10-07,48808.0,sms
+CUST_59E7B2CC,individual,Laura,Harris,,simmonsstuart@example.org,001-933-362-9344x9734,Australia,Raymondburgh,6896 Lori Underpass Suite 066,11410,2025-03-09,40675.0,sms
+CUST_58B7270C,business,,,Larson-Hernandez,jonathanford@example.com,268-797-1527x3230,UK,Sullivanchester,567 Davidson Radial Apt. 601,50940,2025-07-14,726682.0,sms
+CUST_67061ABF,business,,,Lee Group,kelsey58@example.net,950.466.3370x5024,France,Johnshire,11669 April Field,55937,2024-01-01,497990.0,email
+CUST_BAC39907,individual,Ronald,Holt,,uwillis@example.com,001-311-395-2436x40270,USA,Warrenport,25223 White Creek Suite 932,26838,2023-10-15,26244.0,phone
+CUST_F4C91BAF,individual,Ian,Malone,,tonya67@example.net,+1-512-914-1614x150,Canada,Chambersville,40901 Alexa Avenue,49740,2024-11-15,32843.0,email
+CUST_81F475D9,individual,Valerie,Juarez,,vkennedy@example.net,(255)955-3566x90551,USA,Hardyberg,184 Miguel River,90440,2024-12-26,38862.0,phone
+CUST_80438063,individual,Thomas,Gutierrez,,aaronlittle@example.com,3507573976,Germany,Crosbyfort,649 Jennifer Ways,68665,2025-06-03,38311.0,sms
+CUST_500B99B5,individual,Kristen,Moran,,andersonlaura@example.com,+1-887-227-1783x33211,UK,West Raven,47128 Davis Square Suite 399,08977,2024-12-15,47492.0,email
+CUST_0F1D09F6,individual,Nicholas,Love,,yvaldez@example.net,(733)441-4111x59319,Canada,Stephanieshire,0983 Whitney Island,48345,2025-04-06,33880.0,phone
+CUST_32201CC8,individual,Sarah,Martinez,,danielsmith@example.com,324-637-7294x20954,Germany,Welchborough,6052 Melanie Valleys Apt. 027,95842,2024-06-14,39612.0,phone
+CUST_3DF9A3A7,individual,Tracey,Hopkins,,vickiekelley@example.com,(775)266-1844x38612,UK,Stephenburgh,7423 Linda Flat,96880,2024-12-21,47129.0,sms
+CUST_1F85B15B,individual,Michael,Chase,,gregoryvanessa@example.org,(862)401-5720x1859,Australia,Sanchezville,7492 Parsons Underpass,88415,2024-12-26,25665.0,phone
+CUST_F6544DB6,business,,,Hancock-Santos,cynthia75@example.org,911-617-8309,USA,Port Brittanyfurt,649 Cory Circles Apt. 606,73384,2025-04-21,510676.0,phone
+CUST_D03DCCDC,business,,,"Freeman, Stone and Richards",molinajared@example.net,229-420-8751,France,Lake Evan,11845 Rodney Shoals Apt. 340,68585,2025-06-24,461759.0,email
+CUST_16B97021,individual,Kelly,Ferguson,,barbaraneal@example.net,(598)483-1030x324,Canada,New Michael,961 Green Run,21907,2024-06-20,31551.0,phone
+CUST_8FFDA4C9,business,,,Duffy Ltd,jbentley@example.net,814.435.9892,Germany,Victoriachester,93141 Gabriella Lodge Apt. 515,44215,2025-03-23,767024.0,email
+CUST_3FABB450,individual,Dustin,Yates,,alejandro63@example.com,712-684-9718,France,Catherineton,6258 Woods Crossroad,34456,2023-09-08,28701.0,email
+CUST_2F6AD2D2,individual,William,Moore,,douglasbradley@example.com,9536967275,France,Stephaniehaven,1465 Cynthia Club,96177,2024-02-24,38642.0,sms
+CUST_4768BE98,individual,Clayton,Johnston,,paulangela@example.com,8682277881,France,Port Julie,853 Catherine Extension Apt. 215,17975,2024-09-11,33343.0,email
+CUST_6499DB4C,individual,Stephanie,Henderson,,hjackson@example.com,+1-638-214-4744x30963,France,Staffordfort,0975 Gomez Avenue,46339,2025-06-13,32373.0,sms
+CUST_4DE2A6BF,business,,,Morales Inc,jordanjames@example.net,826.417.0243x76545,Netherlands,Danielmouth,25605 Daniel Haven Apt. 266,98008,2024-05-01,974633.0,phone
+CUST_4A7E7B8A,individual,Anthony,Wade,,rmoyer@example.org,(478)772-5686x21102,USA,Port Gabrielleton,9067 Campbell Corner Suite 392,96085,2024-09-09,30554.0,email
+CUST_D92BA22B,business,,,Campbell Inc,virginia36@example.org,618.592.3923x1260,UK,South Andres,06684 Jeffrey Meadow,63310,2023-10-16,984693.0,sms
+CUST_E2813182,individual,Ronald,Williams,,adamsjuan@example.com,001-963-650-2000x534,Canada,South Jackfort,4110 Mark Streets Suite 989,49206,2024-02-23,26796.0,email
+CUST_306204DB,individual,Joshua,Silva,,eatondavid@example.net,+1-610-993-3711x895,UK,New Jennifer,36848 Jacobson Mission,83058,2025-02-07,43606.0,email
+CUST_9BE3BB54,individual,Rhonda,Jones,,gmills@example.org,(894)924-0903,Germany,East Samuelhaven,669 Clark Alley Apt. 939,91821,2023-09-08,42089.0,phone
+CUST_C76E932B,individual,Sarah,Hunt,,kevin34@example.net,481-623-0834x024,Canada,Lake Tinaborough,59551 Bowen Lodge,80649,2024-04-04,22786.0,phone
+CUST_9E9771F0,individual,Tracie,Garrett,,hollowayjeffrey@example.com,(540)989-1649,Germany,West Joseph,73652 Davis Falls Suite 223,75167,2024-08-25,32027.0,phone
+CUST_43B3D2C6,individual,Jessica,Holland,,collinsnicole@example.com,+1-393-812-1637x61820,Canada,Smithtown,31429 Laura Branch,14439,2024-10-02,35878.0,sms
+CUST_A27182E6,individual,Loretta,Farrell,,harristimothy@example.net,224.257.2308x481,France,New Kennethhaven,03036 Hernandez Shoal Suite 361,64964,2024-01-03,32591.0,sms
+CUST_0999106B,individual,Daniel,Garcia,,michael95@example.org,(410)692-2685x926,USA,Michaelville,5410 Kimberly Drive Suite 267,95048,2025-04-06,40468.0,phone
+CUST_77BBAAEA,individual,Tiffany,Briggs,,lanesusan@example.com,(815)922-6557,UK,Guzmanmouth,366 Ryan Park,70293,2024-09-27,46394.0,phone
+CUST_246E43A0,individual,Jerry,Miller,,xrose@example.net,001-231-735-0305x8721,Canada,Melindaberg,2863 Maria Centers Apt. 126,96587,2023-09-21,23039.0,phone
+CUST_05790F32,individual,Tammie,Watson,,batescharles@example.net,(802)452-1310,Australia,South Julia,6570 Rodriguez Circle Apt. 928,21518,2023-09-09,41982.0,email
+CUST_1BB3988A,individual,Marissa,Frazier,,qspencer@example.net,543.862.4186x23690,UK,Port Julie,775 Wilcox Expressway,07666,2025-04-11,55585.0,email
+CUST_1F2BD5FE,individual,Deborah,Lee,,garciamichael@example.com,2346281139,Australia,New James,41990 Williams Island,12718,2025-07-22,48529.0,email
+CUST_CD4BDA45,business,,,Hooper LLC,uporter@example.com,001-952-215-6818x2096,Netherlands,Evanmouth,133 Kayla Estates,66249,2024-09-13,419732.0,phone
+CUST_41D2E64D,individual,Jessica,Curtis,,seth25@example.com,(996)306-3399x129,Netherlands,East Katieport,1752 Martin Harbors,76065,2024-05-24,38446.0,email
+CUST_D8ECE8BD,individual,Christopher,White,,escott@example.com,001-772-719-7054x66927,USA,Christopherchester,0903 Eric Cove Suite 629,52835,2025-05-18,35638.0,sms
+CUST_D19B4107,individual,Jeffrey,Sawyer,,baileytaylor@example.net,711.921.6636x515,UK,Lake Judith,7082 Thomas Forest,42468,2024-10-21,38494.0,sms
+CUST_26F666B1,business,,,"Schroeder, Brown and Stokes",nirwin@example.org,606.844.2121,France,West Morganmouth,342 Christopher Meadow Suite 423,46281,2025-07-21,438974.0,phone
+CUST_54A46B26,individual,Timothy,Nichols,,tammykim@example.net,001-460-789-3199,Canada,Alexismouth,5164 Vanessa Village,16979,2024-12-08,34353.0,sms
+CUST_B644F673,business,,,"Montes, Davis and Robinson",robertpayne@example.org,+1-663-353-3905x504,France,Banksmouth,5586 Wilson Fall Suite 652,72951,2024-11-09,629287.0,phone
+CUST_8CF4BC74,individual,Amy,James,,swalters@example.net,311-910-9617,France,Lake Kellychester,78613 Sampson Keys,61311,2024-06-29,30334.0,sms
+CUST_837F965E,individual,Lori,Padilla,,xsmith@example.org,744.744.6306x00025,Australia,New Victoria,639 Poole Unions,76241,2024-07-11,40602.0,email
+CUST_1EB177F3,individual,Sheila,Myers,,richardflores@example.org,(331)228-1964x82531,Netherlands,Smithshire,98196 Julia Curve,59969,2024-12-08,59131.0,sms
+CUST_4911C8DF,individual,Kimberly,Lopez,,kennethnichols@example.org,001-364-304-1209x1179,Canada,West Jose,17536 Travis Brooks,54731,2023-10-25,33153.0,sms
+CUST_218CDEAD,business,,,"Jones, Mcdaniel and Brooks",cynthia72@example.org,202-499-0155x7998,UK,Saraborough,088 Javier Lakes,15546,2025-06-19,1449883.0,sms
+CUST_6281AC1B,business,,,Murphy and Sons,lunashelby@example.com,573-615-8477x686,Australia,East Gloria,1994 Laura Stravenue Suite 676,78663,2025-03-01,795538.0,phone
+CUST_8AAC9854,business,,,Dean-Lawson,wgonzalez@example.com,+1-817-220-8496x4985,Canada,East Lisachester,3135 Thomas Island,16531,2023-09-09,651072.0,sms
+CUST_B3523C2C,individual,Haley,Love,,stevenpope@example.org,+1-616-349-3831,France,Flemingchester,3307 Williams Harbor Suite 117,22932,2024-11-14,25138.0,email
+CUST_C7E3195D,individual,Brittany,Young,,mitchelldawn@example.net,7742260880,Australia,South Codychester,5561 Snyder Causeway Suite 477,84530,2025-08-08,36841.0,phone
+CUST_B1723DAC,individual,David,Brooks,,johnsonbrandon@example.org,(215)263-2135,Australia,Nicoleton,41459 Nelson Extension,18557,2024-11-01,48976.0,email
+CUST_ABCEE410,individual,David,Flores,,karenbarron@example.com,+1-371-688-3977x4573,Australia,Jenniferstad,311 Brown Bridge,88384,2024-02-06,35767.0,phone
+CUST_B518BB1C,individual,Lori,Lopez,,petersonlisa@example.net,554.872.8123x56798,UK,North Joshua,491 Steven Coves,98153,2023-11-21,52207.0,email
+CUST_E55713CA,individual,Allen,Murray,,anthony87@example.com,718-215-6326x868,USA,Nelsonville,663 Lopez Fall,78364,2024-03-21,24805.0,email
+CUST_0F5DF4F5,individual,Catherine,Stone,,maldonadodebbie@example.org,310.609.4318,Australia,New Holly,6134 Harris Turnpike Apt. 549,38246,2025-02-19,36820.0,phone
+CUST_30E29815,individual,Clinton,Gordon,,sstevenson@example.org,(951)822-5720,France,Andrewview,09579 Tracy Gateway,62441,2023-11-20,30544.0,email
+CUST_AF0039C1,individual,Lori,Bradley,,mary88@example.org,001-921-214-5775x84745,UK,Kevinmouth,48026 Donna Divide Suite 703,76206,2025-02-24,33457.0,phone
+CUST_B83A90BB,individual,Teresa,Howard,,leestephanie@example.net,848-878-2455,UK,Kyleton,167 Roberts Branch Suite 272,69076,2025-08-08,53595.0,email
+CUST_15C23D98,individual,Cindy,Beck,,tommy14@example.org,203.249.1074x065,USA,Devinport,42369 Kelly Bypass,62521,2025-07-14,43469.0,phone
+CUST_BF3D89E6,individual,John,Gregory,,ghenderson@example.com,594-629-6592x3426,USA,Christophershire,266 Dillon Mills Suite 857,46925,2024-07-10,39630.0,email
+CUST_0188372B,individual,Robert,Jenkins,,gainesanthony@example.com,629-243-9852,UK,Martineztown,701 Joseph Run Apt. 591,38587,2024-10-19,50774.0,phone
+CUST_502ACD60,business,,,"Rivera, Brown and Yang",mileszachary@example.net,001-272-432-4407x9311,Canada,New Collinborough,0876 Sara Hills,53527,2024-08-20,675227.0,email
+CUST_9FB2CB83,individual,Jack,Young,,lorraine79@example.org,(320)922-3288x37744,Australia,Elizabethfurt,176 Hernandez Haven Suite 196,01945,2024-10-30,46027.0,email
+CUST_AD5E8B8D,individual,Austin,Santos,,wwilliams@example.org,374.402.5883x586,Netherlands,West Diana,2446 Sabrina Rue Suite 679,86873,2024-01-11,52746.0,email
+CUST_8488EB9E,individual,Jeanette,Hunter,,david59@example.net,(999)761-0023x117,Australia,Port Lindsey,26610 Wilson Vista,98796,2023-10-25,38204.0,sms
+CUST_4ED9C082,individual,Kathryn,Obrien,,mcleanmanuel@example.net,562.498.3347x743,USA,Cervantesborough,013 Lisa Avenue,47629,2025-03-21,27967.0,email
+CUST_4D19B1B4,individual,Ashley,Lin,,jacob87@example.org,397.985.5982,UK,Garrettland,84117 Brett Plains,43875,2023-09-18,35117.0,sms
+CUST_7D517DC9,individual,Lori,Roberts,,peter51@example.org,318-993-8984x6908,Australia,Deniseton,4350 James Viaduct Suite 037,10057,2025-04-12,51916.0,email
+CUST_8A732145,business,,,"Strong, Warner and Cannon",reedchad@example.com,+1-591-787-2401x078,Germany,Woodsbury,03896 Angela Center,51242,2025-03-14,358652.0,email
+CUST_823B7804,individual,Heather,Jordan,,hdunn@example.com,595-353-5603,UK,East Robertside,30102 White Cape,41674,2024-05-14,42495.0,phone
+CUST_B4F5D4A4,business,,,"Zamora, Bolton and Anderson",hmendoza@example.net,614-783-7537,USA,Mistybury,8810 Mccullough Squares Suite 413,18475,2025-05-09,604064.0,phone
+CUST_37DBD697,individual,Abigail,Torres,,davidhardy@example.org,6378710704,USA,Margaretland,9670 Cruz Cape,29919,2024-01-30,27837.0,phone
+CUST_71C9938C,individual,Jack,Jordan,,guerreroanthony@example.com,8958493059,Germany,Port Danielfurt,769 Martin Light Suite 320,37292,2025-04-08,60132.0,email
+CUST_442F6934,individual,Stephanie,Miller,,kelseyphillips@example.net,(609)445-4490x1495,Canada,Fordmouth,0578 Ricky Prairie,10927,2024-03-22,28853.0,phone
+CUST_A9697ADA,individual,Cheryl,Edwards,,alexanderjonathan@example.com,972-732-2903x102,Netherlands,New Jenniferton,0580 Michael Club Suite 181,31562,2024-01-29,33408.0,sms
+CUST_F37C37EB,individual,Ashley,Calderon,,bjones@example.com,(605)295-5657,USA,West Bradley,019 Lindsey Pass,94318,2025-03-25,36404.0,sms
+CUST_44214E87,individual,William,Perkins,,shelby69@example.org,+1-226-911-3989x86818,Netherlands,Stewartborough,53537 Goodman Crescent Apt. 765,10946,2024-05-16,35854.0,sms
+CUST_96A6A648,business,,,"Jones, Cox and Washington",shanebarnes@example.net,(783)769-2944,UK,North Rickyhaven,732 Smith Crest,55371,2024-03-12,1061927.0,sms
+CUST_8EE608EB,individual,Angela,Conrad,,martinezaustin@example.com,4218288665,Australia,Lake Kelly,9991 Charles Knoll Suite 676,38418,2025-03-08,36284.0,phone
+CUST_B075B765,individual,Isabel,Quinn,,hernandezalan@example.net,(976)757-2894x134,France,New Zacharyhaven,5652 Bobby Street Apt. 684,75885,2025-06-05,45428.0,phone
